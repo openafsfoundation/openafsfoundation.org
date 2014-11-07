@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text.html;charset=utf-8">
+  <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
+  <title>
+    {% if page.title_full %}
+      {{ page.title_full }}
+    {% elsif page.title_prefix %}
+      {{ page.title_prefix }} - {{ page.title }}
+    {% elsif page.title %}
+      The OpenAFS Foundation - {{ page.title }}
+    {% else %}
+      The OpenAFS Foundation
+    {% endif %}
+  </title>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/ui/screen.css">
+  {% for filename in page.extra-css %}
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/ui/{{ filename }}">
+  {% endfor %}
+</head>
+<body>
+  <div id="header">
+    <div class="container">
+      <img src="{{ site.baseurl }}/ui/img/openafs-logo.png">
+      <div class="logo-text">
+        <h1>The OpenAFS Foundation</h1>
+        <p id="main-tagline">Your tagline goes here</p>
+      </div>
+    </div>
+  </div>
+  <div id="navigation">
+    <div class="container">
+      <ul>
+      {% for item in site.navigation %}
+        <li><a href="{{ site.baseurl }}/{{ item.url }}">{{ item.name }}</a></li>
+      {% endfor %}
+      </ul>
+      <div id="searchbox">
+        <form method="GET" action="http://www.google.com/search">
+	  <input type="hidden" name="ie" value="utf-8">
+	  <input type="hidden" name="as_sitesearch" value="openafsfoundation.org">
+          <input type="text" name="q" size="25" placeholder="Google search">
+          <input type="submit" id="searchbutton" value="SEARCH" >
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div id="content">
+    <div class="container normalpage">
+      {{ content }}
+    </div>
+  </div>
+  <div id="footer">
+    <div class="container">
+      <a href="mailto:webmaster@openafsfoundation.org">webmaster@openafsfoundation.org</a>
+    </div>
+  </div>
+</body>
+</html>
