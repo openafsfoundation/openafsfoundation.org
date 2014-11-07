@@ -28,3 +28,5 @@ navigation:
     url: docs/
   - name: Board
     url: board/
+  - name: Contact
+    url: contact/
