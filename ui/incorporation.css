@@ -1,0 +1,13 @@
+---
+---
+
+/* CSS rules for incorporation.html */
+
+table.directors {
+  border-collapse: collapse;
+}
+
+table.directors, table.directors th, table.directors td {
+  border: 1px solid black;
+  padding: 5px;
+}
