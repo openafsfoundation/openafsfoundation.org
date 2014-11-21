@@ -3,6 +3,10 @@
 # Disable custom plugins (this is how "Github pages" runs)
 safe: true
 
+kramdown:
+  # Disable "smart quotes"/"curly quotes"
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
 defaults:
   # For all pages, default to the 'page' layout
   - scope:
