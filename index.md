@@ -1,7 +1,7 @@
 ---
 ---
 
-<h2>Overseeing OpenAFS</h2>
+## Overseeing OpenAFS ##
 
 The OpenAFS Foundation is a non-profit consortium dedicated to fostering the
 stability and growth of the OpenAFS implementation of AFS. You will not find
