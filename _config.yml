@@ -34,3 +34,5 @@ navigation:
     url: board/
   - name: Contact
     url: contact/
+  - name: Support OpenAFS
+    url: support/
