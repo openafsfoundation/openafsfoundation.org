@@ -1,12 +1,19 @@
 ---
+title: Official Documents
 ---
 
 ## Official Documents ##
 
-HTML versions of each document are provided for convenience when feasible, and
-should not differ from the PDF version provided. If there are any differences,
-the PDF versions are to be considered authoritative over the HTML version.
-
-* Articles of Incorporation: \[[PDF](openafs-foundation-incorporation.pdf)\] \[[HTML](incorporation.html)\]
-* Bylaws: \[[PDF](openafs-foundation-bylaws.pdf)\] \[[HTML](bylaws.html)\]
-* Accepted Incorporation: \[[PDF](openafs-foundation-accepted-incorporation.pdf)\]
+* [Articles of Incorporation](openafs-foundation-incorporation.pdf)
+* [Bylaws](openafs-foundation-bylaws.pdf)
+* Conflict of Interest Policy
+* Code of Ethics Policy
+* Whistleblower Protection Policy
+* Board of Directors
+* Assignment of Federal Tax ID Number
+* Application Form SS-4
+* Assignment of FEIN by IRS
+* Annual tax returns
+* License Agreement for the use of the AFS and OpenAFS trademarks
+* Future Agreements
+* Board resolutions
