@@ -1,9 +1,32 @@
 ---
+title: Meet the Board
 ---
 
 ## Meet the Board ##
 
-### David Boldt ###
+The OpenAFS Foundation is run by a Board of Directors, consisting of
+volunteers. Specific Board members also fill the roles of Executive Director
+(who heads the board), Secretary, and Treasurer. Any new Board members must be
+appointed by the existing Board.
+
+### Dave Botsch (2014 - present) ###
+
+Dave Botsch is with the Cornell NanoScale Science and Technology Facility.  At
+the CNF, Dave manages technology solutions (including OpenAFS) for the problems
+and workflows of both users and staff. Also as part of his job, he works to
+foster collaboration among the wider Cornell IT community.
+
+Dave has a Bachelors in Computer Science from Cornell University in Ithaca, New
+York.
+
+Dave has been a member of the OpenAFS community for some time, with his
+involvement in the OpenAFS newsletter, previous iterations of the OpenAFS wiki,
+and writing the OpenAFS Tokens gui application for Linux and for Mac. Dave is
+looking forward to continuing to work with the OpenAFS community.
+
+Dave can be reached at <botsch@cnf.cornell.edu>.
+
+### David Boldt (2014 - present) ###
 
 David Boldt of the US Geological Survey (USGS) has been using AFS since 2001 as
 part of a project to provide resilient web service which could survive the loss
@@ -25,7 +48,9 @@ management, documentation, software training, web site production and customer
 support over the years. He hopes to be able to contribute back to the OpenAFS
 community with any and all of the skills he acquired on this career path.
 
-### E. Margarete Ziemer ###
+David can be reached at <dboldt@usgs.gov>.
+
+### E. Margarete Ziemer (2013 - present) ###
 
 E. Margarete Ziemer, Ph.D., is co-founder and CEO of Sine Nomine Associates, a
 vendor-neutral research and engineering consultancy dedicated to objectively
@@ -41,25 +66,9 @@ Association at her alma mater in Princeton, a Women’s Leadership Group serving
 the Washington, DC, metro area, mentoring in a program by Women in Technology
 in the capitol, and a successful East Coast animal rescue.
 
-### Roman Mitz ###
+Dr. Ziemer can be reached at <emziemer@sinenomine.net>.
 
-Roman Mitz is the Senior Manager of the Systems Development group inside
-Computing Services at Carnegie Mellon University.  His experience with AFS
-started in 1996 as a user, 2003 as an administrator, and he joined the OpenAFS
-Elders in 2010, where he is currently the treasurer.
-
-Roman received his BS in Computer Science from Carnegie Mellon while working
-full-time as the lone IT administrator in the Center for the Neural Basis of
-Cognition.  His lengthy experience at Carnegie Mellon as an IT professional
-spans a variety of departments and roles; in addition to those already
-mentioned, he was the Senior UNIX Systems Administrator for Electrical and
-Computer Engineering, Senior Research Systems Programmer for the Middleware
-team in Computing Services, and Server Systems Manager/Acting IT Director for
-the Carnegie Mellon Qatar Campus.  At the Qatar campus he was instrumental in
-the setup and operation of its complex computing environment from its opening
-in 2004 to his return to the United States in 2007.
-
-### Thomas Keiser ###
+### Thomas Keiser (2013 - present) ###
 
 Thomas Keiser has, throughout the past eight years, been closely involved with
 OpenAFS development and AFS3 protocol standardization.  During his tenure with
@@ -77,12 +86,14 @@ University.  His research and publications primarily focus on autonomous,
 distributed systems; distributed control; and sensor networks.  While recently
 embarking on a new career as an Illumos kernel engineer with Nexenta Systems,
 Inc., Thomas remains committed to the theoretical first principles exemplified
-by the AFS3 protocol.  He believes that--notwithstanding twenty-five subsequent
-years of technical innovation--the balance of management, interoperability,
+by the AFS3 protocol.  He believes that &mdash; notwithstanding twenty-five subsequent
+years of technical innovation &mdash; the balance of management, interoperability,
 cache consistency, and geographic distribution features, as uniquely embodied
 in the AFS architecture, render AFS peerless.
 
-### Todd DeSantis ###
+Thomas can be reached at <tkeiser@gmail.com>.
+
+### Todd DeSantis (2013 - present) ###
 
 Todd DeSantis is a Senior Systems Support Engineer for IBM Corporation.  Todd
 has been working with AFS since he joined the Transarc Corporation in 1993 as
@@ -91,7 +102,9 @@ within the AFS Support Team to include support, development and management of
 the technical direction of the AFS Developers Team.  Todd and his Team support
 both IBM AFS and OpenAFS platforms.  He joined the OpenAFS Elders in 2005.
 
-### Daria Brashear ###
+Todd can be reached at <atd@us.ibm.com>.
+
+### Daria Brashear (2013 - present) ###
 
 Daria Brashear has been involved with OpenAFS since its inception.  As a
 student at Carnegie Mellon in the 1990s, Daria took an interest in the
@@ -116,3 +129,12 @@ derived from the original AFS3 implementation and principles dating back to the
 1980s, principles she believes are ahead of their time and still relevant to
 modern data consumers. She seeks to continue to enhance this technology in order
 to bring it to ever more users.
+
+Daria can be reached at <shadow@your-file-system.com>.
+
+### Former Board Members ###
+
+The following were Board members at some point in the past, but have since
+resigned. The current Board thanks them for their service to The Foundation.
+
+* Roman Mitz (2013 - 2014)
