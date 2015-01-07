@@ -29,7 +29,7 @@ corporation: currently exists legally as a for-profit-corporation-with-the-inten
     on a local disk. Information about the OpenAFS software itself can be found
     on <a href="http://www.openafs.org/">openafs.org</a>.</p>
 
-    <h4>How can I help?</h4>
+    <h4>How can you help?</h4>
     <p>There are several ways that you can help OpenAFS, whether by donating
     money, equipment, or time and effort. More details can be found <a
     href="support/">here</a>.</p>
