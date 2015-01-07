@@ -4,7 +4,7 @@ title: Official Documents
 
 ## Official Documents ##
 
-### Foundation-Internal Documents ###
+### Internal Foundation Documents ###
 
 These documents exist to define various policies of The Foundation, or to
 provide information to the public about The Foundation.
