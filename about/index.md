@@ -19,7 +19,7 @@ The OpenAFS Foundation adopted a three-fold mission:
 We expect our activities for accomplishing our mission to be diverse, but our
 vision includes that the OpenAFS Foundation facilitate the following:
 
-1.  In order to attract and increase the community of OpenAFS users, the
+1.  In order to attract and increase the community of OpenAFS users, The
     Foundation plans to:
 
     1. Offer OpenAFS and associated technologies to all members of the general
@@ -37,7 +37,7 @@ vision includes that the OpenAFS Foundation facilitate the following:
     4. Seek contributions by persons and organizations of any kind, via gifts,
        grants, contributions, "in kind" or other donation
 
-2.  In order to foster the OpenAFS community of experts, The Foundation plans
+2.  In order to foster the OpenAFS community of experts, The Foundation intends
     to:
 
     1. Seek contributions in both skills and talent (mentoring, conference
@@ -71,7 +71,7 @@ by volunteers who accepted the roles of Treasurer or Secretary. The Board of
 Directors oversees, and has final authority over, all activities within The
 OpenAFS Foundation, Inc.
 
-Under the umbrella of the Foundation's leadership, a variety of work groups will be set up.  Some of these groups will have ongoing tasks (e.g., a AFS Standardization Work Group), while others will serve on a temporary basis (e.g., a group organizing a specific Best Practices Workshop).  The Foundation welcomes proposals for work groups emerging out of the community; each proposal should be submitted in writing to the Secretary of the Board of Directors, who in turn will present it to the Board of Directors, and should indicate the suggested leader(s), goal(s), map for achieving those goals, timelines, and other information that might aid the Board of Directors in casting an affirmative vote on the acceptance of the proposed work group. 
+Under the umbrella of The Foundation's leadership, a variety of work groups will be set up.  Some of these groups will have ongoing tasks (e.g., a AFS Standardization Work Group), while others will serve on a temporary basis (e.g., a group organizing a specific Best Practices Workshop).  The Foundation welcomes proposals for work groups emerging out of the community; each proposal should be submitted in writing to the Secretary of the Board of Directors, who in turn will present it to the Board of Directors, and should indicate the suggested leader(s), goal(s), map for achieving those goals, timelines, and other information that might aid the Board of Directors in casting an affirmative vote on the acceptance of the proposed work group. 
 
 Among the OpenAFS Foundation's central values are fairness and transparency.
 We believe that not only the lines of authority and the various tasks should be
