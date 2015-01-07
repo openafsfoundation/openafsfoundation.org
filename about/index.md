@@ -94,11 +94,9 @@ May 20, 2013. The Foundation's federal Employer Identification Number (EIN) is
 defining The Foundation are available on [our documents
 page]({{ site.baseurl }}/docs/}}).
 
-While The Foundation was incorporated with the intent of being awarded a
-non-profit tax status by the IRS, any corporation like ours will start with a
-for-profit tax status until the IRS has indeed granted a non-profit status.
-This means that, until and unless awarded a non-profit status by the IRS,
-corporate tax returns must be filed as for-profit entity. Our tax returns are
+While The Foundation was incorporated in the Commonwealth of Pennsylvania as a non-profit corporation, we aim at achieving a non-profit status on the national level and, to that effect, request said national status with the IRS.  During this national non-profit application process with the IRS, The Foundation will be a non-profit corporation on the State level while being viewed as a for-profit-corporation-with-the-intent-to-become-a-non-profit-corporation on the Federal level.
+This means that, until and unless awarded a Federal non-profit status by the IRS,
+Federal corporate tax returns must be filed as for-profit entity. Our tax returns are
 publicly available, and can be viewed [here]({{site.baseurl}}/docs/finances/).
 
 The OpenAFS Foundation also makes use of the common law trademarks "AFS" and
