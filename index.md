@@ -16,8 +16,8 @@ corporation: currently exists legally as a for-profit-corporation-with-the-inten
     maintenance of OpenAFS. More
     details can be found <a href="about/">here</a>.</p>
 
-    <h4>Who runs The Foundation?</h4>
-    <p>The OpenAFS Foundation is run by a <a href="board/">Board of 
+    <h4>Who leads The Foundation?</h4>
+    <p>The OpenAFS Foundation is spear-headed by a <a href="board/">Board of 
     Directors</a>. This Board consists of volunteers, who are primarily OpenAFS
     users, community leaders, or other prominent members of the OpenAFS
     community.</p>
