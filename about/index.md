@@ -68,14 +68,14 @@ The OpenAFS Foundation, Inc., is guided by our
 experienced individuals who agreed to volunteer for this leadership challenge.
 The Board of Directors has an Executive Director as its head, and is supported
 by volunteers who accepted the roles of Treasurer or Secretary. The Board of
-Directors oversees and has final authority over all activities within The
+Directors oversees, and has final authority over, all activities within The
 OpenAFS Foundation, Inc.
 
 Among the OpenAFS Foundation's central values are fairness and transparency.
 We believe that not only the lines of authority and the various tasks should be
 disclosed, but also the financial status of the OpenAFS Foundation. All moneys
 were donated to The Foundation and its causes by individuals or organizations
-wishing to support both our mission and our vision. And so, information about
+wishing to support both our mission and our vision. Thus, information about
 our financials is always available [here]({{site.baseurl}}/docs/finances/). In
 addition, the [Code of Ethics](XXXbrokenlink), the [Conflict of Interest
 Policy](XXXbrokenlink), the [Whistleblower Protection Policy](XXXbrokenlink)
