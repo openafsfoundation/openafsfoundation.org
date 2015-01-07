@@ -4,10 +4,12 @@ title: Meet the Board
 
 ## Meet the Board ##
 
-The OpenAFS Foundation is run by a Board of Directors, consisting of
+The OpenAFS Foundation is being lead by a Board of Directors, consisting of
 volunteers. Specific Board members also fill the roles of Executive Director
 (who heads the board), Secretary, and Treasurer. Any new Board members must be
 appointed by the existing Board.
+
+The overview of the individual Directors on the Board below offers a brief summary of their relevant professional credentials.  The individuals are listed in alphabetical order by their last names.
 
 ### Dave Botsch (2014 - present) ###
 
