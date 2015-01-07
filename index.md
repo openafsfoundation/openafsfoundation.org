@@ -31,7 +31,10 @@ corporation: currently exists legally as a for-profit-corporation-with-the-inten
 
     <h4>How can you help?</h4>
     <p>There are several ways that you can help OpenAFS, whether by donating
-    money, equipment, or time and effort. More details can be found <a
-    href="support/">here</a>.</p>
+    <a
+    href="support/">money</a>, <a
+    href="support/">equipment</a>, <a
+    href="support/">time and effort</a> or <a
+    href="support/">talent</a>.</p>
   </div>
 </div>
