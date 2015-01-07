@@ -26,13 +26,20 @@ defaults:
 navigation:
   - name: Home
     url: ''
+
   - name: About
+    id: about
     url: about/
-  - name: Documents
-    url: docs/
-  - name: Board
-    url: board/
+    children:
+      - name: Documents
+        url: docs/
+      - name: Board
+        url: board/
+
   - name: Contact
+    id: contact
     url: contact/
+
   - name: Support OpenAFS
+    id: support
     url: support/

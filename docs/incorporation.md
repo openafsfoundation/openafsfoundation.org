@@ -1,5 +1,6 @@
 ---
 extra-css: ["incorporation.css"]
+nav: about
 ---
 
 ARTICLES OF INCORPORATION

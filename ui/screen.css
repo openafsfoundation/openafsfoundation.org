@@ -96,44 +96,54 @@ a img {
   font-size: 0.9230769231em; /* 12 / 13 */
 }
 
-
 /* Navigation
 *************************************************************************************/
 
 /* Navigation */
-#navigation {
+.navigation {
   clear: both;
   background: #171e71;
-  height: 50px; /* bg is 50px */
-  margin: auto;
-  padding: 0 10px;
   /* overflow:hidden will not work in IE 6, may need to use eg. display:table */
   overflow: hidden;
   font-size: 9pt;
 }
 
+.nav-active, .subnavigation {
+  background: #484F9C;
+}
+
+.subnavigation ul {
+  margin: 0px;
+}
+
+.subnavigation ul a {
+  font-size: 0.92307em; /* 12 / 13 */
+}
+
 /* Navigation: Unordered List */
-#navigation ul {
+.navigation ul {
   list-style: none outside none;
   float: left;
-  padding: 0;
-  margin-top: 16px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 /* Navigation: Unordered List: List Item */
-#navigation ul li {
+.navigation ul li {
   float: left;
   padding: 0 0.8em;
+  padding-top: 4px;
+  padding-bottom: 8px;
 }
 
 /* Navigation: Anchor */
-#navigation a {
+.navigation a {
   color: #fff;
   font-size: 1.0769230769em; /* 14 / 13 */
 }
 
 /* Navigation: Search Box */
-#navigation #searchbox {
+.navigation #searchbox {
   margin-top: 13px;
   float: right;
   background-color: #fff;
@@ -141,14 +151,14 @@ a img {
 }
 
 /* Navigation: Search Box: Input */
-#navigation #searchbox input {
+.navigation #searchbox input {
   background-color: #fff;
   border: 0px #fff solid;
   height:20px;
 }
 
 /* Navigation: Search Box: Search Button */
-#navigation #searchbox #searchbutton {
+.navigation #searchbox #searchbutton {
   color: #bbb;
   font-size: 8pt;
 }

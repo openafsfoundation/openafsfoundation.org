@@ -1,5 +1,6 @@
 ---
 title: Finances
+nav: about
 ---
 
 ## Finances ##

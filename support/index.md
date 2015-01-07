@@ -1,5 +1,6 @@
 ---
 title: Support OpenAFS
+nav: support
 ---
 
 ## Support OpenAFS ##

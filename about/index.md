@@ -1,5 +1,6 @@
 ---
 title: About Us
+nav: about
 ---
 
 ## About The Foundation ##

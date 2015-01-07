@@ -32,11 +32,15 @@
       </div>
     </div>
   </div>
-  <div id="navigation">
+  <div class="navigation">
     <div class="container">
       <ul>
       {% for item in site.navigation %}
+        {% if page.nav and page.nav == item.id %}
+        <li class="nav-active"><a href="{{ site.baseurl }}/{{ item.url }}">{{ item.name }}</a></li>
+        {% else %}
         <li><a href="{{ site.baseurl }}/{{ item.url }}">{{ item.name }}</a></li>
+        {% endif %}
       {% endfor %}
       </ul>
       <div id="searchbox">
@@ -47,6 +51,19 @@
           <input type="submit" id="searchbutton" value="SEARCH" >
         </form>
       </div>
+    </div>
+  </div>
+  <div class="navigation subnavigation">
+    <div class="container">
+    {% for item in site.navigation %}
+      {% if page.nav == item.id %}
+      <ul>
+        {% for child in item.children %}
+        <li><a href="{{ site.baseurl }}/{{ child.url }}">{{ child.name }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    {% endfor %}
     </div>
   </div>
 

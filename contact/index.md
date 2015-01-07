@@ -1,5 +1,6 @@
 ---
 title: Contact
+nav: contact
 ---
 
 ## Contact ##
