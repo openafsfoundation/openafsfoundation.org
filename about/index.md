@@ -83,10 +83,10 @@ addition, the [Code of Ethics](XXXbrokenlink), the [Conflict of Interest
 Policy](XXXbrokenlink), the [Whistleblower Protection Policy](XXXbrokenlink)
 will aid you in understanding other core values of the OpenAFS Foundation. 
 
-### Legal Status ###
+### Current Legal Status ###
 
-The OpenAFS Foundation, Inc. currently exists as a for-profit corporation
-incorporated in the State of Pennsylvania, but is actively pursuing non-profit
+The OpenAFS Foundation, Inc. currently exists as a non-profit corporation
+incorporated in the State of Pennsylvania, but is actively pursuing federal non-profit
 status. The Foundation's Entity Number is 4189117, assigned by the Pennsylvania
 Department of State's Bureau of Corporations and Charitable Organizations on
 May 20, 2013. The Foundation's federal Employer Identification Number (EIN) is
@@ -94,10 +94,10 @@ May 20, 2013. The Foundation's federal Employer Identification Number (EIN) is
 defining The Foundation are available on [our documents
 page]({{ site.baseurl }}/docs/}}).
 
-While The Foundation was incorporated in the Commonwealth of Pennsylvania as a non-profit corporation, we aim at achieving a non-profit status on the national level and, to that effect, request said national status with the IRS.  During this national non-profit application process with the IRS, The Foundation will be a non-profit corporation on the State level while being viewed as a for-profit-corporation-with-the-intent-to-become-a-non-profit-corporation on the Federal level.
-This means that, until and unless awarded a Federal non-profit status by the IRS,
-Federal corporate tax returns must be filed as for-profit entity. Our tax returns are
-publicly available, and can be viewed [here]({{site.baseurl}}/docs/finances/).
+While The Foundation was incorporated in the State of Pennsylvania as a non-profit corporation, we aim at achieving a non-profit status on the national level and, to that effect, request said national status with the IRS.  During this national non-profit application process with the IRS, The Foundation will be a non-profit corporation on the state level while being viewed as a for-profit-corporation-with-the-intent-to-become-a-non-profit-corporation on the federal level.
+This means that, until and unless awarded a federal non-profit status by the IRS,
+federal corporate tax returns must be filed as for-profit entity. However, if and when said federal non-profit status will be awarded, that status will apply retroactively to the date of the application, i.e. to June 4, 2013.  Our specific tax returns are
+publically available, and can be viewed [here]({{site.baseurl}}/docs/finances/).
 
 The OpenAFS Foundation also makes use of the common law trademarks "AFS" and
 "OpenAFS" that are owned by IBM. IBM granted the right to use these trademarks
