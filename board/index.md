@@ -111,7 +111,7 @@ Todd can be reached at <atd@us.ibm.com>.
 Derrick Brashear -- who prefers to be called "Daria" -- has been involved with OpenAFS since its inception.  As a
 student at Carnegie Mellon in the 1990s, Daria took an interest in the
 distributed computing environment to which Daria had been newly exposed, which led
-to the acquisition of a used Sun workstation that resulted in Daria's
+to the acquisition of a used Sun workstation that, in turn, resulted in Daria's
 current role.
 
 While working as a student, and then a staff member as a sysadmin and
