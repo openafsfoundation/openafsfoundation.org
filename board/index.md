@@ -52,7 +52,7 @@ community with any and all of the skills he acquired on this career path.
 
 David can be reached at <dboldt@usgs.gov>.
 
-### E. Margarete Ziemer (10/2013 - present) ###
+### E. Margarete Ziemer (09/2012 - present) ###
 
 E. Margarete Ziemer, Ph.D., is co-founder and CEO of Sine Nomine Associates, a
 vendor-neutral research and engineering consultancy dedicated to objectively
@@ -70,7 +70,7 @@ in the capitol, and a successful East Coast animal rescue.
 
 Dr. Ziemer can be reached at <emziemer@sinenomine.net>.
 
-### Thomas Keiser (10/2013 - present) ###
+### Thomas Keiser (09/2012 - present) ###
 
 Thomas Keiser has, throughout the past eight years, been closely involved with
 OpenAFS development and AFS3 protocol standardization.  During his tenure with
@@ -95,7 +95,7 @@ in the AFS architecture, render AFS peerless.
 
 Thomas can be reached at <tkeiser@gmail.com>.
 
-### Todd DeSantis (10/2013 - present) ###
+### Todd DeSantis (09/2012 - present) ###
 
 Todd DeSantis is a Senior Systems Support Engineer for IBM Corporation.  Todd
 has been working with AFS since he joined the Transarc Corporation in 1993 as
@@ -106,7 +106,7 @@ both IBM AFS and OpenAFS platforms.  He joined the OpenAFS Elders in 2005.
 
 Todd can be reached at <atd@us.ibm.com>.
 
-### Derrick ("Daria") Brashear (10/2013 - present) ###
+### Derrick ("Daria") Brashear (09/2012 - present) ###
 
 Derrick Brashear -- who prefers to be called "Daria" -- has been involved with OpenAFS since its inception.  As a
 student at Carnegie Mellon in the 1990s, Daria took an interest in the
@@ -139,4 +139,4 @@ Daria can be reached at <shadow@your-file-system.com>.
 The following were Board members at some point in the past, but have since
 resigned. The current Board thanks them for their service to The Foundation.
 
-* Roman Mitz (2013 - 2014)
+* Roman Mitz (09/2012 - 12/2014)
