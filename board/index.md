@@ -11,7 +11,7 @@ appointed by the existing Board.
 
 The overview of the individual Directors on the Board below offers a brief summary of their relevant professional credentials.  The individuals are listed in alphabetical order by their last names.
 
-### Dave Botsch (2014 - present) ###
+### Dave Botsch (10/2014 - present) ###
 
 Dave Botsch is with the Cornell NanoScale Science and Technology Facility.  At
 the CNF, Dave manages technology solutions (including OpenAFS) for the problems
@@ -28,7 +28,7 @@ looking forward to continuing to work with the OpenAFS community.
 
 Dave can be reached at <botsch@cnf.cornell.edu>.
 
-### David Boldt (2014 - present) ###
+### David Boldt (10/2014 - present) ###
 
 David Boldt of the US Geological Survey (USGS) has been using AFS since 2001 as
 part of a project to provide resilient web service which could survive the loss
@@ -52,7 +52,7 @@ community with any and all of the skills he acquired on this career path.
 
 David can be reached at <dboldt@usgs.gov>.
 
-### E. Margarete Ziemer (2013 - present) ###
+### E. Margarete Ziemer (10/2013 - present) ###
 
 E. Margarete Ziemer, Ph.D., is co-founder and CEO of Sine Nomine Associates, a
 vendor-neutral research and engineering consultancy dedicated to objectively
@@ -70,7 +70,7 @@ in the capitol, and a successful East Coast animal rescue.
 
 Dr. Ziemer can be reached at <emziemer@sinenomine.net>.
 
-### Thomas Keiser (2013 - present) ###
+### Thomas Keiser (10/2013 - present) ###
 
 Thomas Keiser has, throughout the past eight years, been closely involved with
 OpenAFS development and AFS3 protocol standardization.  During his tenure with
@@ -95,7 +95,7 @@ in the AFS architecture, render AFS peerless.
 
 Thomas can be reached at <tkeiser@gmail.com>.
 
-### Todd DeSantis (2013 - present) ###
+### Todd DeSantis (10/2013 - present) ###
 
 Todd DeSantis is a Senior Systems Support Engineer for IBM Corporation.  Todd
 has been working with AFS since he joined the Transarc Corporation in 1993 as
@@ -106,17 +106,17 @@ both IBM AFS and OpenAFS platforms.  He joined the OpenAFS Elders in 2005.
 
 Todd can be reached at <atd@us.ibm.com>.
 
-### Derrick ("Daria") Brashear (2013 - present) ###
+### Derrick ("Daria") Brashear (10/2013 - present) ###
 
 Derrick Brashear -- who prefers the first name "Daria" to be used -- has been involved with OpenAFS since its inception.  As a
 student at Carnegie Mellon in the 1990s, Daria took an interest in the
-distributed computing environment to which she had been newly exposed, which led
-to the acquisition of a used Sun workstation that led her down the path to her
+distributed computing environment to which Daria had been newly exposed, which led
+to the acquisition of a used Sun workstation that resulted in Daria's
 current role.
 
 While working as a student, and then a staff member as a sysadmin and
 programmer for the Computing Services Division of Carnegie Mellon University,
-Daria pushed IBM Corporation regarding pieces of AFS technology which she felt
+Daria pushed IBM Corporation regarding pieces of AFS technology that Daria felt
 were legally required to be distributed.  While these pieces were eventually
 distributed openly, IBM ultimately chose to open source AFS completely,
 coincident with their end of life announcement, and Daria was one of the
@@ -125,11 +125,11 @@ gatekeeper and a member of the Council of Elders since the beginning.
 
 Daria has worked for Carnegie Mellon University, Sine Nomine Associates, and
 Your File System Inc., providing OpenAFS support and development among other
-responsibilities, and is currently employed at Your File System, where she works
-on distributed data sharing technology based on protocols that to this day are
+responsibilities.  At Your File System, Daria currently works
+on distributed data sharing technology based on protocols that, to this day, are
 derived from the original AFS3 implementation and principles dating back to the
-1980s, principles she believes are ahead of their time and still relevant to
-modern data consumers. She seeks to continue to enhance this technology in order
+1980s.  Daria believes that these principles are ahead of their time and still relevant to
+modern data consumers. Thus, Daria seeks to continue to enhance this technology in order
 to bring it to ever more users.
 
 Daria can be reached at <shadow@your-file-system.com>.
