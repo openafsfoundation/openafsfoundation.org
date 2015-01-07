@@ -106,9 +106,9 @@ both IBM AFS and OpenAFS platforms.  He joined the OpenAFS Elders in 2005.
 
 Todd can be reached at <atd@us.ibm.com>.
 
-### Daria Brashear (2013 - present) ###
+### Derrick ("Daria") Brashear (2013 - present) ###
 
-Daria Brashear has been involved with OpenAFS since its inception.  As a
+Derrick Brashear -- who prefers the first name "Daria" to be used -- has been involved with OpenAFS since its inception.  As a
 student at Carnegie Mellon in the 1990s, Daria took an interest in the
 distributed computing environment to which she had been newly exposed, which led
 to the acquisition of a used Sun workstation that led her down the path to her
