@@ -7,7 +7,7 @@ the stability and growth of [OpenAFS](http://www.openafs.org/), an [open
 source](http://opensource.org/) implementation of the AFS distributed network
 filesystem. The Foundation is currently going through the process of
 becoming recognized by the United States IRS as a 501(c)(3) non-profit
-corporation, but currently exists legally as a for-profit-corporation-with-the-intent-of-becoming-a-non-profit-entity on the federal level, yet it has already been accepted and registered on the state level as a non-profit corporation in the State of Pennsylvania.
+corporation: currently exists legally as a for-profit-corporation-with-the-intent-of-becoming-a-non-profit-entity on the federal level, yet it has already been accepted and registered on the state level as a non-profit corporation in the State of Pennsylvania.
 
 <div class="index-container">
   <div class="index-box">
