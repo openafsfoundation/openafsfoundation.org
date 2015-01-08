@@ -63,45 +63,98 @@ vision includes that the OpenAFS Foundation facilitate the following:
 
 ### Who We Are ###
 
-The OpenAFS Foundation, Inc., is guided by our
-[Board of Directors]({{ site.baseurl }}/board/), a diverse group of richly
-experienced individuals who agreed to volunteer for this leadership challenge.
-The Board of Directors has an Executive Director as its head, and is supported
-by volunteers who accepted the roles of Treasurer or Secretary. The Board of
-Directors oversees, and has final authority over, all activities within The
-OpenAFS Foundation, Inc.
+The OpenAFS Foundation, Inc., is guided by our Board of Directors, a diverse
+group of richly experienced individuals who agreed to volunteer for this
+leadership challenge.  The Board of Directors has an Executive Director as its
+head.  If you would like to learn about the individuals currently serving on
+the Board of directors, click [here]({{site.baseurl}}/board/).  The Board of
+Directors is supported by volunteers who accepted the roles of Treasurer or
+Secretary.  If you would like read a brief introduction to those volunteers,
+click [here](XXXbrokenlink).
 
-Under the umbrella of The Foundation's leadership, a variety of work groups will be set up.  Some of these groups will have ongoing tasks (e.g., a AFS Standardization Work Group), while others will serve on a temporary basis (e.g., a group organizing a specific Best Practices Workshop).  The Foundation welcomes proposals for work groups emerging out of the community; each proposal should be submitted in writing to the Secretary of the Board of Directors, who in turn will present it to the Board of Directors, and should indicate the suggested leader(s), goal(s), map for achieving those goals, timelines, and other information that might aid the Board of Directors in casting an affirmative vote on the acceptance of the proposed work group. 
+The Board of Directors oversees and has final authority over all activities
+within The OpenAFS Foundation, Inc.  To help you understand our structure, we
+composed an organizational chart which you can view [here](XXXbrokenlink).  The
+chart will also offer definitions of the roles listed.
 
 Among the OpenAFS Foundation's central values are fairness and transparency.
 We believe that not only the lines of authority and the various tasks should be
-disclosed, but also the financial status of the OpenAFS Foundation. All moneys
-were donated to The Foundation and its causes by individuals or organizations
-wishing to support both our mission and our vision. Thus, information about
-our financials is always available [here]({{site.baseurl}}/docs/finances/). In
-addition, the [Code of Ethics](XXXbrokenlink), the [Conflict of Interest
-Policy](XXXbrokenlink), the [Whistleblower Protection Policy](XXXbrokenlink)
+disclosed, but also the financial status of the OpenAFS Foundation.  All moneys
+were donated to the Foundation and its causes by individuals or organizations
+wishing to support both our mission and our vision.  If you wish to peruse an
+overview over our financials, click [here](XXXbrokenlink).  In addition, the
+[Code of Ethics](XXXbrokenlink), the [Conflict of Interest
+Policy](XXXbrokenlink), the [Wistleblower Protection Policy](XXXbrokenlink)
 will aid you in understanding other core values of the OpenAFS Foundation. 
 
-### Current Legal Status ###
+If you wish to contact the Board of Directors, please email to
+[foundation@openafs.org](mailto:foundation@openafs.org).  Should you wish to
+contact specific Directors of the Board, you may find their email addresses
+with their biographic introductions.  The Secretary can be contacted by
+emailing to [secretary@openafs.org](mailto:secretary@openafs.org), and the
+Treasurer will receive your emails to
+[treasurer@openafs.org](mailto:treasurer@openafs.org).
 
-The OpenAFS Foundation, Inc. currently exists as a non-profit corporation
-incorporated in the State of Pennsylvania, but is actively pursuing federal non-profit
-status. The Foundation's Entity Number is 4189117, assigned by the Pennsylvania
-Department of State's Bureau of Corporations and Charitable Organizations on
-May 20, 2013. The Foundation's federal Employer Identification Number (EIN) is
-46-2902947, assigned by the IRS on June 4, 2013. Official documents and forms
-defining The Foundation are available on [our documents
-page]({{ site.baseurl }}/docs/}}).
+### How You Can Help ###
 
-While The Foundation was incorporated in the State of Pennsylvania as a non-profit corporation, we aim at achieving a non-profit status on the national level and, to that effect, request said national status with the IRS.  During this national non-profit application process with the IRS, The Foundation will be a non-profit corporation on the state level while being viewed as a for-profit-corporation-with-the-intent-to-become-a-non-profit-corporation on the federal level.
-This means that, until and unless awarded a federal non-profit status by the IRS,
-federal corporate tax returns must be filed as for-profit entity. However, if and when said federal non-profit status will be awarded, that status will apply retroactively to the date of the application, i.e. to June 4, 2013.  Our specific [tax returns]({{site.baseurl}}/docs/finances/) are
-publically available for review.
+As The OpenAFS Foundation, Inc., is an organization comprises exclusively of
+volunteers, we are hoping for your active help and support!  You may wish to
+make a [donation](XXXbrokenlink).  If you feel moved to [volunteer](XXXbrokenlink), a
+multitude of roles and tasks could benefit from your activities.  Should you
+wish to [contribute code](XXXbrokenlink), you may do that as well.  In the
+event you are uncertain about how you could contribute, we urge you to view our
+"ISO" Wish List (click here) with postings of tasks that need helping hands.
 
-The OpenAFS Foundation also makes use of the common law trademarks "AFS" and
-"OpenAFS" that are owned by IBM. IBM granted the right to use these trademarks
-to the five people that comprised The Foundation's Creation Committee on May
-10, 2013, and these rights were transferred to The OpenAFS Foundation, Inc.
-when it was incorporated. The full agreement can be found on [our documents
-page]({{ site.baseurl }}/docs/).
+### Core Documents ###
+
+The OpenAFS Foundation was created by putting in place the Foundations basic
+structure and legal entity requirements.  These began with a definition of our
+[mission and vision](XXXbrokenlink).  The incorporation was executed in the
+Commonwealth of Pennsylvania on May 20, 2013.  Our [Articles of
+Incorporation](XXXbrokenlink) were submitted to the Department of State, Bureau
+of Corporations and Charitable Organizations, on May 17, 2013, and filed by
+said office on May 20, 2014, as well as given the Entity Number 4189117.  In
+parallel, the [By-Laws](XXXbrokenlink) of the OpenAFS Foundation were adopted
+by the Board that same day.  These By-Laws define the rights and
+responsibilities of our Directors as well as our Officers and Employees.
+Furthermore, they define miscellaneous corporate transitions, documents, and
+general provisions.
+
+The OpenAFS Foundation applied for an Employer Identification Number (EIN) by
+filing Form SS-4 (click here) with the IRS on June 4, 2013.  In response, the
+IRS Department of Treasury [officially assigned us](XXXbrokenlink) the EIN
+46-2902947 the same day.  While the Foundation was incorporated with the intent
+of being awarded a non-profit tax status by the IRS, any corporation like ours
+will start with a for-profit tax status until the IRS has indeed granted a
+non-profit status.  This means that, until and unless awarded a non-profit
+status by the IRS, corporate tax returns must be filed as for-profit entity.
+You may view our annual Form 1120, the U.S. Corporation Income Tax Return
+[here](XXXbrokenlink).
+
+Within the first year of its existence, the Board of Directors of The OpenAFS
+Foundation, Inc., adopted several policies which we believed to be of crucial
+importance for clearly reflecting and defining our central values.  First and
+foremost, our [Code of Ethics](XXXbrokenlink) describes the standards set to
+govern us and to guide our behavior.  If you wish to actively participate in
+the work of The OpenAFS Foundation, we expect you to accept our adopted Code of
+Ethics and to act accordingly.   Furthermore, a [Conflict of Interest
+Policy](XXXbrokenlink) was adopted by the Board of Directors to safeguard the
+integrity of the Foundation and its work.  In the event that possible or actual
+breaches of either policy is observed, we encourage everyone to report such
+alleged breaches immediately to the processes delineated in the [Whistleblower
+Protection Policy](XXXbrokenlink) by the Board of Directors, which describes
+the reporting and response procedures, and which explains the measures to be
+taken by the Foundation for the purpose of protecting the reporting party’s
+rights.
+
+Since significant parts of the OpenAFS code were developed while AFS was owned
+by International Business Machines (IBM) for several years, thus IBM has
+certain intellectual property and licensing rights, the OpenAFS Foundation has
+been engaging in dialogue with IBM and has been forging licensing agreements.
+In the agreement dated May 10, 2013, IBM granted the five individuals who
+comprised the Foundation’s Creation Committee the right to use the common law
+trademarks "AFS" and "OpenAFS" in order for the Committee members to form a
+non-profit corporation under the Open AFS Foundation name.  You may view the
+full agreement [here](XXXbrokenlink).  After the incorporation of the OpenAFS
+Foundation, these trademark rights were transferred from the Creation Committee
+to The OpenAFS Foundation, Inc. 
