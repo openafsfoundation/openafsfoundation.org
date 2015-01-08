@@ -87,11 +87,11 @@ overview over our financials, click [here](XXXbrokenlink).  In addition, the
 Policy](XXXbrokenlink), the [Wistleblower Protection Policy](XXXbrokenlink)
 will aid you in understanding other core values of the OpenAFS Foundation. 
 
-If you wish to contact the Board of Directors, please email to
+If you wish to contact the Board of Directors, please email
 [foundation@openafs.org](mailto:foundation@openafs.org).  Should you wish to
 contact specific Directors of the Board, you may find their email addresses
 with their biographic introductions.  The Secretary can be contacted by
-emailing to [secretary@openafs.org](mailto:secretary@openafs.org), and the
+emailing [secretary@openafs.org](mailto:secretary@openafs.org), and the
 Treasurer will receive your emails to
 [treasurer@openafs.org](mailto:treasurer@openafs.org).
 
@@ -148,8 +148,8 @@ taken by the Foundation for the purpose of protecting the reporting party’s
 rights.
 
 Since significant parts of the OpenAFS code were developed while AFS was owned
-by International Business Machines (IBM) for several years, thus IBM has
-certain intellectual property and licensing rights, the OpenAFS Foundation has
+by International Business Machines (IBM) for several years, IBM has certain
+intellectual property and licensing rights. Thus, the OpenAFS Foundation has
 been engaging in dialogue with IBM and has been forging licensing agreements.
 In the agreement dated May 10, 2013, IBM granted the five individuals who
 comprised the Foundation’s Creation Committee the right to use the common law
