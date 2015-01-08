@@ -1,7 +1,9 @@
 ---
-title: Support OpenAFS
-nav: support
+title: Help Us
+nav: [about,help]
 ---
+
+## Help Us ##
 
 ## Support OpenAFS ##
 

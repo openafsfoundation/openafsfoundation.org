@@ -108,15 +108,19 @@ a img {
   font-size: 9pt;
 }
 
-.nav-active, .subnavigation {
+.navigation .nav-active, .subnav2 {
   background: #484F9C;
 }
 
-.subnavigation ul {
+.subnav2 .nav-active, .subnav3 {
+  background: #56a;
+}
+
+.subnav2 ul, .subnav3 ul {
   margin: 0px;
 }
 
-.subnavigation ul a {
+.subnav2 ul a, .subnav3 ul a {
   font-size: 0.92307em; /* 12 / 13 */
 }
 

@@ -1,0 +1,175 @@
+- name: Home
+  url: ''
+
+- name: About
+  id: about
+  url: about/
+  children:
+    - name: Who We Are
+      id: who
+      url: about/who/
+      children:
+        - name: Board
+          url: about/board/
+        
+        - name: Org Chart
+          url: about/org-chart/
+
+        - name: Work Groups
+          url: about/work-groups/
+
+        - name: Finances
+          url: about/finance/
+
+    - name: Help
+      id: help
+      url: help/
+      children:
+        - name: Donate
+          url: help/donate/
+
+        - name: Volunteer
+          url: help/volunteer/
+
+        - name: Mentor
+          url: help/mentor/
+
+        - name: Code
+          url: help/code/
+
+        - name: Wishlist
+          url: help/wishlist/
+
+    - name: Documents
+      id: docs
+      url: docs/
+
+- name: Users
+  id: users
+  url: users/
+  children:
+    - name: Who Are They?
+      id: who
+      url: users/who/
+      children:
+        - name: Individuals
+          url: users/individuals/
+
+        - name: Small Business
+          url: users/smbs/
+
+        - name: Large Business
+          url: users/corps/
+
+        - name: Success Stories
+          url: users/success/
+
+    - name: How We Foster
+      id: how
+      url: users/foster/
+      children:
+        - name: Events
+          url: users/events/
+
+        - name: Initiatives
+          url: users/initiatives/
+
+        - name: User Groups
+          url: users/groups/
+
+        - name: Projects
+          url: users/projects/
+
+        - name: Mailing Lists
+          url: users/lists/
+
+        - name: Wishlist
+          url: users/wishlist/
+
+- name: Developers
+  id: devs
+  url: devs/
+  children:
+    - name: Who Are They?
+      id: who
+      url: devs/who/
+      children:
+        - name: Individuals
+          url: devs/individuals/
+
+        - name: Business
+          url: devs/business/
+
+    - name: How We Attract Them
+      id: how
+      url: devs/attract/
+      children:
+        - name: Events
+          url: devs/events/
+
+        - name: Initiatives
+          url: devs/initiatives/
+
+        - name: Work Groups
+          url: devs/work-groups/
+
+        - name: Projects
+          url: devs/projects/
+
+        - name: Mailing Lists
+          url: devs/lists/
+
+        - name: Wishlist
+          url: devs/wishlist/
+
+- name: Technology
+  id: tech
+  url: tech/
+  children:
+    - name: What Is That?
+      id: what
+      url: tech/what/
+      children:
+        - name: Open Source
+          url: tech/oss/
+
+        - name: "AFS & OpenAFS"
+          url: tech/afs/
+
+        - name: Libraries
+          url: tech/libraries/
+
+        - name: Tools
+          url: tech/tools/
+
+        - name: Other Filesystems
+          url: tech/comparison/
+
+        - name: Use Cases
+          url: tech/use-cases/
+
+    - name: How We Nurture
+      id: how
+      url: tech/nurture/
+      children:
+        - name: Opportunities
+          url: tech/opportunities/
+
+        - name: Initiatives
+          url: tech/initiatives/
+
+        - name: Group Efforts
+          url: tech/group-efforts/
+
+        - name: Projects
+          url: tech/projects/
+
+        - name: Mailing Lists
+          url: tech/lists/
+
+        - name: Wishlist
+          url: tech/wishlist/
+
+- name: Contact
+  id: contact
+  url: contact/

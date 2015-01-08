@@ -32,14 +32,23 @@
       </div>
     </div>
   </div>
+
+  {% comment %}
+  This navigation stuff could probably be rewritten to use includes or
+  something, to make it less repetitive. A todo for the future, if we ever
+  care.
+  {% endcomment %}
+  {% assign level1 = false %}
+  {% assign level2 = false %}
   <div class="navigation">
     <div class="container">
       <ul>
-      {% for item in site.navigation %}
-        {% if page.nav and page.nav == item.id %}
-        <li class="nav-active"><a href="{{ site.baseurl }}/{{ item.url }}">{{ item.name }}</a></li>
+      {% for item in site.data.nav %}
+        {% if page.nav[0] and page.nav[0] == item.id %}
+          {% assign level1 = item %}
+          <li class="nav-active"><a href="{{ site.baseurl }}/{{ item.url }}">{{ item.name }}</a></li>
         {% else %}
-        <li><a href="{{ site.baseurl }}/{{ item.url }}">{{ item.name }}</a></li>
+          <li><a href="{{ site.baseurl }}/{{ item.url }}">{{ item.name }}</a></li>
         {% endif %}
       {% endfor %}
       </ul>
@@ -53,19 +62,33 @@
       </div>
     </div>
   </div>
-  <div class="navigation subnavigation">
+  {% if level1 and level1.children %}
+  <div class="navigation subnav2">
     <div class="container">
-    {% for item in site.navigation %}
-      {% if page.nav == item.id %}
       <ul>
-        {% for child in item.children %}
-        <li><a href="{{ site.baseurl }}/{{ child.url }}">{{ child.name }}</a></li>
+        {% for child in level1.children %}
+          {% if page.nav[1] and page.nav[1] == child.id %}
+            {% assign level2 = child %}
+            <li class="nav-active"><a href="{{ site.baseurl }}/{{ child.url }}">{{ child.name }}</a></li>
+          {% else %}
+            <li><a href="{{ site.baseurl }}/{{ child.url }}">{{ child.name }}</a></li>
+          {% endif %}
         {% endfor %}
       </ul>
-      {% endif %}
-    {% endfor %}
     </div>
   </div>
+  {% endif %}
+  {% if level2 and level2.children %}
+  <div class="navigation subnav3">
+    <div class="container">
+      <ul>
+        {% for child in level2.children %}
+          <li><a href="{{ site.baseurl }}/{{ child.url }}">{{ child.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  {% endif %}
 
   <div id="content">
     <div class="container normalpage">

@@ -1,6 +1,6 @@
 ---
 title: Official Documents
-nav: about
+nav: [about,docs]
 ---
 
 ## Official Documents ##

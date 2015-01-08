@@ -1,6 +1,6 @@
 ---
 title: Board of Directors
-nav: about
+nav: [about,who]
 ---
 
 ## Our Current Board Of Directors ##
