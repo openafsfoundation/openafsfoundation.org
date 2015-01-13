@@ -19,11 +19,12 @@ provide information to the public about The Foundation.
 
 ### External Foundation Documents ###
 
-These documents are official forms filed with United States government agencies or official
+These documents are official forms filed with United States government agencies, or official
 agreements The Foundation has entered with other organizations.
 
 * Pennsylvania Department of State, Bureau of Corporations and Charitable Organizations: Assignment of Entity Number
 * Application for Employer Identification Number (Form SS-4)
 * Department of the Treasury, Internal Revenue Service: Assignment of Employer Identification Number
 * [Annual tax returns](finances/)
+* For historical purposes and reference: The IBM Public License for OpenAFS
 * License Agreement between International Business Machines, Inc. (IBM) and The OpenAFS Foundation, Inc., for the use of the "AFS" and "OpenAFS" trademarks
