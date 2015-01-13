@@ -12,7 +12,7 @@ appointed by the existing Board.
 
 The overview of the individual Directors on the Board below offers a brief summary of their relevant professional credentials.  The individuals are listed in alphabetical order by their last names.
 
-### David Boldt (10/2014 - present) ### 
+### David Boldt (10/2014 - present) ###
 
 David Boldt of the US Geological Survey (USGS) has been using AFS since 2001 as
 part of a project to provide resilient web service which could survive the loss
@@ -35,7 +35,6 @@ support over the years. He hopes to be able to contribute back to the OpenAFS
 community with any and all of the skills he acquired on this career path.
 
 David can be reached at <dboldt@usgs.gov>.
-
 
 ### Dave Botsch (10/2014 - present) ###
 
