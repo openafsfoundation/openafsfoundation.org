@@ -15,7 +15,6 @@ provide information to the public about The Foundation.
 * Conflict of Interest Policy
 * Code of Ethics Policy
 * Whistleblower Protection Policy
-* Agreements In Progress (if any)
 * Board of Directors' Resolutions
 
 ### External Foundation Documents ###
