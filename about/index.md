@@ -106,6 +106,15 @@ wish to [contribute code](XXXbrokenlink), you may do that as well.  In the
 event you are uncertain about how you could contribute, we urge you to view our
 "ISO" Wish List (click here) with postings of tasks that need helping hands.
 
+### Current Legal Status ###
+
+The OpenAFS Foundation, Inc.  is a Pennsylvania non-profit corporation. The Foundation's Pennsylvania Entity Number is 4189117, assigned by the Pennsylvania Department of State's Bureau of Corporations and Charitable Organizations on May 20, 2013. The Foundation's federal Employer Identification Number (EIN) is 46-2902947, assigned by the IRS on June 4, 2013. Official documents and forms defining The Foundation are available on our documents page.
+
+The Foundation has applied to the Internal Revenue Service to obtain tax-exempt status as a private charity under Section 501(c)(3) of the IRS Code.  As of January 2015, the application remains pending.  Donations to the Foundation shall become tax deductible upon award of tax-exempt status.  Our specific tax returns are publically available for review.
+
+The OpenAFS Foundation also makes use of the common law trademarks "AFS" and "OpenAFS" that are owned by IBM. IBM granted the right to use these trademarks to the five people that comprised The Foundation's Creation Committee on May 10, 2013, and these rights were transferred to The OpenAFS Foundation, Inc. when it was incorporated. The full agreement can be found on our documents page.
+
+
 ### Core Documents ###
 
 The OpenAFS Foundation was created by putting in place the Foundations basic
