@@ -124,11 +124,11 @@ Roman received his BS in Computer Science from Carnegie Mellon while working ful
 
 Roman can be reached at <rmitz@cmu.edu>.
 
-### E. Margarete Ziemer (09/2012 - present) ###
+### Elisabeth Margarete Ziemer (09/2012 - present) ###
 
-E. Margarete Ziemer, Ph.D., is co-founder and CEO of Sine Nomine Associates, a
+Elisabeth Margarete Ziemer, Ph.D., (who prefers to go by her middle name, "Margarete") is co-founder and CEO of Sine Nomine Associates, a
 vendor-neutral research and engineering consultancy dedicated to objectively
-identifying and implementing the best solution for each client.  Dr. Ziemer, a
+identifying and implementing the best solution for each client.  Margarete, a
 resident of former East Germany for twenty-five years, brings extensive
 international and academic experience.  In addition to receiving three master’s
 degrees and winning prestigious scholarships by organizations such as the World
@@ -140,4 +140,4 @@ Association at her alma mater in Princeton, a Women’s Leadership Group serving
 the Washington, DC, metro area, mentoring in a program by Women in Technology
 in the capitol, and a successful East Coast animal rescue.
 
-Dr. Ziemer can be reached at <emziemer@sinenomine.net>.
+Margarete can be reached at <emziemer@sinenomine.net>.
