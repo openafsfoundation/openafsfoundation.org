@@ -123,7 +123,7 @@ Commonwealth of Pennsylvania on May 20, 2013.  Our [Articles of
 Incorporation](XXXbrokenlink) were submitted to the Department of State, Bureau
 of Corporations and Charitable Organizations, on May 17, 2013, and filed by
 said office on May 20, 2014, as well as given the Entity Number 4189117.  In
-parallel, the [By-Laws](XXXbrokenlink) of the OpenAFS Foundation were adopted
+parallel, the [Bylaws](XXXbrokenlink) of the OpenAFS Foundation were adopted
 by the Board that same day.  These By-Laws define the rights and
 responsibilities of our Directors as well as our Officers and Employees.
 Furthermore, they define miscellaneous corporate transitions, documents, and
