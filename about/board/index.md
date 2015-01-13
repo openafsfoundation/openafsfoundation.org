@@ -3,7 +3,7 @@ title: Board of Directors
 nav: [about,who]
 ---
 
-## Our Current Board Of Directors ##
+## Our Board Of Directors ##
 
 The OpenAFS Foundation is being lead by a Board of Directors, consisting of
 volunteers. Specific Board members also fill the roles of Executive Director
