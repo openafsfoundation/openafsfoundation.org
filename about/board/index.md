@@ -53,6 +53,10 @@ community with any and all of the skills he acquired on this career path.
 
 David can be reached at <dboldt@usgs.gov>.
 
+Roman Mitz, Jr., is the Senior Manager of the Systems Development group inside Computing Services at Carnegie Mellon University.  His experience with AFS started in 1996 as a user, 2003 as an administrator, and he joined the OpenAFS Elders (a group informally organized to further OpenAFS) in 2010, where he is currently the treasurer.
+Roman received his BS in Computer Science from Carnegie Mellon while working full-time as the lone IT administrator in the Center for the Neural Basis of Cognition.  His lengthy experience at Carnegie Mellon as an IT professional spans a variety of departments and roles; in addition to those already mentioned, he was the Senior UNIX Systems Administrator for Electrical and Computer Engineering, Senior Research Systems Programmer for the Middleware team in Computing Services, and Server Systems Manager/Acting IT Director for the Carnegie Mellon Qatar Campus.  At the Qatar campus he was instrumental in the setup and operation of its complex computing environment from its opening in 2004 to his return to the United States in 2007.
+
+
 ### E. Margarete Ziemer (09/2012 - present) ###
 
 E. Margarete Ziemer, Ph.D., is co-founder and CEO of Sine Nomine Associates, a
