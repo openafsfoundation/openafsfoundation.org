@@ -12,24 +12,7 @@ appointed by the existing Board.
 
 The overview of the individual Directors on the Board below offers a brief summary of their relevant professional credentials.  The individuals are listed in alphabetical order by their last names.
 
-### Dave Botsch (10/2014 - present) ###
-
-Dave Botsch is with the Cornell NanoScale Science and Technology Facility.  At
-the CNF, Dave manages technology solutions (including OpenAFS) for the problems
-and workflows of both users and staff. Also as part of his job, he works to
-foster collaboration among the wider Cornell IT community.
-
-Dave has a Bachelors in Computer Science from Cornell University in Ithaca, New
-York.
-
-Dave has been a member of the OpenAFS community for some time, with his
-involvement in the OpenAFS newsletter, previous iterations of the OpenAFS wiki,
-and writing the OpenAFS Tokens gui application for Linux and for Mac. Dave is
-looking forward to continuing to work with the OpenAFS community.
-
-Dave can be reached at <botsch@cnf.cornell.edu>.
-
-### David Boldt (10/2014 - present) ###
+### David Boldt (10/2014 - present)### 
 
 David Boldt of the US Geological Survey (USGS) has been using AFS since 2001 as
 part of a project to provide resilient web service which could survive the loss
@@ -53,63 +36,23 @@ community with any and all of the skills he acquired on this career path.
 
 David can be reached at <dboldt@usgs.gov>.
 
-Roman Mitz, Jr., is the Senior Manager of the Systems Development group inside Computing Services at Carnegie Mellon University.  His experience with AFS started in 1996 as a user, 2003 as an administrator, and he joined the OpenAFS Elders (a group informally organized to further OpenAFS) in 2010, where he is currently the treasurer.
-Roman received his BS in Computer Science from Carnegie Mellon while working full-time as the lone IT administrator in the Center for the Neural Basis of Cognition.  His lengthy experience at Carnegie Mellon as an IT professional spans a variety of departments and roles; in addition to those already mentioned, he was the Senior UNIX Systems Administrator for Electrical and Computer Engineering, Senior Research Systems Programmer for the Middleware team in Computing Services, and Server Systems Manager/Acting IT Director for the Carnegie Mellon Qatar Campus.  At the Qatar campus he was instrumental in the setup and operation of its complex computing environment from its opening in 2004 to his return to the United States in 2007.
 
+### Dave Botsch (10/2014 - present) ###
 
-### E. Margarete Ziemer (09/2012 - present) ###
+Dave Botsch is employed by the Cornell NanoScale Science and Technology Facility.  At
+the CNF, Dave manages technology solutions (including OpenAFS) for the problems
+and workflows of both users and staff. Also as part of his job, he works to
+foster collaboration among the wider Cornell IT community.
 
-E. Margarete Ziemer, Ph.D., is co-founder and CEO of Sine Nomine Associates, a
-vendor-neutral research and engineering consultancy dedicated to objectively
-identifying and implementing the best solution for each client.  Dr. Ziemer, a
-resident of former East Germany for twenty-five years, brings extensive
-international and academic experience.  In addition to receiving three master’s
-degrees and winning prestigious scholarships by organizations such as the World
-Council of Churches, the Fulbright Commission, and the American Association of
-University Women, she earned a post-graduate degree at the University of Jena,
-Germany, and a Ph.D. at Princeton.  Her proven track record as a professional
-and community leader include the founding of the International Students’
-Association at her alma mater in Princeton, a Women’s Leadership Group serving
-the Washington, DC, metro area, mentoring in a program by Women in Technology
-in the capitol, and a successful East Coast animal rescue.
+Dave has a Bachelors in Computer Science from Cornell University in Ithaca, New
+York.
 
-Dr. Ziemer can be reached at <emziemer@sinenomine.net>.
+Dave has been a member of the OpenAFS community for some time, with his
+involvement in the OpenAFS newsletter, previous iterations of the OpenAFS wiki,
+and writing the OpenAFS Tokens gui application for Linux and for Mac. Dave is
+looking forward to continuing to work with the OpenAFS community.
 
-### Thomas Keiser (09/2012 - present) ###
-
-Thomas Keiser has, throughout the past eight years, been closely involved with
-OpenAFS development and AFS3 protocol standardization.  During his tenure with
-Sine Nomine Associates, Thomas developed the Demand Attach File Service, a
-technology that: 1) reduces file server restart time by several orders of
-magnitude, 2) alleviates a significant bottleneck intrinsic to the wire
-protocol, and 3) improves the safety of file server metadata.  In addition,
-Thomas has been a prominent contributor to the AFS3 protocol standardization
-process, where he authored drafts related to: low-level wire protocol
-primitives, historical documentation of the existing wire protocol, as well as
-proposed new features requiring protocol modifications.
-
-Thomas holds a bachelors of science in computer science from Penn State
-University.  His research and publications primarily focus on autonomous,
-distributed systems; distributed control; and sensor networks.  While recently
-embarking on a new career as an Illumos kernel engineer with Nexenta Systems,
-Inc., Thomas remains committed to the theoretical first principles exemplified
-by the AFS3 protocol.  He believes that &mdash; notwithstanding twenty-five subsequent
-years of technical innovation &mdash; the balance of management, interoperability,
-cache consistency, and geographic distribution features, as uniquely embodied
-in the AFS architecture, render AFS peerless.
-
-Thomas can be reached at <tkeiser@gmail.com>.
-
-### Todd DeSantis (09/2012 - present) ###
-
-Todd DeSantis is a Senior Systems Support Engineer for IBM Corporation.  Todd
-has been working with AFS since he joined the Transarc Corporation in 1993 as
-an AFS Support Representative.  Through the years Todd has expanded his role
-within the AFS Support Team to include support, development and management of
-the technical direction of the AFS Developers Team.  Todd and his Team support
-both IBM AFS and OpenAFS platforms.  He joined the OpenAFS Elders in 2005.
-
-Todd can be reached at <atd@us.ibm.com>.
+Dave can be reached at <botsch@cnf.cornell.edu>.
 
 ### Derrick ("Daria") Brashear (09/2012 - present) ###
 
@@ -139,9 +82,63 @@ to bring it to ever more users.
 
 Daria can be reached at <shadow@your-file-system.com>.
 
-### Former Board Members ###
+### Todd DeSantis (09/2012 - present) ###
 
-The following were Board members at some point in the past, but have since
-resigned. The current Board thanks them for their service to The Foundation.
+Todd DeSantis is a Senior Systems Support Engineer for IBM Corporation.  Todd
+has been working with AFS since he joined the Transarc Corporation in 1993 as
+an AFS Support Representative.  Through the years Todd has expanded his role
+within the AFS Support Team to include support, development and management of
+the technical direction of the AFS Developers Team.  Todd and his Team support
+both IBM AFS and OpenAFS platforms.  He joined the OpenAFS Elders in 2005.
 
-* Roman Mitz (09/2012 - 12/2014)
+Todd can be reached at <atd@us.ibm.com>.
+
+### Thomas Keiser (09/2012 - present) ###
+
+Thomas Keiser has, throughout the past eight years, been closely involved with
+OpenAFS development and AFS3 protocol standardization.  During his tenure with
+Sine Nomine Associates, Thomas developed the Demand Attach File Service, a
+technology that: 1) reduces file server restart time by several orders of
+magnitude, 2) alleviates a significant bottleneck intrinsic to the wire
+protocol, and 3) improves the safety of file server metadata.  In addition,
+Thomas has been a prominent contributor to the AFS3 protocol standardization
+process, where he authored drafts related to: low-level wire protocol
+primitives, historical documentation of the existing wire protocol, as well as
+proposed new features requiring protocol modifications.
+
+Thomas holds a bachelors of science in computer science from Penn State
+University.  His research and publications primarily focus on autonomous,
+distributed systems; distributed control; and sensor networks.  While recently
+embarking on a new career as an Illumos kernel engineer with Nexenta Systems,
+Inc., Thomas remains committed to the theoretical first principles exemplified
+by the AFS3 protocol.  He believes that &mdash; notwithstanding twenty-five subsequent
+years of technical innovation &mdash; the balance of management, interoperability,
+cache consistency, and geographic distribution features, as uniquely embodied
+in the AFS architecture, render AFS peerless.
+
+Thomas can be reached at <tkeiser@gmail.com>.
+
+### Roman Mitz (09/2012 - present)###
+
+Roman Mitz, Jr., is the Senior Manager of the Systems Development group inside Computing Services at Carnegie Mellon University.  His experience with AFS started in 1996 as a user, 2003 as an administrator, and he joined the OpenAFS Elders (a group informally organized to further OpenAFS) in 2010, where he is currently the treasurer.
+Roman received his BS in Computer Science from Carnegie Mellon while working full-time as the lone IT administrator in the Center for the Neural Basis of Cognition.  His lengthy experience at Carnegie Mellon as an IT professional spans a variety of departments and roles; in addition to those already mentioned, he was the Senior UNIX Systems Administrator for Electrical and Computer Engineering, Senior Research Systems Programmer for the Middleware team in Computing Services, and Server Systems Manager/Acting IT Director for the Carnegie Mellon Qatar Campus.  At the Qatar campus he was instrumental in the setup and operation of its complex computing environment from its opening in 2004 to his return to the United States in 2007.
+
+Roman can be reached at <rmitz@cmu.edu>.
+
+### E. Margarete Ziemer (09/2012 - present) ###
+
+E. Margarete Ziemer, Ph.D., is co-founder and CEO of Sine Nomine Associates, a
+vendor-neutral research and engineering consultancy dedicated to objectively
+identifying and implementing the best solution for each client.  Dr. Ziemer, a
+resident of former East Germany for twenty-five years, brings extensive
+international and academic experience.  In addition to receiving three master’s
+degrees and winning prestigious scholarships by organizations such as the World
+Council of Churches, the Fulbright Commission, and the American Association of
+University Women, she earned a post-graduate degree at the University of Jena,
+Germany, and a Ph.D. at Princeton.  Her proven track record as a professional
+and community leader include the founding of the International Students’
+Association at her alma mater in Princeton, a Women’s Leadership Group serving
+the Washington, DC, metro area, mentoring in a program by Women in Technology
+in the capitol, and a successful East Coast animal rescue.
+
+Dr. Ziemer can be reached at <emziemer@sinenomine.net>.
