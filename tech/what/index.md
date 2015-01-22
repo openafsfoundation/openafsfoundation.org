@@ -5,13 +5,11 @@ nav: [tech,what]
 
 ## What Is The OpenAFS Technology? ##
 
-The history of OpenAFS reaches back to the 1970s.
+The Andrew File System ("AFS") is a distributed filesystem product, pioneered at Carnegie Mellon University in cooperation with IBM in the mid-1980s, and subsequently supported and developed into a product by the Transarc Corporation (now IBM Pittsburgh Labs).
 
-International Business Machines, Inc. (IBM) turned the OpenAFS code over to the open source community.  As such, from that time forward, any changes to the OpenAFS code have to be in accord with the IBM Public License Agreement (IPL).  In addition, the use of and/or changes to OpenAFS have to adhere to general priniples of open source software.
+In November 2000, IBM released a version of the source code of the AFS product to the community for development and maintenance under the IBM Public License (IPL, a license approved by the Open Source Initiative). IBM called this release “OpenAFS”. The OpenAFS code is available to all individuals or organizations free of charge.
 
-The OpenAFS Technology includes a variety of related libraries.
-
-In addition, the OpenAFS Technology includes related tools.
+The OpenAFS Technology includes a variety of related libraries.  In addition, the OpenAFS Technology includes related tools.
 
 A comprehensive side-by-side comparison between OpenAFS as distributed filesystem and other open source file systems does not yet exist but might be most helpful, particularly to potential users still in the process of selecting the most appropriate file system for their task at hand.  Maybe you wish to volunteer and help develop such a comparison?  
 
