@@ -5,9 +5,9 @@ extra-css: ["index.css"]
 The OpenAFS Foundation, Inc., is a corporation registered in the United States.  It is dedicated to fostering
 the stability and growth of [OpenAFS](http://www.openafs.org/), an [open
 source](http://opensource.org/) implementation of the AFS distributed network
-filesystem. The Foundation is currently going through the process of
-becoming recognized by the United States IRS as a 501(c)(3) non-profit
-corporation: currently exists legally as a for-profit-corporation-with-the-intent-of-becoming-a-non-profit-entity on the federal level, yet it has already been accepted and registered on the state level as a non-profit corporation in the State of Pennsylvania.
+filesystem. 
+
+The OpenAFS Foundation, Inc., was incorporated in the Commonwealth of Pennsylvania on May 20 of 2013, as a non-profit organization. It is presently seeking national non-profit status with the IRS.
 
 <div class="index-container">
   <div class="index-box">
