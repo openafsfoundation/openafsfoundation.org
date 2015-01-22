@@ -10,7 +10,7 @@ nav: [about,docs]
 These documents exist to define various policies of The Foundation, or to
 provide information to the public about The Foundation.
 
-* Articles of Incorporation
+* [Articles of Incorporation](openafs-foundation-incorporation.pdf)
 * [Bylaws](openafs-foundation-bylaws.pdf)
 * [Conflict of Interest Policy](openafs-foundation-coi-policy.pdf)
 * [Code of Ethics Policy](openafs-foundation-coe.pdf)
@@ -22,7 +22,7 @@ provide information to the public about The Foundation.
 These documents are official forms filed with United States government agencies, or official
 agreements The Foundation has entered with other organizations.
 
-* Pennsylvania Department of State, Bureau of Corporations and Charitable Organizations: Assignment of Entity Number
+* [Pennsylvania Department of State, Bureau of Corporations and Charitable Organizations: Assignment of Entity Number](openafs-foundation-accepted-incorporation.pdf)
 * [Application for Employer Identification Number (Form SS-4)](openafs-foundation-ss4.pdf)
 * [Department of the Treasury, Internal Revenue Service: Assignment of Employer Identification Number](openafs-foundation-irs-ein.pdf)
 * [Annual tax returns]({{site.baseurl}}/about/finance/)
