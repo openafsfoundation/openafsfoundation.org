@@ -8,7 +8,7 @@ nav: [about]
 The OpenAFS Foundation, Inc., was incorporated in the Commonwealth of Pennsylvania on
 May 20 of 2013, as a non-profit organization.  It is presently seeking national non-profit status with the IRS.
 
-### What We Do ###
+### What we do ###
 
 The OpenAFS Foundation adopted a three-fold mission:
 
@@ -61,7 +61,7 @@ vision includes that the OpenAFS Foundation facilitate the following:
        and development
     3. Support and participate in protocol standardization
 
-### Who We Are ###
+### Who we are ###
 
 The OpenAFS Foundation, Inc., is guided by our Board of Directors, a diverse
 group of richly experienced individuals who agreed to volunteer for this
