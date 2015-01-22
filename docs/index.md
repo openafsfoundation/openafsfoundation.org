@@ -10,7 +10,7 @@ nav: [about,docs]
 These documents exist to define various policies of The Foundation, or to
 provide information to the public about The Foundation.
 
-* [Articles of Incorporation](openafs-foundation-incorporation.pdf)
+* Articles of Incorporation
 * [Bylaws](openafs-foundation-bylaws.pdf)
 * [Conflict of Interest Policy](openafs-foundation-coi-policy.pdf)
 * [Code of Ethics Policy](openafs-foundation-coe.pdf)
