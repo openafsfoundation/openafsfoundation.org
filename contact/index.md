@@ -5,9 +5,9 @@ nav: [contact]
 
 ## Contact ##
 
-To contact the Foundation Board of Directors directly, email
-<foundation@openafs.org>. You can also find the email address of individual
-board members in their [biographic introductions]({{ site.baseurl }}/board/).
+To contact The OpenAFS Foundation's Board of Directors directly, please email
+<foundation@openafs.org>. You can also find the email address of each individual
+board member in his/her [biographic introductions]({{ site.baseurl }}/board/).
 You can reach the Secretary of the Board at <secretary@openafs.org>, and the
 Treasurer at <treasurer@openafs.org>.
 
