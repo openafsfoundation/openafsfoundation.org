@@ -3,7 +3,7 @@ tite: How We Nurture and Evolve AFS Technology
 nav: [tech,how]
 ---
 
-## How We Nurture and Evolve AFS Technology ##
+## How we nurture and evolve AFS technology ##
 
 The OpenAFS Foundation acknowledges and believes that it is just as critical to nurture and evolve the OpenAFS technology itself, as it is to foster the user community and/or attract and increase the developer community.  This technology is what draws and supports users and what unites developers in a common effort.  But maybe more importantly, without significant growth and consistent adaptations of the OpenAFS technology, this technology will atrophy and become irrelevant.  In short: no new code translates into “the beginning of the end” of OpenAFS as viable technology.
  
