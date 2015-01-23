@@ -3,7 +3,7 @@ title: What is the Technology?
 nav: [tech,what]
 ---
 
-## What Is The OpenAFS Technology? ##
+## What is the OpenAFS technology? ##
 
 The Andrew File System ("AFS") is a distributed filesystem product, pioneered at Carnegie Mellon University in cooperation with IBM in the mid-1980s, and subsequently supported and developed into a product by the Transarc Corporation (now IBM Pittsburgh Labs).
 
