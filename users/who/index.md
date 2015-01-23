@@ -3,4 +3,4 @@ title: "Who Are OpenAFS' Users?"
 nav: [users,who]
 ---
 
-## Who Are OpenAFS' Users? ##
+## Who is the community of OpenAFS users? ##
