@@ -3,7 +3,7 @@ title: Technology
 nav: [tech]
 ---
 
-## OpenAFS Technology ##
+## The OpenAFS technology ##
 
 The OpenAFS Foundation adopted a three-fold mission:
 
