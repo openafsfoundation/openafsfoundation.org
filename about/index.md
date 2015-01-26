@@ -62,7 +62,7 @@ vision includes that the OpenAFS Foundation facilitate the following:
     3. Support and participate in protocol standardization
 
 
-### How You Can Help ###
+### How you can help us ###
 
 As The OpenAFS Foundation, Inc., is an organization comprises exclusively of
 volunteers, we are hoping for your active help and support!  You may wish to
@@ -71,6 +71,7 @@ multitude of roles and tasks could benefit from your activities.  Should you
 wish to [contribute code](XXXbrokenlink), you may do that as well.  In the
 event you are uncertain about how you could contribute, we urge you to view our
 "ISO" Wish List (click here) with postings of tasks that need helping hands.
+
 
 ### Current Legal Status ###
 
