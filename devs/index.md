@@ -5,7 +5,7 @@ nav: [devs]
 
 ## The community of OpenAFS experts and developers ##
 
-The OpenAFS Foundation adopted a three-fold mission:
+The OpenAFS Foundation adopts a three-fold mission:
 
     To attract and increase the community of OpenAFS users
     To foster the OpenAFS community of experts
