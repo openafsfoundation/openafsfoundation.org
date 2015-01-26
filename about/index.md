@@ -10,7 +10,7 @@ May 20, 2013, as a non-profit organization.  It is presently seeking national no
 
 ### What We Do ###
 
-The OpenAFS Foundation adopts a three-fold mission:
+The OpenAFS Foundation adopts a **three-fold mission**:
 
 1. To attract and increase the community of OpenAFS users
 2. To foster the OpenAFS community of experts
@@ -19,7 +19,7 @@ The OpenAFS Foundation adopts a three-fold mission:
 We expect our activities for accomplishing our mission to be diverse, but our
 vision includes that the OpenAFS Foundation facilitate the following:
 
-1.  In order to attract and increase the community of OpenAFS users, The
+1.  In order to **attract and increase the community of OpenAFS user**s, The
     Foundation plans to:
 
     1. Offer OpenAFS and associated technologies to all members of the general
@@ -36,7 +36,7 @@ vision includes that the OpenAFS Foundation facilitate the following:
     4. Seek contributions by persons and organizations of any kind, via gifts,
        grants, contributions, "in kind" or other donation
 
-2.  In order to foster the OpenAFS community of experts, The Foundation intends
+2.  In order to **foster the OpenAFS community of experts**, The Foundation intends
     to:
 
     1. Seek contributions in both skills and talent (mentoring, conference
@@ -48,7 +48,7 @@ vision includes that the OpenAFS Foundation facilitate the following:
        (mentoring, free-of-charge mailing list contributions, free-of-charge
        ad-hoc consulting/training via the OpenAFS ticketing system, etc).
 
-3.  In order to nurture and evolve the OpenAFS technology, The Foundation plans
+3.  In order to **nurture and evolve the OpenAFS technology**, The Foundation plans
     to:
 
     1. Strengthen OpenAFS, as defined as intellectual property such as
@@ -69,13 +69,13 @@ event you are uncertain about how you could contribute, we urge you to view our
 "ISO" Wish List (click here) with postings of tasks that need helping hands.
 
 
-### Our Current Legal Tax Status ###
+### Our Current Legal Status ###
 
-The OpenAFS Foundation, Inc.  is a Pennsylvania non-profit corporation. The Foundation's Pennsylvania Entity Number is 4189117, assigned by the Pennsylvania Department of State's Bureau of Corporations and Charitable Organizations on May 20, 2013. The Foundation's federal Employer Identification Number (EIN) is 46-2902947, assigned by the IRS on June 4, 2013. Official documents and forms defining The Foundation are available on our documents page.
+The OpenAFS Foundation, Inc.  is a **Pennsylvania non-profit corporation**. The Foundation's Pennsylvania Entity Number is 4189117, assigned by the Pennsylvania Department of State's Bureau of Corporations and Charitable Organizations on May 20, 2013. The Foundation's federal Employer Identification Number (EIN) is 46-2902947, assigned by the IRS on June 4, 2013. Official documents and forms defining The Foundation are available on our documents page.
 
-The Foundation has applied to the Internal Revenue Service to obtain tax-exempt status as a private charity under Section 501(c)(3) of the IRS Code.  As of January 2015, the application remains pending.  Donations to the Foundation shall become tax deductible upon award of tax-exempt status.  Our specific tax returns are publically available for review.
+The Foundation has applied to the Internal Revenue Service to **obtain national tax-exempt status** as a private charity under Section 501(c)(3) of the IRS Code.  As of January 2015, the application remains pending.  Donations to the Foundation shall become tax deductible upon award of tax-exempt status.  Our specific tax returns are publically available for review.
 
-The OpenAFS Foundation also makes use of the common law trademarks "AFS" and "OpenAFS" that are owned by IBM. IBM granted the right to use these trademarks to the five people that comprised The Foundation's Creation Committee on May 10, 2013, and these rights were transferred to The OpenAFS Foundation, Inc. when it was incorporated. The full agreement can be found on our documents page.
+The OpenAFS Foundation also makes use of the common law **trademarks "AFS" and "OpenAFS"** that are owned by **IBM**. IBM granted the right to use these trademarks to the five people that comprised The Foundation's Creation Committee on May 10, 2013, and these rights were transferred to The OpenAFS Foundation, Inc. when it was incorporated. The full agreement can be found on our documents page.
 
 
 ### Core Foundational Documents ###
