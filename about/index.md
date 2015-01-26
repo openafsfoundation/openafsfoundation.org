@@ -19,7 +19,7 @@ The OpenAFS Foundation adopts a **three-fold mission**:
 We expect our activities for accomplishing our mission to be diverse, but our
 vision includes that the OpenAFS Foundation facilitate the following:
 
-1.  In order to **attract and increase the community of OpenAFS user**s, The
+1.  In order to **attract and increase the community of OpenAFS users**, The
     Foundation plans to:
 
     1. Offer OpenAFS and associated technologies to all members of the general
