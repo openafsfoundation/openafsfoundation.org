@@ -3,7 +3,7 @@ title: Users
 nav: [users]
 ---
 
-## The community of OpenAFS users ##
+## The Community of OpenAFS Users ##
 
 The OpenAFS Foundation adopts a **three-fold mission**:
 
