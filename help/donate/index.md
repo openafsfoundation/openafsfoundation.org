@@ -3,7 +3,7 @@ title: Donate
 nav: [about,help]
 ---
 
-## Donate ##
+## Help Us By Donating ##
 
 
 ### Donate Money###
