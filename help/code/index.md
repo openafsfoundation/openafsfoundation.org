@@ -3,4 +3,4 @@ title: Contribute Code
 nav: [about,help]
 ---
 
-## Contribute Code ##
+## Help Us By Contributing Code ##
