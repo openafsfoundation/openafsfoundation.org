@@ -3,7 +3,7 @@ title: Contact
 nav: [contact]
 ---
 
-## Contact ##
+##  Contact Us  ##
 
 To contact The OpenAFS Foundation's Board of Directors directly, please email
 <foundation@openafsfoundation.org>. You can also find the email address of each individual
