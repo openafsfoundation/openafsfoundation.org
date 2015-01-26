@@ -26,8 +26,7 @@ vision includes that the OpenAFS Foundation facilitate the following:
        public, individuals and organizations alike, through the use of open
        source licensing, free of charge
     2. Educate members of the general public in the application of OpenAFS and
-       associated technologies (Hackathons and/or paid internships such as
-       "Google Summer of Code," low-cost conferences, low-cost Best Practices
+       associated technologies (low-cost conferences, low-cost Best Practices
        Workshops, free-of-charge ad-hoc consulting/training via the OpenAFS
        ticketing system, etc.)
     3. Aid, assist, and support other persons and organizations of any kind
@@ -42,12 +41,9 @@ vision includes that the OpenAFS Foundation facilitate the following:
 
     1. Seek contributions in both skills and talent (mentoring, conference
        presentations, publications, etc.)
-    2. Educate member of the OpenAFS community of experts (Hackathons and/or
+    2. Educate members of the OpenAFS community of experts (Hackathons and/or
        paid internships such as "Google Summer of Code," low-cost conferences,
-       low-cost Best Practices Practices Workshops, free-of-charge ad-hoc
-       consulting/training via the OpenAFS ticketing system which records and
-       archives any technical issues and/or questions posted along with their
-       answers, etc.)
+       low-cost Best Practices Practices Workshops, etc.)
     3. Model and foster a spirit of cooperation and professionalism
        (mentoring, free-of-charge mailing list contributions, free-of-charge
        ad-hoc consulting/training via the OpenAFS ticketing system, etc).
