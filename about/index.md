@@ -10,7 +10,7 @@ May 20 of 2013, as a non-profit organization.  It is presently seeking national 
 
 ### What we do ###
 
-The OpenAFS Foundation adopted a three-fold mission:
+The OpenAFS Foundation adopts a three-fold mission:
 
 1. To attract and increase the community of OpenAFS users
 2. To foster the OpenAFS community of experts
