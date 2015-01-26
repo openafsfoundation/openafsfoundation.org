@@ -10,8 +10,8 @@ group of richly experienced individuals who agreed to volunteer for this
 leadership challenge.  The Board of Directors has an Executive Director as its
 head.  If you would like to learn about the individuals currently serving on
 the Board of directors, click [here]({{site.baseurl}}/board/).  The Board of
-Directors is supported by volunteers who accepted the roles of Treasurer or
-Secretary.  If you would like read a brief introduction to those volunteers,
+Directors is supported by volunteers who accepted the roles of **Treasurer** or
+**Secretary**.  If you would like read a brief introduction to those volunteers,
 click [here](XXXbrokenlink).
 
 The Board of Directors oversees and has final authority over all activities
