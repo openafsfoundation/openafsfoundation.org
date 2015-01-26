@@ -5,7 +5,7 @@ nav: [tech]
 
 ## The OpenAFS technology ##
 
-The OpenAFS Foundation adopted a three-fold mission:
+The OpenAFS Foundation adopts a three-fold mission:
 
     To attract and increase the community of OpenAFS users
     To foster the OpenAFS community of experts
