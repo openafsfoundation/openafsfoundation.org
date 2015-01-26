@@ -6,6 +6,8 @@ nav: [about,help]
 ## Help Us By Donating ##
 
 
+The OpenAFS Foundation, on the behalf of all, asks that you consider donating some of your money and/or your equipment. Both are needed to help us grow!  Thank you.
+
 ### Donate Money###
 
 The OpenAFS Foundation currently accepts monetary donations via PayPal. You do
