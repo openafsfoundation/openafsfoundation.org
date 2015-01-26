@@ -8,7 +8,7 @@ nav: [about]
 The OpenAFS Foundation, Inc., was incorporated in the Commonwealth of Pennsylvania on
 May 20, 2013, as a non-profit organization.  It is presently seeking national non-profit status with the IRS.
 
-### What we do ###
+### What We Do ###
 
 The OpenAFS Foundation adopts a three-fold mission:
 
@@ -58,7 +58,7 @@ vision includes that the OpenAFS Foundation facilitate the following:
     3. Support and participate in protocol standardization
 
 
-### How you can help us ###
+### How You Can Help Us ###
 
 As The OpenAFS Foundation, Inc., is an organization comprises exclusively of
 volunteers, we are hoping for your active help and support!  You may wish to
@@ -69,7 +69,7 @@ event you are uncertain about how you could contribute, we urge you to view our
 "ISO" Wish List (click here) with postings of tasks that need helping hands.
 
 
-### Current Legal Tax Status ###
+### Our Current Legal Tax Status ###
 
 The OpenAFS Foundation, Inc.  is a Pennsylvania non-profit corporation. The Foundation's Pennsylvania Entity Number is 4189117, assigned by the Pennsylvania Department of State's Bureau of Corporations and Charitable Organizations on May 20, 2013. The Foundation's federal Employer Identification Number (EIN) is 46-2902947, assigned by the IRS on June 4, 2013. Official documents and forms defining The Foundation are available on our documents page.
 
