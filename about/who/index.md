@@ -3,7 +3,7 @@ title: Who Are We?
 nav: [about,who]
 ---
 
-## Who we are ##
+## Who We Are ##
 
 The OpenAFS Foundation, Inc., is guided by our Board of Directors, a diverse
 group of richly experienced individuals who agreed to volunteer for this
