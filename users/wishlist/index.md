@@ -3,4 +3,4 @@ title: Wishlist
 nav: [users,how]
 ---
 
-## Wishlist ##
+## Our Wish-List ##
