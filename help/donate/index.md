@@ -25,7 +25,9 @@ to donate:
 </form>
 <p></p>
 
-In the near future, we hope to bring you the opportunity to **pledge regular donations**. This allows you to space out your donation and plan your giving, without having to do anything else!  In this manner, regular modest (or substantial) donations strengthen our financial capability so that we can budget ahead!  Thank you for using either of the donation options.
+In the near future, we hope to bring you the opportunity to **pledge regular donations**. This allows you to space out your donation and plan your giving, without having to do anything else!  Regular modest (or substantial) donations strengthen our financial capability in a way that allows us to project our budget ahead of time!  
+
+Thank you for using either of the donation options.
 
 
 ### Donate Equipment ###
