@@ -3,7 +3,7 @@ title: Large Companies
 nav: [users,who]
 ---
 
-## Large or Huge Organizations or Companies ##
+## Large Organizations and Huge Companies Drawing on OpenAFS ##
 
 Due to scalability, OpenAFS lends itself to be used by large organizations or corporations.
 
