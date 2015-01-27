@@ -3,7 +3,7 @@ tite: How We Nurture and Evolve AFS Technology
 nav: [tech,how]
 ---
 
-## How we nurture and evolve AFS technology ##
+## How We Nurture and Evolve AFS Technology ##
 
 The OpenAFS Foundation acknowledges and believes that it is just as critical to nurture and evolve the OpenAFS technology itself, as it is to foster the user community and/or attract and increase the developer community.  This technology is what draws and supports users and what unites developers in a common effort.  But maybe more importantly, without significant growth and consistent adaptations of the OpenAFS technology, this technology will atrophy and become irrelevant.  In short: no new code translates into “the beginning of the end” of OpenAFS as viable technology.
  
@@ -15,4 +15,4 @@ One or several major development projects may be underway.  The biggest challeng
 
 If you wish to personally contribute to the future well-being of OpenAFS technology, we invite you to not only sign up for mailing lists, but to actively participate.  In addition, you may review and/or participate in problem solving regarding known code issues, which are displayed in OpenAFS’ dedicated instance of the Report Tracker™ (“RT”).  RT is an open source trouble ticket tool provided to the public by Best Practices™.
 
-Last but not least, we plead with you that you review our in-search-of ("ISO") “wish list” is available for review and/or for additions.  There, we show and describe much needed code improvements in hopes that developers may feel motivated to “claim” one of those items and lead and/or contribute the work necessary for the fulfillment of that item.  The future of the OpenAFS technology depends on all of us -- including you!  Please contribute generously.  Thank you.
+Last but not least, we plead with you that you review our list of volunteer opportunities that is available for review and/or for additions.  There, we show and describe much needed code improvements in hopes that developers may feel motivated to “claim” one of those items and lead and/or contribute the work necessary for the fulfillment of that item.  The future of the OpenAFS technology depends on all of us -- including you!  Please contribute generously.  Thank you.
