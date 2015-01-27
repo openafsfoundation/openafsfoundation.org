@@ -10,8 +10,8 @@ The OpenAFS Foundation, on the behalf of all, asks that you consider donating so
 
 ### Donate Money###
 
-The OpenAFS Foundation currently accepts monetary donations via PayPal. You do
-not need to have/get a PayPal account in order to donate; just a credit card. Remember that even the smallest donation makes a lot of difference to an organization that has minimal operating funds.  The Foundation appreciates any amount you can give and thank you for your generosity.  Click the button below
+The OpenAFS Foundation currently accepts **individual monetary donations** via PayPal. You do
+not need to have/get a **PayPal** account in order to donate; just a credit card. Remember that even the smallest donation makes a lot of difference to an organization that has minimal operating funds.  The Foundation appreciates any amount you can give and thank you for your generosity.  Click the button below
 to donate:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -25,10 +25,12 @@ to donate:
 </form>
 <p></p>
 
+In the near future, we hope to bring you the opportunity to **pledge regular donations**. This allows you to space out your donation and plan your giving, without having to do anything else!  In this manner, regular modest (or substantial) donations strengthen our financial capability so that we can budget ahead!  Thank you for using either of the donation options.
+
 
 ### Donate Equipment ###
 
-At times, OpenAFS utilizes donated machines to be re-used for building
+At times, OpenAFS utilizes **donated machines to be re-used** for building
 OpenAFS on various platforms, or for other infrastructure needs. You may wish to
 send the OpenAFS Foundation physical hardware, or you may consider simply allowing
 OpenAFS developers to access a server that you host; either way, if you can spare any hardware resources, please [contact us]({{ site.baseurl }}/contact/).
