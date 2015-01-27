@@ -3,7 +3,7 @@ title: Official Documents
 nav: [about,docs]
 ---
 
-## Official Documents ##
+## Our Founding Documents ##
 
 ### Internal Foundation Documents ###
 
