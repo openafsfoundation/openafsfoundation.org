@@ -13,8 +13,7 @@ The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of
   <div class="index-box">
     <h4>What does The Foundation do?</h4>
     <p>The Foundation provides strategic direction and aims to raise money to support the development and
-    maintenance of OpenAFS. More
-    details can be found <a href="about/">here</a>.</p>
+    maintenance of OpenAFS. Find out <a href="about/">About The Foundation</a>.</p>
 
     <h4>Who leads The Foundation?</h4>
     <p>The OpenAFS Foundation is spear-headed by a <a href="board/">Board of 
@@ -31,10 +30,9 @@ The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of
 
     <h4>How can you help?</h4>
     <p>There are several ways that you can help OpenAFS, whether by donating
-    <a
-    href="support/">money</a>, <a
-    href="support/">equipment</a>, <a
-    href="support/">time and effort</a> or <a
-    href="support/">talent</a>.</p>
+    <a href="support/">money</a>,
+    <a href="support/">equipment</a>,
+    <a href="support/">time and effort</a> or 
+    <a href="support/">talent</a>.</p>
   </div>
 </div>
