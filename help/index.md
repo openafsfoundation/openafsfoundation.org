@@ -12,7 +12,7 @@ can contribute resources to OpenAFS Foundation, which will use those resources
 to improve or promote OpenAFS. However, note that the OpenAFS Foundation is
 currently **not** a 501(c)(3) non-profit corporation, and donations to the
 OpenAFS Foundation are **not** tax deductible. (See our [ABOUT
-page]({{site.baseurl}}/about/) for more information about The Foundation's
+page]({{site.github.url}}/about/) for more information about The Foundation's
 legal status.)
 
 
