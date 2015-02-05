@@ -25,6 +25,6 @@ agreements The Foundation has entered with other organizations.
 * [Pennsylvania Department of State, Bureau of Corporations and Charitable Organizations: Assignment of Entity Number](openafs-foundation-accepted-incorporation.pdf)
 * [Application for Employer Identification Number (Form SS-4)](openafs-foundation-ss4.pdf)
 * [Department of the Treasury, Internal Revenue Service: Assignment of Employer Identification Number](openafs-foundation-irs-ein.pdf)
-* [Annual tax returns]({{site.baseurl}}/about/finance/)
+* [Annual tax returns]({{site.github.url}}/about/finance/)
 * For historical purposes and reference: [The IBM Public License for OpenAFS](https://www.openafs.org/dl/license10.html)
 * [License Agreement](openafs-foundation-ibm-trademark-agreement.pdf) between International Business Machines, Inc. (IBM) and The OpenAFS Foundation, Inc., for the use of the "AFS" and "OpenAFS" trademarks
