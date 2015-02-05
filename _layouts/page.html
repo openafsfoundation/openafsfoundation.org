@@ -97,7 +97,12 @@
   </div>
   <div id="footer">
     <div class="container">
-      <a href="mailto:foundation@openafs.org">foundation@openafs.org</a> | <a href="https://github.com/openafsfoundation/openafsfoundation.org/">Site source</a>
+      {% if site.github.repository_url %}
+        {% assign source_url = site.github.repository_url %}
+      {% else %}
+        {% assign source_url = "https://github.com/openafsfoundation/openafsfoundation.org/" %}
+      {% endif %}
+      <a href="mailto:foundation@openafs.org">foundation@openafs.org</a> | <a href="{{source_url}}">Site source</a>
     </div>
   </div>
 </body>
