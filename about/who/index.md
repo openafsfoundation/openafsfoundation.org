@@ -9,7 +9,7 @@ The OpenAFS Foundation, Inc., is guided by our volunteer Board of Directors, a d
 group of richly experienced individuals who agreed to volunteer for this
 leadership challenge.  The Board of Directors has an Executive Director as its
 head.  If you would like to learn about the individuals currently serving on
-the [Board of Directors]({{site.github.url}}/board/).  The Board of
+the [Board of Directors]({site.github.url}/board/).  The Board of
 Directors is supported by volunteers who accepted the roles of **Treasurer** or
 **Secretary**.  If you would like read a brief introduction to those volunteers,
 click [here](XXXbrokenlink).
