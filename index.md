@@ -2,7 +2,7 @@
 extra-css: ["index.css"]
 ---
 
-The OpenAFS Foundation, Inc., is dedicated to fostering
+The OpenAFS Foundation, Inc., is a volunteer organiation dedicated to fostering
 the stability and growth of [OpenAFS](http://www.openafs.org/), an [open
 source](http://opensource.org/) implementation of the AFS distributed network
 filesystem. 
