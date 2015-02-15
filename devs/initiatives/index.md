@@ -19,7 +19,7 @@ Example of specific initiative: RxOSD, Thomas Keiser, Sine Nomine Associates.
 
 ### Current Development Initiatives ###
 
-List current initiatives (if any) in chronological order of start date.
+List current initiatives (if any) in chronological order of start date.  Link to Development Wish-List.
 
 Link each initiative to descriptions of specific initiatives (if one doesn't exist, we need to get it).  Identify developer(s) and sponsor(s)
 
