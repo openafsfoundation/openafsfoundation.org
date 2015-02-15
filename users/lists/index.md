@@ -5,6 +5,8 @@ nav: [users,how]
 
 ## OpenAFS Mailing Lists ##
 
-Compile one-sentence descriptions, plus links, of mailing lists, thereby giving a complete and concise overview of what is out there.  Much should be re-usable from OpenAFS.org.
+We apologize: this page is still under construction.  The following comments indicate future content:
+
+Compile one-sentence descriptions of existing mailing lists.  Link to each list. This gives a complete and concise overview of what is out there in terms of lists.  Much should be re-usable from "Mailing lists" page at OpenAFS.org.
 
 Add instructions how one could request a new mailing list and where to submit a proposal for it.
