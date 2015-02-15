@@ -3,7 +3,7 @@ title: Projects
 nav: [users,how]
 ---
 
-## Projects ##
+## USER PROJECTS ##
 
 We apologize: this page is still under construction.  The comments below indicate future content:
 
