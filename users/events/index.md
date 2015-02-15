@@ -21,9 +21,3 @@ Upcoming BPW info.  At present, the next BPW scheduled for Summer 2015 at Mancha
 
 Past BPWs:
 Links to announcement pages for past BPWs. Clarify which was onsite or online only or got cancelled.
-
-### OpenAFS Hackathons ###
-
-Audience/participants: developers. Goal: concentrated, uninterrupted work on OpenAFS code that benefits from direct communication and immediate peer feedback, thus is best done in a group of developers.
-Scheduling: ad-hoc, from time to time.
-At present: none announced.
