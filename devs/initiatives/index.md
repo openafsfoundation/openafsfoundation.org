@@ -5,9 +5,9 @@ nav: [devs,how]
 
 We apologize: this page is still under construction.  The following comments highlight expected future content:
 
-## Initiatives ##
+## Development Initiatives ##
 
-General description of scope/size/goal of initiative.
+General description of the scope/size/goal of an initiative.  Compare to Dev Projects (link).
 
 ### Past Development Initiatives ###
 
@@ -15,7 +15,7 @@ List past initiatives in chronological order.
 
 Link each initiative to descriptions of specific initiatives (if one can be collected).  Identifies developer(s) and sponsor(s).
 
-Example of specific initiative: RxOSD, Thomas Keiser, Sine Nomine Associates.
+?? Example of specific initiative: RxOSD, Thomas Keiser, Sine Nomine Associates.
 
 ### Current Development Initiatives ###
 
@@ -25,4 +25,4 @@ Link each initiative to descriptions of specific initiatives (if one doesn't exi
 
 ### Future Development Initiatives ###
 
-Instructions on how to suggest/request a new initiative (form?)
+Instructions on how to suggest/request a new development initiative (form?)
