@@ -3,7 +3,7 @@ title: Wishlist
 nav: [users,how]
 ---
 
-## Our Wish-List ##
+## OpenAFS Users' Wish-List ##
 
 We apologize: this page is still under construction.  The following comments indicate expected future content:
 
