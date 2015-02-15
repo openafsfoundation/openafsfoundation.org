@@ -3,11 +3,9 @@ title: Projects
 nav: [devs,how]
 ---
 
-## Development Projects ##
-
 We apologize: this page is still under construction.  The following comments highlight expected future content:
 
-## What is a Development Project?
+## Development Projects ##
 
 General description of scope/size/goal of development project. Compare to Development Initiatives (link to the latter).
 
