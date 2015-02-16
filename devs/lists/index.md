@@ -5,7 +5,7 @@ nav: [devs,how]
 
 ## Mailing Lists ##
 
-In addition to the [user facing e-lists](/users/lists), OpenAFS maintains several e-lists focused on development efforts:
+In addition to the [user focused e-lists](/users/lists), OpenAFS maintains several e-lists focused on development efforts:
 
 * [OpenAFS-devel](https://lists.openafs.org/mailman/listinfo/openafs-devel) - general OpenAFS development discussion
 * [OpenAFS-cvs](https://lists.openafs.org/mailman/listinfo/openafs-cvs) - OpenAFS GIT commit messages
