@@ -82,6 +82,9 @@
 
         - name: Mailing Lists
           url: users/lists/
+          
+        - name: WebSites
+          url: users/websites/
 
         - name: Wishlist
           url: users/wishlist/

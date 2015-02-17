@@ -3,9 +3,11 @@ title: Projects
 nav: [users,how]
 ---
 
-## Projects ##
+## USER PROJECTS ##
 
-What is a project? Code that fulfills set of specs, beyond scope of function-ad.
+We apologize: this page is still under construction.  The comments below indicate future content:
+
+What is a user project? Code that fulfills set of specs, beyond scope of function-ad.
 
 Describe one or two past projects.
 

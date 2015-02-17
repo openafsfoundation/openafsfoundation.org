@@ -2,7 +2,7 @@
 extra-css: ["index.css"]
 ---
 
-The OpenAFS Foundation, Inc., is dedicated to fostering
+The OpenAFS Foundation, Inc., is a volunteer organiation dedicated to fostering
 the stability and growth of [OpenAFS](http://www.openafs.org/), an [open
 source](http://opensource.org/) implementation of the AFS distributed network
 filesystem. 
@@ -16,7 +16,7 @@ The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of
     maintenance of OpenAFS. Find out <a href="about/">About The Foundation</a>.</p>
 
     <h4>Who leads The Foundation?</h4>
-    <p>The OpenAFS Foundation is spear-headed by a <a href="board/">Board of 
+    <p>The OpenAFS Foundation is spear-headed by a volunteer <a href="board/">Board of 
     Directors</a>. This Board consists of volunteers, who are primarily OpenAFS
     users, community leaders, or other prominent members of the OpenAFS
     community.</p>

@@ -5,19 +5,19 @@ nav: [users,how]
 
 ## OpenAFS Events ##
 
+We apologize: This page is still under construction.  The notes below list highlights of the future page.
+
 
 ### How-To Clinics ###
 
-Currently considered: Early part of BPW.  Intended audience: beginning users.
-
+Currently considered: Request has been made to dedicate the early part (first day?) of each upcoming Best Practices Workshop to How-To Clinic.  
+Intended audience: beginning users.
+Trainers: advanced developers and/or users.
 
 ### Best Practices Workshops ###
 
-Upcoming BPW info.  Intended audience: advanced users.
+Currently considered: 
+Upcoming BPW info.  At present, the next BPW scheduled for Summer 2015 at Manchaster UK.  Intended audience: advanced users.  Next BPW in USA: TBD, volunteer organizers and organizational sponsors needed.
 
-Past BPWs with links to pages.
-
-
-### OpenAFS Hackathons ###
-
-Audience/participants: developers.
+Past BPWs:
+Links to announcement pages for past BPWs. Clarify which was onsite or online only or got cancelled.
