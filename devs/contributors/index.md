@@ -1,6 +1,6 @@
 ---
 title: Top Contributors to OpenAFS Code
-nav: [contributors]
+nav: [devs,contributors]
 ---
 
 ## Top Contributors to OpenAFS Code ##
