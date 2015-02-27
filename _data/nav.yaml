@@ -21,7 +21,7 @@
         - name: Finances
           url: about/finance/
 
-    - name: Help
+    - name: Help OpenAFS
       id: help
       url: help/
       children:
