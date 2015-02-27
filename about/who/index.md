@@ -16,7 +16,7 @@ click [here](/openafsfoundation.org/help/volunteer/).
 
 The Board of Directors oversees and has final authority over all activities
 within The OpenAFS Foundation, Inc.  To help you understand our structure, we
-composed an organizational chart which you can view [here](/openafsfoundation.org/about/org-chart/). The
+composed an [organizational chart](/openafsfoundation.org/about/org-chart/). The
 chart will also offer definitions of the roles listed.
 
 Among the OpenAFS Foundation's central values are fairness and transparency.
