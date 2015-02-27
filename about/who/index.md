@@ -16,7 +16,7 @@ click [here](/openafsfoundation.org/help/volunteer/).
 
 The Board of Directors oversees and has final authority over all activities
 within The OpenAFS Foundation, Inc.  To help you understand our structure, we
-composed an organizational chart which you can view [here](org-chart/). The
+composed an organizational chart which you can view [here](/openafsfoundation.org/about/org-chart/). The
 chart will also offer definitions of the roles listed.
 
 Among the OpenAFS Foundation's central values are fairness and transparency.
@@ -24,7 +24,7 @@ We believe that not only the lines of authority and the various tasks should be
 disclosed, but also the financial status of the OpenAFS Foundation.  All moneys
 were donated to the Foundation and its causes by individuals or organizations
 wishing to support both our mission and our vision.  If you wish to peruse an
-overview over our financials, click [here](finance/).  In addition, the
+overview over our financials, click [here](/openafsfoundation.org/about/finance/).  In addition, the
 [Code of Ethics](/openafsfoundation.org/docs/openafs-foundation-coi-policy.pdf), the [Conflict of Interest
 Policy](/openafsfoundation.org/docs/openafs-foundation-coe.pdf), the [Wistleblower Protection Policy](/openafsfoundation.org/docs/openafs-foundation-whistleblower-policy.pdf)
 will aid you in understanding other core values of the OpenAFS Foundation. 
