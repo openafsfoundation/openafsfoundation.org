@@ -9,7 +9,7 @@ The OpenAFS Foundation, Inc., is guided by our volunteer Board of Directors, a d
 group of richly experienced individuals who agreed to volunteer for this
 leadership challenge.  The Board of Directors has an Executive Director as its
 head.  If you would like to learn about the individuals currently serving on
-the [Board of Directors](/openafsfoundation.org/about/board/).  The Board of
+the [Board of Directors]({sit.github.url}/about/board/).  The Board of
 Directors is supported by volunteers who accepted the roles of **Treasurer** or
 **Secretary**. [Volunteers Welcome!](/openafsfoundation.org/help/volunteer/)
 
@@ -29,9 +29,9 @@ Policy](/openafsfoundation.org/docs/openafs-foundation-coe.pdf), the [Wistleblow
 will aid you in understanding other core values of the OpenAFS Foundation. 
 
 If you wish to contact the Board of Directors, please email
-[foundation@openafs.org](mailto:foundation@openafs.org).  Should you wish to
+[foundation@openafs.org](mailto:foundation@openafsfoundation.org).  Should you wish to
 contact specific Directors of the Board, you may find their email addresses
 with their biographic introductions.  The Secretary can be contacted by
-emailing [secretary@openafs.org](mailto:secretary@openafs.org), and the
+emailing [secretary@openafs.org](mailto:secretary@openafsfoundation.org), and the
 Treasurer will receive your emails to
-[treasurer@openafs.org](mailto:treasurer@openafs.org).
+[treasurer@openafs.org](mailto:treasurer@openafsfoundation.org).
