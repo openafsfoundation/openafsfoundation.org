@@ -124,7 +124,11 @@
 
         - name: Wishlist
           url: devs/wishlist/
-
+          
+    - name: Top Contributors
+      id: contributors
+      url: devs/contributors/
+          
 - name: Technology
   id: tech
   url: tech/
