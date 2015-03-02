@@ -5,6 +5,22 @@ nav: [devs,who]
 
 ## Individuals ##
 
-This page is still under construction.  Once completed, it will list the names of individual OpenAFS developers in alphabetical order.
+During the recent past, who have been the leaders among those individuals contributing OpenAFS code? One’s assessing of “the top five” individual code contributors depends on how a) what tool one uses, and b) what one counts: either by the number of commits, or by the number of lines committed, or by any other measure.   
 
-We would like to thank those individuals for their contribution to OpenAFS!
+According to one of the git tools based on the number commits authored on the 'master' branch:
+
+- From 1 Jan 2013 to 31 Dec 2013:
+    1.  Jeffrey Altman (Your File System, Inc.): 287
+    2.  Simon Wilkinson (Your File System, Inc.): 194
+    3.  Andrew Deason (Sine Nomine Associates, Inc.): 103
+    4.  Benjamin Kaduk (MIT): 37
+    5.  Marc Dionne (Your File System, Inc.): 33
+
+- From 1 Jan 2014 to 31 Dec 2014:
+  1.  Benjamin Kaduk (MIT): 114
+  2.  Michael Meffie (Sine Nomine Associates, Inc.): 85
+  3.  Andrew Deason (Sine Nomine Associates, Inc.): 55
+  4.  Jeffrey Altman (Your File System, Inc.): 53	
+  5.  Chas Williams (US Naval Research Laboratory): 20
+
+We would like to thank those individuals for their contribution to OpenAFS!  Keep up the good work and your inspiring others!
