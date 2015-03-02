@@ -162,7 +162,6 @@ AFS was chosen as it was the only multi-platform software available to provide g
 Three Web servers at each module have an identical view of read-only copies of data provided by AFS. Bringing on additional Web serving capacity is as easy as adding another Web server which is also an AFS client.  A commercial DNS service with wellness checking, Akamai, resolves hostnames to these geographically distributed Web servers, which are checked every minute for availability.  Failure to contact Web service on any one of these systems results in the corresponding IP address being taken out of DNS resolution.
 
 This National Web server system known as, NatWeb, delivers Web content for 150 unique USGS websites. In 2006  NatWeb delivered an average of 1.2 million web pages and 191 gigabytes of data per day, for an annual total of 453 million pages and 68 terabytes.  It has experienced a roughly 50% increase in utilization annually for the last three years.  We serve data as diverse as
-
         Toxic Substances Hydrology http://toxics.usgs.gov/,
         Northern Prairie Wildlife http://www.npwrc.usgs.gov/,
         The Cascades Volcano Observatory http://vulcan.wr.usgs.gov/,
@@ -174,7 +173,6 @@ Our use of AFS is tied nearly exclusively to Web service.  All content is replic
 ####AFS Site Size####
 
 We are a small AFS site by most measures. AFS usage specifics (with some rounding):
-
         500 AFS users
         1300 volumes
         0.64 terabytes of data
@@ -184,7 +182,6 @@ Our architecture uses custom programming to detect changes to AFS content. Volum
 ####Architecture####
 
 Our server implementation is entirely Sun/Solaris 10 based.  At each of our three module locations:
-
         an AFS database server -- Sun 250
         3 AFS file servers, and 1 warm spare -- Sun V240
         all 4 file servers are directly attached to a Sun 3510FC Fibre Channel disk array (RAID 5 + 1)
