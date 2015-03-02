@@ -37,3 +37,7 @@ Status 	Document 	Formats
 (Process) 	Options for AFS Standardisation 	txt html xml
 Experimental 	Authentication Name Mapping extension for AFS-3 Protection Service 	txt html pdf xml
 Experimental 	rxgk: GSSAPI based security class for RX 	txt html xml
+
+### Other Initiatives ###
+
+At present, no other initiatives are under way.  If you would like to begin a new initiative, please let us know.
