@@ -36,7 +36,6 @@ Lastly, a very widely used toolkit, GEANT4 (http://geant4.web.cern.ch/geant4/), 
 A summary of research performed at SLAC in 2006: http://today.slac.stanford.edu/feature/holiday-message06.asp
 
 Since 1998, SLAC has stored all user home directories in AFS.  AFS is available to the several thousand machines in its batch farm and is used primarily for the delivery of binaries for batch jobs.
-
     How much data (in TB)?                 5.5TB
     How many users?                          3247
     How many volumes?                      18621
@@ -76,7 +75,6 @@ Network performance: The AFS protocol does not limit the implementation of addit
 #### AFS usage at PDC in numbers (2007-01-01)#### 
 
 Number of Clients: Unknown. PDC manages 5 clusters with a total of more than 1200 computing nodes. When the clusters are new, they use to appear around rank 70 of the top 500 list. All production systems use AFS. There may be a single digit number of computers which have no access to the AFS space. Add to that the number of researchers who access their data from their own workstations from all over the Internet.
-
     Number of simultaneous users: 100-200.
     Number of users with $HOME in pdc.kth.se AFS space: Approx 3000.
     Amount of data in AFS: Approx 5TB.
@@ -194,3 +192,83 @@ Our AFS clients fall into two major categories, the Web servers which serve cont
 Our content maintainers are overwhelmingly using Windows XP, with perhaps 5% using Mac OS X and still smaller numbers using Linux and Solaris.
 
 Our entire staff consists of 3 full-time employees, 1 part-time employee, and one manager. These individuals manage the budget, hardware, operating system maintenance, security, software updates, custom programming and user support for both the AFS and Web components of the service.
+
+###Robert Carter, Duke University Office of Information Technology, shared:###
+
+We're using the OpenAFS client code pretty extensively, and have been since fairly early in its release cycle. We're running the OpenAFS client on all of our Windows lab machines (we cheered the day the Windows clients became available, since we'd never found the funding to put Transarc clients on our Windows machines, and since the students had been clammoring for access to their AFS home directories for quite a while). We're also using the OpenAFS client on our MacOS X systems, although it will be summer before we actually roll out OS X in our campus lab environments. We've recently started a publicity campaign on campus to get students and faculty to take advantage of the OpenAFS client installation on their personal computers wherever possible, viewing AFS access from desktop systems throughout the campus as one of the primary ways to move toward decomissioning insecure FTP access to our central facilities -- we find that running AFS clients on desktop systems greatly simplifies our users' use of web development tools like DreamWeaver, since with the client, they can publish changes directly into their AFS home directories.
+
+On the whole, we've had very few problems with the client -- most of them related to the installer or to versioning issues with earlier versions of the code. We're still working on completing our integration work with Windows 2000 and XP -- we've established cross-realm trust between our nascent Active Directory and our existing K5 realm, and we've been working on trying to arrange to have AFS tokens derived locally from the K5 tickets granted to users on our Windows systems at login time. So far, that's not worked quite as well as we'd hoped, but that's purely a Windows problem, not an OpenAFS problem -- we've worked around it with some simple scripting at the client end for now, but I'm hopeful that when we get a chance to do some more developement work over the summer, we may find a means to make tokenization transparent on our Win2K/XP systems.
+
+We're hoping to do some testing early in the summer with the OpenAFS server, and provided that we can get everything to work out, to start migrating our server farm from the Transarc server code to the OpenAFS server code. We've been using AFS at our site since the early 1990s and we have a modestly-large AFS cell comprising Solaris servers of various vintage (Solaris 2.6, mostly, with some Solaris 8 on our more recent acquisitions).
+
+###Jimmy Engelbrecht, Kungliga Tekniska Högskolan Elektro Department, shared:###
+
+Our cell runs on OpenAFS fileservers on Tru64 5.0a. We have 0.5 - 1 TB of data and about 250-400 clients. We are VERY pleased with the fileserver, it's quite stable, no crashes in the 6 months we've been running them.
+
+Our 15 Solaris clients are running OpenAFS, we are very pleased with this one. (We plan to have about 100 Solaris hosts in a few months.)
+
+###Chris Huebsch, volunteer administrator for Dr. Wilhelm Andre Gymnasium, Chemnitz, Germany, shared:###
+
+I first used AFS in 1995 during my first year as a student. Now I am a member of the academic staff at Chemnitz University of Technology. Two years ago I started helping the Dr. Wilhelm Andre Gymnasium (Gymnasium is the German word for high school) to build up their computer lab. At that time we had only 30 workstations and one server using NFS.
+
+Last year (2001) we were very lucky and got enough money to build up a large intranet. At least large for a school. We now have 4 fileservers (each with 400 GB hardware RAID) with a total of 1.6 TB AFS space. Normal school-installations have to live with 50 to 100 GB on Windows NT or Novell.
+
+We have 1500 users and 100 clients (the next 50 clients are in sight). The primary platform is Linux. Some workstations run Windows 2000 for the sake of legacy applications.
+
+Before OpenAFS, we used NFS and Samba. There were no real problems with that solution because we had very little filespace (20 GB) on one server. But we saw the problems arising with 4 servers and much more capacity: The load on the server would rise and there was no transparent way to reorganize the location of the directories without heavy work on the users side due to absolute path names in configuration files! Neither NFS nor Samba provide ACLs in a smooth way. It would have required patching and installing lots of additional software. And quotas are not really easy to use. And last but not least: AFS is just cool :-)
+
+OpenAFS saves us a lot of time. This starts with the installation of our workstations via RedHat KickStart and NFS. Installing 100 clients in parallel (each requiring about 1.5 GB of binaries) produced an insustainable load on one server. So we decided to create an install volume and have it replicated on each AFS server. Each AFS Server machine runs a NFS re-exporter. With a round robin DNS-entry for the NFS installation server we can quadruple the capacity of our install source without writing cryptic KickStart configurations.
+
+Of course all the well known benefits of AFS (automatic backups, fault tolerance, etc.) help us save a lot of time and stress.
+
+One of the school specific problems with AFS is that we need an operation mode for our workstations and servers allowing users to log in using AFS authentication, but without allowing access to the home volumes of the users. We need this mode for writing "electronic tests". We try to solve this with negative ACLs for a special test-writing-group.
+
+The next problem is to distribute some of the rights of system:adminstrators without making users members of that group. For instance we like to give teachers the right to change quotas of their puplis' volumes but not their own. We think we will solve this with a middle-layer web page.
+
+At the moment we do not buy any commercial support. But we are trying to extend our cell through the whole city with 160 sites and 50000 users. At that time we will need some help.
+
+Since writing this story two years passed by.
+
+Currently we have 1733 volumes on-line, 1585 of them user-volumes. The aggregated quota is 210GB with 90GB used. The initial user-qouta is 50MB. With the help of a PHP-based web-tool the qouta can be changed by a teacher. Basic fs- and vos-operations (setacl, mkmount, release) are done by this teacher manually at command line-shell.
+
+In this 2 years of operation there was not a single-data-loss because of AFS (not that there has been any data-loss at all :-) Even the sudden death of a file-server-machine didn't corrupt data. The second incident of this kind wasn't event noticed for some time.
+
+The 4 AFS-server-machines (Athlon 1400, 1GB RAM, E1000-Network) still have an avg-load of 0.02. Obviously there is no need in replacing them in near future.
+
+3 Months ago we performed an update from RedHat Linux 7.2 to Fedora Core 1. Except some minor troubles with the NFS-reexporters and the cfengine it worked seamlessly. At the same time OpenAFS 1.2.11 was installed without any pain at all. OpenAFS 1.2.3 was used before.
+
+We use our file-servers not only for user-files but also for backup and system-maintainance files. Daily system-backup of all servers (mail, ldap, ...) is done to an AFS-volume for each server. The volume is replicated to another fileserver. We use cfengine for administrative tasks. The cfengine-repository is stored in AFS and distributed by AFS and not the cfengine-file-server.
+
+The balancer is used to spread load between fileservers by moving volumes in respect of week-usage and number of volumes.
+
+As a next step we will add an fifth fileserver on a remote location (only connected with 128 kbit). We hope that by replicating a ro-db-server and many volumes to that server will be sufficient to keep things working.
+
+###Derrick Brashear, Carnegie Mellon University Computing Services Division and OpenAFS volunteer, shared:###
+
+Computing Services rolled out OpenAFS to both clients and servers early, and now runs modern versions on Solaris 2.6 servers, as well as on Solaris 7 and 8 and locally-updated Redhat 6.1 clients. Additionally, the OpenAFS Windows NT client is being tested general rollout.
+
+Despite often using pre-release versions of the software few problems have been experienced, and fixes have generally been quickly forthcoming, either internally done and contributed back to the community, or thanks to the many active contributors to the ongoing success of the project.
+
+###Matthew E. Hoskins, New Jersey Institute of Technology University Information Systems, shared:###
+
+University Information Systems (UIS) started testing OpenAFS about 7 months ago for the purpose of binary standardization across our web, application, and database servers. Those 7 months have been very stable and we are starting to roll our cell into production. We currently have ~140gb of vicep space across four servers (2 linux, 2 solaris8). The cell gracefully handled two events of failed disks without interruption.
+
+OpenAFS has and will continue to help me keep our 45 web, application, and database servers running the same versions of binaries and scripts.
+
+As our programmers learn of the features and capabilities of OpenAFS they increasingly want their workstations added as clients also (mixture of sun and linux boxes). As trust builds in OpenAFS we will also start moving production data into volumes rather than local storage. This will allow applications to "float" between nodes as necessary.
+
+Our site has been a long time Transarc customer for our academic cell (2.6Tb, 6 fileservers, 17000 users, 100s of workstations), The OpenAFS project and its contributors are breathing new life into a wonderful technology.
+
+Some features that would be of value:
+        OpenAFS documentation on kaserver -> krb5 migration
+        OpenAFS documentation on setup for new krb5 cells
+        Integrated krb5 kdc
+        R/W replicated volumes
+        All logging via syslog
+        better end-user command line utilities (An "ls" replacement that better described ACLs would be awesome)
+
+I am working on converting all my various perl scripts into a perl module so i can contribute it and open it up for community development.
+
+###Sharing your OpenAFS Story###
+
+Please contact us to share your success story, or to bring somebody else's success with OpenAFS to our attention.  Thank you.
