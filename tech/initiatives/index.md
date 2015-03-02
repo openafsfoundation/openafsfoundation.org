@@ -15,9 +15,9 @@ The current chair is Jeffrey Hutzelman <jhutz@cmu.edu> who is expected to serve 
 
 #### News ####
 
-    March 5, 2014
-    We are pleased to announce the afs3-rxgk draft has been promoted to AFS3 experimental status.
-    Older news
+March 5, 2014:  We are pleased to announce the afs3-rxgk draft has been promoted to AFS3 experimental status.
+    
+Older news
 
 #### Documents ####
 
