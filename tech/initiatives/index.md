@@ -23,13 +23,13 @@ Older news
 
 Section 2.3.3 of our provisional charter describes three document states:
 
-##### Draft #####
+##### 1) Draft #####
 Documents in this state are works in progress, and are published and distributed as Internet-Drafts. A list of currently active drafts can be found here.
 
-##### Experimental #####
+##### 2) Experimental #####
 Documents in this state are generally complete specifications which represent the consensus of the standardization group and which the group considers ready for implementation and testing. Advancement to this state requires consensus of the group, as determined by the chairs following a formal last call on the mailing list. 
 
-##### Standard #####
+##### 3) Standard #####
 Documents in this state are considered reasonably mature and ready for general deployment. Before a document can advance to this state, it must first reach the "experimenal" state, and there must be at least one successful implementation of all of the protocol elements defined within the document. Advancement then requires consensus of the group, as determined by the chairs following a formal last call on the mailing list. 
 
 Documents which have advanced to Experimental or Standard status, and generally accepted process documents, are listed here:
