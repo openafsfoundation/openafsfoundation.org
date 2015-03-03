@@ -9,13 +9,13 @@
       id: who
       url: about/who/
       children:
-        - name: Board
+        - name: Our Board
           url: about/board/
         
         - name: Org Chart
           url: about/org-chart/
 
-        - name: Work Groups
+        - name: AFS3 Standardization
           url: about/work-groups/
 
         - name: Finances
@@ -40,7 +40,7 @@
         - name: Wishlist
           url: help/wishlist/
 
-    - name: Documents
+    - name: Foundation Documents
       id: docs
       url: docs/
 
@@ -61,7 +61,7 @@
         - name: Large Business
           url: users/corps/
 
-        - name: Success Stories
+        - name: AFS Success Stories
           url: users/success/
 
     - name: How We Foster
@@ -137,7 +137,7 @@
       id: what
       url: tech/what/
       children:
-        - name: Open Source
+        - name: "Open Source"
           url: tech/oss/
 
         - name: "AFS & OpenAFS"
@@ -152,7 +152,7 @@
         - name: Other Filesystems
           url: tech/comparison/
 
-        - name: Use Cases
+        - name: OpenAFS Use Cases
           url: tech/use-cases/
 
     - name: How We Nurture
@@ -177,6 +177,6 @@
         - name: Wishlist
           url: tech/wishlist/
 
-- name: Contact
+- name: Contact Us
   id: contact
   url: contact/
