@@ -3,7 +3,7 @@ title: Open Source
 nav: [tech,what]
 ---
 
-## Open Source ##
+## "Open Source" Definition and Criteria##
 
 According to [opensource.org](http://opensource.org), "Open source software is software that can be freely used, changed, and shared (in modified or unmodified form) by anyone. Open source software is made by many people, and distributed under licenses that comply with the Open Source Definition." Such a license, again according to opensource.org, is a license whose distribution terms include and comply with the [following criteria](http://opensource.org/definition):
 
