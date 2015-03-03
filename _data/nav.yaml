@@ -21,6 +21,7 @@
         - name: Finances
           url: about/finance/
 
+
     - name: Help OpenAFS
       id: help
       url: help/
@@ -43,6 +44,9 @@
     - name: Foundation Documents
       id: docs
       url: docs/
+
+    - name: Foundation Tasks
+      url: about/tasks/
 
 - name: Users
   id: users
