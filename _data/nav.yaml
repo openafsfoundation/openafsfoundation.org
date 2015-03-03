@@ -71,7 +71,7 @@
         - name: Events
           url: users/events/
 
-        - name: Initiatives
+        - name: AFS3 Standardization
           url: users/initiatives/
 
         - name: User Groups
