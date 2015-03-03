@@ -15,7 +15,7 @@
         - name: Org Chart
           url: about/org-chart/
 
-        - name: AFS3 Standardization
+        - name: Work Groups
           url: about/work-groups/
 
         - name: Finances
@@ -71,7 +71,7 @@
         - name: Events
           url: users/events/
 
-        - name: AFS3 Standardization
+        - name: Initiatives
           url: users/initiatives/
 
         - name: User Groups
@@ -162,7 +162,7 @@
         - name: Opportunities
           url: tech/opportunities/
 
-        - name: Initiatives
+        - name: AFS3 Standardization
           url: tech/initiatives/
 
         - name: Projects
