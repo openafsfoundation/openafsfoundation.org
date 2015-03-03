@@ -165,9 +165,6 @@
         - name: Initiatives
           url: tech/initiatives/
 
-        - name: Group Efforts
-          url: tech/group-efforts/
-
         - name: Projects
           url: tech/projects/
 
