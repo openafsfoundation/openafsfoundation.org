@@ -5,10 +5,8 @@ nav: [users,how]
 
 ## Initiatives Drawing on OpenAFS ##
 
-We apologize: this page is still under construction.  The comments below indicate suggested page content.
+We need to hear from you!
 
+Are there certain research initiatives "out there"that are suitable for OpenAFS?  What makes them a good match?  Are there initiatives in the educational arena that are good matches for OpenAFS technology? What about physics, or pharma industry?  Is OpenAFS being used across several organizations and supporting collaborative initiatives somewhere?
 
-
-Are there certain research initiatives (physics?  pharmaceutical?  whatever?) that are suitable for OpenAFS?  What makes them a good match?
-
-Potential downsides or pitfalls, if any?  How can they be mitigated and/or prevented?
+What are, or would you expect to be, potential downsides or pitfalls, if any?  How can they be mitigated and/or prevented?
