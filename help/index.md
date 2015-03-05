@@ -17,9 +17,10 @@ legal status.)
 
 There are various ways in which you can support OpenAFS:
   - donate money
-  - donate "in kind": machines, ...
+  - donate "in kind": used equipment, etc.
   - donate time: volunteer
   - donate talent and skills: mentor others
   - contribute code
   - contribute documentation
+  
 Please consider how **you** can pitch in and help!  Thank you.
