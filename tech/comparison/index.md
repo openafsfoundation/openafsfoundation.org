@@ -3,10 +3,11 @@ title: Filesystem Comparison
 nav: [tech,what]
 ---
 
-This page is still under construction, we apologize. A specific comparison is intended to appear here in the future, please stay tuned.  Thank you for your patience.
 
 ## Filesystem Comparison ##
 
+A comprehensive side-by-side comparison between OpenAFS as distributed filesystem and other open source file systems does not yet exist but might be most helpful, particularly to potential users still in the process of selecting the most appropriate file system for their task at hand.  Maybe you wish to volunteer and help develop such a comparison?  
+
 Among the plethora of existing network file systems, OpenAFS is most like DFS (conceived at Microsoft) or NFS (originating at SUN Microsystems).
 
-While various aspects of different file systems have been compared on occasion, we are unaware of a complete, side-by-side comparion, and we hope to be able to fulfil that request.  If you would like to assist in compiling a comprehensive comparison, please contact us; we very much will appreciate your active support in featuring such a useful overview!
+If you would like to assist in compiling a comprehensive comparison, please contact us; we very much will appreciate your active support in featuring such a useful overview!
