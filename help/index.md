@@ -15,12 +15,11 @@ OpenAFS Foundation are **not** tax deductible. (See our [ABOUT
 page]({{site.github.url}}/about/) for more information about The Foundation's
 legal status.)
 
-
-### Sponsors ###
-
-The following people or organizations have donated significant contributions to
-OpenAFS:
-
-* Jack Johnson
-* Example, Inc.
-* John Jackson
+There are various ways in which you can support OpenAFS:
+  - donate money
+  - donate "in kind": machines, ...
+  - donate time: volunteer
+  - donate talent and skills: mentor others
+  - contribute code
+  - contribute documentation
+Please consider how **you** can pitch in and help!  Thank you.
