@@ -3,16 +3,10 @@ title: Success Stories
 nav: [users,who]
 ---
 
-We apologize: this page is still under construction.  The comments below indicate future content.
+## Use Cases, Success Stories, Testimonials ##
 
-## Use Cases and Success Stories ##
+It goes without saying that we believe OpenAFS to be valuable technology.  Yet without user adoption, what we think is of little import.  
 
-Examples written in reporter-style (third person, "impersonal"), answering questions of How? Who? What? When? Why? How long?
+Specific [use cases]({http://openafs.org}/success) for OpenAFS may shed light on how this technology has been employed in real life.  A collection of [success stories]({http://openafs.org}/success) should not only reflect our pride in OpenAFS but also tell you about situations when OpenAFS technology "saved the day."  Last but not least, in our [user testimonials]({http://openafs.org}/success), you can read verbatim what experienced OpenAFS users think.
 
-Recycle text from OpenAFS.org.
-
-## Testimonials ##
-
-Verbatim copies of users sharing how OpenAFS made/makes them happy.  (First person singular or plural, "personal").  Source can be generally described such that identity is safe-guarded, or source can "come out" if permission has been obtained by the Foundation's Webmaster/Secretary.
-
-Recycle text from OpenAFS.org.
+The application of OpenAFS has proven useful in a variety of settings: educational institutions, research institutions, small companies, world-wide corporations, and more.
