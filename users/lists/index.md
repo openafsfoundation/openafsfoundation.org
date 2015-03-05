@@ -5,11 +5,10 @@ nav: [users,how]
 
 ## OpenAFS Mailing Lists ##
 
+Here are some mailing lists that might be of particular interest to OpenAFS users.  We encourage you to sign up!  To do so, please follow the instructions given on the specific lists.  Thank you.
+
 * [OpenAFS-announce](https://lists.openafs.org/mailman/listinfo/openafs-announce) - OpenAFS Announcements
 * [OpenAFS-info](https://lists.openafs.org/mailman/listinfo/openafs-info) - OpenAFS Info/Discussion
 
-We apologize: this page is still under construction.  The following comments indicate future content:
 
-Compile one-sentence descriptions of existing mailing lists.  Link to each list. This gives a complete and concise overview of what is out there in terms of lists.  Much should be re-usable from "Mailing lists" page at OpenAFS.org.
-
-Add instructions how one could request a new mailing list and where to submit a proposal for it.
+If you would like to propose another mailing list that you would consider useful, please contact us with a description for your proposed list.  We are happy to consider your proposals!  Thank you.
