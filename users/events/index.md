@@ -3,7 +3,7 @@ title: Events
 nav: [users,how]
 ---
 
-## OpenAFS Events ##
+## OpenAFS User Events ##
 
 ### How-To Clinics ###
 
