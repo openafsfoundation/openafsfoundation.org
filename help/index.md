@@ -3,9 +3,7 @@ title: Help Us
 nav: [about,help]
 ---
 
-## Help Us ##
-
-## Support OpenAFS ##
+## Help Support OpenAFS! ##
 
 If you wish to see OpenAFS grow and improve, there are a variety of ways you
 can contribute resources to OpenAFS Foundation, which will use those resources
