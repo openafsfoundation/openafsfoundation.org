@@ -3,7 +3,7 @@ title: Projects
 nav: [users,how]
 ---
 
-## OpenAFS USER PROJECTS ##
+## OpenAFS User Projects ##
 
 We need to hear from you!
 
