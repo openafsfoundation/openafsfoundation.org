@@ -3,9 +3,8 @@ title: Initiatives
 nav: [tech,how]
 ---
 
-## Initiatives ##
+## AFS3 Standardization Group ###
 
-### AFS3 Standardization Group ###
 
 At present, our flagship initiative is the AFS3 Standardization Group.
 
