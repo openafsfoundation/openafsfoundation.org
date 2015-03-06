@@ -3,7 +3,7 @@ title: Donate
 nav: [help, donate]
 ---
 
-## Help Us By Donating ##
+## Help OpenAFS By Donating ##
 
 
 The OpenAFS Foundation, on the behalf of all, asks that you consider donating some of your money and/or your equipment. Both are needed to help us grow!  Thank you.
