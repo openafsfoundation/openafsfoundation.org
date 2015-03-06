@@ -89,7 +89,7 @@
         - name: WebSites
           url: users/websites/
 
-        - name: User Wish-List
+        - name: Users' Wish-List
           url: users/wishlist/
 
 - name: Developers
