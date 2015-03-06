@@ -12,13 +12,13 @@
         - name: Our Board
           url: about/board/
         
-        - name: Org Chart
+        - name: Our Org Chart
           url: about/org-chart/
 
-        - name: Work Groups
+        - name: Our Work Groups
           url: about/work-groups/
 
-        - name: Finances
+        - name: Our Finances
           url: about/finance/
 
     - name: Foundation Documents
@@ -71,10 +71,10 @@
       id: how
       url: users/foster/
       children:
-        - name: Events
+        - name: User Events
           url: users/events/
 
-        - name: Initiatives
+        - name: User Initiatives
           url: users/initiatives/
 
         - name: User Groups
@@ -89,7 +89,7 @@
         - name: WebSites
           url: users/websites/
 
-        - name: Wishlist
+        - name: User Wish-List
           url: users/wishlist/
 
 - name: Developers
