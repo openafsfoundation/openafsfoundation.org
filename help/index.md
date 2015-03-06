@@ -1,6 +1,6 @@
 ---
 title: Help Us
-nav: [about,help]
+nav: [help]
 ---
 
 ## Help Support OpenAFS! ##
