@@ -5,7 +5,7 @@ nav: [devs,who]
 
 ## Business Contributors ##
 
-Several businesses offer commercial support contracts for OpenAFS or will do custom OpenAFS development for hire, or both. As a service to the OpenAFS community, The OpenAFS Foundation maintains this list of organizations, in alphabetical order, that provide such services.
+Several businesses offer commercial support contracts for OpenAFS to parties not wishing to carry out their own support of the OpenAFS software, or these businesses will do custom OpenAFS development for hire, or both. As a service to the OpenAFS community, The OpenAFS Foundation maintains a list of organizations, in alphabetical order, that provide such services.
 
 ### Commercial Support Organizations ###
 
