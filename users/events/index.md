@@ -11,7 +11,7 @@ We are currently considering some changes, and we would like your feedback! Requ
 
 ### European Kerberos and OpenAFS Conferences ###
 
-During the European OpenAFS conference in March of 2014, the University of Manchaster, United Kingdom, was selected as the site for the 2015 European OpenAFS conference.  Following tradition, the intended audience are advanced users.  However, the format might be altered by dedicating the first day of the conference to a How-To Clinic for beginning users (see above) if and when the demand arises. 
+During the European OpenAFS conference in March of 2014, the University of Manchaster, United Kingdom, was provisionally selected as the site for the 2015 European OpenAFS conference.  Following tradition, the intended audience are advanced users.  However, the format might be altered by dedicating the first day of the conference to a How-To Clinic for beginning users (see above) if and when the demand arises. 
 
 NOTE: The location, along with conference dates, need to be confirmed.  Please stay tuned for updates!
 
