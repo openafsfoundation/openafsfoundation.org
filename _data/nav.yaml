@@ -29,9 +29,9 @@
       url: about/tasks/
 
 - name: Help OpenAFS!
-    id: help
-    url: help/
-    children:
+  id: help
+  url: help/
+  children:
     - name: Donate
       url: help/donate/
 
