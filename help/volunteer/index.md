@@ -3,7 +3,8 @@ title: Volunteer
 nav: [help, volunteer]
 ---
 
-## Help Us By Volunteering #
+## Help OpenAFS By Volunteering ##
+
 
 ### Donate Time and Energy ###
 
