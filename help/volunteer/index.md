@@ -1,11 +1,9 @@
 ---
 title: Volunteer
-nav: [help,volunteer]
+nav: [help, volunteer]
 ---
 
 ## Help Us By Volunteering #
-
-
 
 ### Donate Time and Energy ###
 
