@@ -1,6 +1,6 @@
 ---
 title: Mentor
-nav: [about,help]
+nav: [help]
 ---
 
 ## Help Us By Mentoring ##
