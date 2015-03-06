@@ -1,6 +1,6 @@
 ---
 title: Donate
-nav: [about,help]
+nav: [help, donate]
 ---
 
 ## Help Us By Donating ##
