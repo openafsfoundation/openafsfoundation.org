@@ -41,7 +41,7 @@
     - name: Mentor
       url: help/mentor/
 
-    - name: Contribute Code
+    - name: Contribute Code/Documentation
       url: help/code/
 
     - name: Wish-List
@@ -103,7 +103,7 @@
         - name: Individuals
           url: devs/individuals/
 
-        - name: Business
+        - name: Businesses
           url: devs/business/
 
     - name: How We Attract Them
@@ -116,7 +116,7 @@
         - name: Initiatives
           url: devs/initiatives/
 
-        - name: Work Group
+        - name: Work Groups
           url: devs/work-groups/
 
         - name: Projects
