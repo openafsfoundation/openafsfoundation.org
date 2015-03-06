@@ -5,7 +5,7 @@ nav: [about,tasks]
 
 ## OpenAFS Foundation Tasks ##
 
-The OpenAFS Foundation, Inc., assists OpenAFS users and OpenAFS developers by handling all matters other than software development and documentation, so the developers can focus on what they do best: improving the software for the public good. The following are the services and options that are available.
+The OpenAFS Foundation, Inc., assists OpenAFS users and OpenAFS developers by handling all matters other than software development and documentation, so the developers can focus on what they do best: maximizing the utilization of OpenAFS technology and improving the software for the public good, repectively. The following are services and options that are available.
 
 ### Tax-Deductible, Earmarked Donations ###
 
