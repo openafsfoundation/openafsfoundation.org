@@ -21,32 +21,31 @@
         - name: Finances
           url: about/finance/
 
-
-    - name: Help OpenAFS
-      id: help
-      url: help/
-      children:
-        - name: Donate
-          url: help/donate/
-
-        - name: Volunteer
-          url: help/volunteer/
-
-        - name: Mentor
-          url: help/mentor/
-
-        - name: Contribute Code
-          url: help/code/
-
-        - name: Wishlist
-          url: help/wishlist/
-
     - name: Foundation Documents
       id: docs
       url: docs/
 
     - name: Foundation Tasks
       url: about/tasks/
+
+- name: Help OpenAFS!
+    id: help
+    url: help/
+    children:
+      - name: Donate
+        url: help/donate/
+
+      - name: Volunteer
+        url: help/volunteer/
+
+      - name: Mentor
+        url: help/mentor/
+
+      - name: Contribute Code
+        url: help/code/
+
+      - name: Wishlist
+        url: help/wishlist/
 
 - name: Users
   id: users
