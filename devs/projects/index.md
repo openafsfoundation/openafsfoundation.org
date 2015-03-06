@@ -3,26 +3,13 @@ title: Projects
 nav: [devs,how]
 ---
 
-We apologize: this page is still under construction.  The following comments highlight expected future content:
 
 ## Development Projects ##
 
-General description of scope/size/goal of development project. Compare to Development Initiatives (link to the latter).
+From time to time, developers define large development efforts that are complex and/or large in scope and/or require developer cooperation for the project duration.  
 
-### Past Development Projects ###
+An example for a development project might be the Out of Band project executed by Andrew Deason (Sine Nomine Associates).
 
-List past development projects in chronological order.
+Theoretically, each project should have clear specifications, approved by the current Technical Advisors ("Gatekeepers") and should have mapped an overall path how the specifications will be translated into functionality.  This preparatory planning is crucial so that, upon completion of your work, the project results end up being suitable for being merged into the OpenAFS main branch.  Without such planning and approval by the Technical Advisors, the developer(s) run(s) danger of investing much blood, sweat, and tears writing code that turns out to be incompatible with the OpenAFS main branch and/or is not supportable there.  We cannot emphasize enough: it is IMPERATIVE to plan projects and get approval for them prior to actually beginning to write code! 
 
-Link each development project to descriptions of specific development project (if one can be collected).  Identifies developer(s) and sponsor(s).
-
-Example of specific development projects
-
-### Current Development Projects ###
-
-List current development projects (if any) in chronological order of start date.  Link to Development Wish-List.
-
-Link each development project to descriptions of specific development project (if one doesn't exist, we need to get it).  Identify developer(s) and sponsor(s)
-
-### Future Development Projects ###
-
-Instructions on how to suggest/request a new development project (form?)
+If you identified the need for a future development project, please write a brief description, the need(s) it is intended to meet, and map out a rough plan how you believe the coding work should be executed.  If you are unable to do such a write-up but can identify a general need, please identify that need "as-is."  In any event, we wait to hear from you and welcome your suggestions and contributions!  Thank you.
