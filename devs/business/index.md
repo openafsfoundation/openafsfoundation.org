@@ -9,10 +9,10 @@ Several businesses offer commercial support contracts for OpenAFS to parties not
 
 ### Commercial Support Organizations ###
 
--   Sine Nomine Associates, Inc.
+-   Sine Nomine Associates, Inc.,
     http://www.sinenomine.net/
 
--   Your File System, Inc.
+-   Your File System, Inc.,
     https://www.your-file-system.com/
 
 ### Inclusion Criteria ###
