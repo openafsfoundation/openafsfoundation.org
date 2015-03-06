@@ -32,20 +32,20 @@
     id: help
     url: help/
     children:
-      - name: Donate
-        url: help/donate/
+    - name: Donate
+      url: help/donate/
 
-      - name: Volunteer
-        url: help/volunteer/
+    - name: Volunteer
+      url: help/volunteer/
 
-      - name: Mentor
-        url: help/mentor/
+    - name: Mentor
+      url: help/mentor/
 
-      - name: Contribute Code
-        url: help/code/
+    - name: Contribute Code
+      url: help/code/
 
-      - name: Wishlist
-        url: help/wishlist/
+    - name: Wish-List
+      url: help/wishlist/
 
 - name: Users
   id: users
