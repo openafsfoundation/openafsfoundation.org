@@ -18,7 +18,9 @@ NOTE: The location, along with conference dates, need to be confirmed.  Please s
 ### Best Practices Workshops ###
 
 We are currently debating the dates and location for the next BPW located in the United States.  We are very much seeking:
+
   - Volunteer organizers 
+
   - Organizational/corporate sponsors 
 
 Please contact us if you see any way to support our efforts!  We need you to help make this a fun and useful event - and we thank you in advance!
