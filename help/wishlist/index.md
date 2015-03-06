@@ -1,6 +1,6 @@
 ---
 title: Wishlist
-nav: [about,help]
+nav: [help,wishlist]
 ---
 
 ## Our Known Volunteer Opportunities ##
