@@ -1,6 +1,6 @@
 ---
 title: Contribute Code
-nav: [about,help]
+nav: [help, code]
 ---
 
 ## Help Us By Contributing Code And/Or Documentation ##
