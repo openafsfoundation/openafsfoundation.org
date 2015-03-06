@@ -3,7 +3,7 @@ title: Wishlist
 nav: [help,wishlist]
 ---
 
-## Foundation Wish-List ##
+## The Foundation's Wish-List ##
 
 In this list, we show known volunteer opportunities.  You find roles/tasks displayed and described for which we are seeking one or several volunteers. If you are interested in claiming, or applying for, one such role/task, please contact the secretary at secretary@openafsfoundation.org.  Thank you.
 
