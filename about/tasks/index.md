@@ -5,9 +5,9 @@ nav: [about,tasks]
 
 ## OpenAFS Foundation Tasks ##
 
-The OpenAFS Foundation, Inc., assists OpenAFS users and OpenAFS developers by handling all matters other than software development and documentation, so the developers can focus on what they do best: maximizing the utilization of OpenAFS technology and improving the software for the public good, repectively. The following are services and options that are available.
+The OpenAFS Foundation, Inc., assists OpenAFS users and OpenAFS developers by handling all matters other than software development and documentation, so the developers can focus on what they do best: maximizing the utilization of OpenAFS technology and improving the software for the public good, repectively. 
 
-Those familiar with non-profit terminology will recognize most of The Foundation's services as "fiscal sponsorship services." This term is not particularly well known in the OpenAFS community, and many are confused by that term. However, if you are familiar with what a fiscal sponsor typically does in the non-profit sector, the term does fit many of the services that The Foundation provides for members of the OpenAFS community.  To clarify, we offer the following descriptions:
+Those familiar with non-profit terminology will recognize most of The Foundation's services as "fiscal sponsorship services." This term is not particularly well known in the OpenAFS community, and many are confused by that term. However, if you are familiar with what a fiscal sponsor typically does in the non-profit sector, the term does fit many of the services that The Foundation provides for members of the OpenAFS community.  To clarify, we offer the following service descriptions:
 
 ### Tax-Deductible, Earmarked Donations ###
 
@@ -41,7 +41,3 @@ The OpenAFS Foundation will provide various tools and advice for the OpenAFS com
 ### Leadership Mentoring, Advice and Guidance ###
 
 The OpenAFS Foundation's directors are experienced leaders in a variety of areas and arenas. They offer themselves as a resource to OpenAFS community members who need assistance or face challenges in their work, as pertaining to OpenAFS. Furthermore, The Foundation provides and maintains standards for professional, collegial conduct and will assist if and when such conduct is in question or has been breached.
-
-### Officiating Community Elections and Ballot Initiatives ###
-
-The OpenAFS Foundation will organize and run community elections and/or ballot initiatives for the OpenAFS community, using online voting software.
