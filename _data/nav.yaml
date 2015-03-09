@@ -142,12 +142,6 @@
         - name: "AFS & OpenAFS"
           url: tech/afs/
 
-        - name: Libraries
-          url: tech/libraries/
-
-        - name: Tools
-          url: tech/tools/
-
         - name: Other Filesystems
           url: tech/comparison/
 
@@ -158,14 +152,11 @@
       id: how
       url: tech/nurture/
       children:
-        - name: Opportunities
-          url: tech/opportunities/
-
         - name: AFS3 Standardization
           url: tech/initiatives/
 
         - name: Mailing Lists
-          url: tech/lists/
+          url: users/lists/
 
         - name: Wishlist
           url: tech/wishlist/
