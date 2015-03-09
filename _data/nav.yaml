@@ -164,9 +164,6 @@
         - name: AFS3 Standardization
           url: tech/initiatives/
 
-        - name: Projects
-          url: tech/projects/
-
         - name: Mailing Lists
           url: tech/lists/
 
