@@ -62,9 +62,9 @@ vision includes that the OpenAFS Foundation facilitate the following:
 
 As The OpenAFS Foundation, Inc., is an organization comprises exclusively of
 volunteers, we are hoping for your active help and support!  You may wish to
-make a [donation]({site.github.url}/help/donate/).  If you feel moved to [volunteer]({site.github.url}/help/volunteer), a
+make a [donation]({{site.github.url}}/help/donate/).  If you feel moved to [volunteer]({{site.github.url}}/help/volunteer), a
 multitude of roles and tasks could benefit from your activities.  Should you
-wish to [contribute code]({site.github.url}/help/code/), you may do that as well.  In the
+wish to [contribute code]({{site.github.url}}/help/code/), you may do that as well.  In the
 event you are uncertain about how you could contribute, we urge you to view our
 "ISO" Wish List (click here) with postings of tasks that need helping hands.
 
