@@ -30,9 +30,9 @@ The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of
 
     <h4>How can you help?</h4>
     <p>There are several ways that you can help OpenAFS, whether by donating
-    <a href="support/">money</a>,
-    <a href="support/">equipment</a>,
-    <a href="support/">time and effort</a> or 
-    <a href="support/">talent</a>.</p>
+    <a href="help/donate/">money</a>,
+    <a href="help/donate/">equipment</a>,
+    <a href="help/volunteer/">time and effort</a> or 
+    <a href="help/code/">talent</a>.</p>
   </div>
 </div>
