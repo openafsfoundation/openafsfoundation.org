@@ -16,8 +16,8 @@ The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of
     maintenance of OpenAFS. Find out <a href="about/">About The Foundation</a>.</p>
 
     <h4>Who leads The Foundation?</h4>
-    <p>The OpenAFS Foundation is spear-headed by a volunteer [Board of 
-    Directors]({{site.github.url}}/about/board). This Board consists of volunteers, who are primarily OpenAFS
+    <p>The OpenAFS Foundation is spear-headed by a volunteer <a href="about/board">Board of 
+    Directors</a>. This Board consists of volunteers, who are primarily OpenAFS
     users, community leaders, or other prominent members of the OpenAFS
     community.</p>
   </div>
