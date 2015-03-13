@@ -9,7 +9,7 @@ The OpenAFS Foundation adopts a **three-fold mission**:
 
 - To attract and increase the community of OpenAFS users
 - To foster the OpenAFS community of experts
-- To nurture and evolve the OpenAFS technology.
+- To nurture and evolve the OpenAFS technology
 
 In order to **nurture and evolve the OpenAFS technology**, The Foundation plans to:
 
