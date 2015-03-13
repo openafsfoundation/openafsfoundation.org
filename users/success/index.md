@@ -3,11 +3,23 @@ title: Success Stories
 nav: [users,who]
 ---
 
-## Use Cases and Success Stories ##
+## OpenAFS Use Cases ##
 
-Examples written in reporter-style (third person, "impersonal"), answering questions of How? Who? What? When? Why? How long?
+It goes without saying that we believe OpenAFS to be valuable technology.  Yet without user adoption, what we think is of little import.  
 
+Specific [use cases]({{site.github.url}}/tech/use-cases) for OpenAFS may shed light on how this technology has been employed in real life.  A collection of [success stories](http://openafs.org/success) should not only reflect our pride in OpenAFS but also tell you about situations when OpenAFS technology "saved the day:"
 
-## Testimonials ##
+  - Stanford Linear Accelerator (research)
 
-Verbatim copies of users sharing how OpenAFS made/makes them happy.  (First person singular or plural, "personal").  Source can be generally described such that identity is safe-guarded, or source can "come out" if permission has been obtained by the Foundation's Webmaster/Secretary.
+  - ParallelDatorCentrum, Center for Parallel Computers at KTH (research)
+  
+  - Pictage, Inc. (business)
+ 
+  - NCSA at UIUC (educational institution)
+
+  - United States Geological Survey (government)
+
+  - Duke University (educational institution)
+  
+
+Last but not least, in our [user testimonials](http://openafs.org/success), you can read verbatim what experienced OpenAFS users think.

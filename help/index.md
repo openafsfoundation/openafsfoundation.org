@@ -1,11 +1,9 @@
 ---
 title: Help Us
-nav: [about,help]
+nav: [help]
 ---
 
-## Help Us ##
-
-## Support OpenAFS ##
+## Help Support OpenAFS! ##
 
 If you wish to see OpenAFS grow and improve, there are a variety of ways you
 can contribute resources to OpenAFS Foundation, which will use those resources
@@ -15,12 +13,18 @@ OpenAFS Foundation are **not** tax deductible. (See our [ABOUT
 page]({{site.github.url}}/about/) for more information about The Foundation's
 legal status.)
 
+There are various ways in which you can support OpenAFS:
 
-### Sponsors ###
+  - donate money
+  
+  - donate "in kind": used equipment, etc.
 
-The following people or organizations have donated significant contributions to
-OpenAFS:
-
-* Jack Johnson
-* Example, Inc.
-* John Jackson
+  - donate time: volunteer
+  
+  - donate talent and skills: mentor others
+  
+  - contribute code
+  
+  - contribute documentation
+  
+Please consider how **you** can pitch in and help!  Thank you.

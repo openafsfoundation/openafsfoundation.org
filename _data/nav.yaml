@@ -1,7 +1,7 @@
 - name: Home
   url: ''
 
-- name: About
+- name: About Us
   id: about
   url: about/
   children:
@@ -9,40 +9,43 @@
       id: who
       url: about/who/
       children:
-        - name: Board
+        - name: Our Board
           url: about/board/
         
-        - name: Org Chart
+        - name: Our Org Chart
           url: about/org-chart/
 
-        - name: Work Groups
+        - name: Our Work Groups
           url: about/work-groups/
 
-        - name: Finances
+        - name: Our Finances
           url: about/finance/
 
-    - name: Help
-      id: help
-      url: help/
-      children:
-        - name: Donate
-          url: help/donate/
-
-        - name: Volunteer
-          url: help/volunteer/
-
-        - name: Mentor
-          url: help/mentor/
-
-        - name: Code
-          url: help/code/
-
-        - name: Wishlist
-          url: help/wishlist/
-
-    - name: Documents
+    - name: Foundation Documents
       id: docs
       url: docs/
+
+    - name: Foundation Tasks
+      url: about/tasks/
+
+- name: Help OpenAFS!
+  id: help
+  url: help/
+  children:
+    - name: Donate
+      url: help/donate/
+
+    - name: Volunteer
+      url: help/volunteer/
+
+    - name: Mentor
+      url: help/mentor/
+
+    - name: Contribute Code/Documentation
+      url: help/code/
+
+    - name: Foundation's Wish-List
+      url: help/wishlist/
 
 - name: Users
   id: users
@@ -61,17 +64,17 @@
         - name: Large Business
           url: users/corps/
 
-        - name: Success Stories
+        - name: AFS Success Stories
           url: users/success/
 
     - name: How We Foster
       id: how
       url: users/foster/
       children:
-        - name: Events
+        - name: User Events
           url: users/events/
 
-        - name: Initiatives
+        - name: User Initiatives
           url: users/initiatives/
 
         - name: User Groups
@@ -82,8 +85,11 @@
 
         - name: Mailing Lists
           url: users/lists/
+          
+        - name: WebSites
+          url: users/websites/
 
-        - name: Wishlist
+        - name: Users' Wish-List
           url: users/wishlist/
 
 - name: Developers
@@ -97,7 +103,7 @@
         - name: Individuals
           url: devs/individuals/
 
-        - name: Business
+        - name: Commercial Support Organizations
           url: devs/business/
 
     - name: How We Attract Them
@@ -119,7 +125,7 @@
         - name: Mailing Lists
           url: devs/lists/
 
-        - name: Wishlist
+        - name: Wish-List
           url: devs/wishlist/
 
 - name: Technology
@@ -130,46 +136,31 @@
       id: what
       url: tech/what/
       children:
-        - name: Open Source
+        - name: "Open Source"
           url: tech/oss/
 
         - name: "AFS & OpenAFS"
           url: tech/afs/
 
-        - name: Libraries
-          url: tech/libraries/
-
-        - name: Tools
-          url: tech/tools/
-
         - name: Other Filesystems
           url: tech/comparison/
 
-        - name: Use Cases
+        - name: OpenAFS Use Cases
           url: tech/use-cases/
 
     - name: How We Nurture
       id: how
       url: tech/nurture/
       children:
-        - name: Opportunities
-          url: tech/opportunities/
-
-        - name: Initiatives
+        - name: AFS3 Standardization
           url: tech/initiatives/
 
-        - name: Group Efforts
-          url: tech/group-efforts/
-
-        - name: Projects
-          url: tech/projects/
-
         - name: Mailing Lists
-          url: tech/lists/
+          url: users/lists/
 
         - name: Wishlist
           url: tech/wishlist/
 
-- name: Contact
+- name: Contact Us
   id: contact
   url: contact/

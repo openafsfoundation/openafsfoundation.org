@@ -11,7 +11,5 @@ In November 2000, IBM released a version of the source code of the AFS product t
 
 The OpenAFS Technology includes a variety of related libraries.  In addition, the OpenAFS Technology includes related tools.
 
-A comprehensive side-by-side comparison between OpenAFS as distributed filesystem and other open source file systems does not yet exist but might be most helpful, particularly to potential users still in the process of selecting the most appropriate file system for their task at hand.  Maybe you wish to volunteer and help develop such a comparison?  
-
 To enrich one's overview over OpenAFS technology and its strengths, several use cases illustrate the yet unparalleled capabilities of OpenAFS.  If you can think of a use of OpenAFS technology it "saved the day" by mastering a particular challenge, please contact us with a summary of the scenario for potential inclusion into our samples of OpenAFS Technology use cases.  Thank you.
 
