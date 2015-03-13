@@ -66,7 +66,7 @@ make a [donation]({{site.github.url}}/help/donate/).  If you feel moved to [volu
 multitude of roles and tasks could benefit from your activities.  Should you
 wish to [contribute code]({{site.github.url}}/help/code/), you may do that as well.  In the
 event you are uncertain about how you could contribute, we urge you to view our
-"ISO" Wish List (click here) with postings of tasks that need helping hands.
+"[ISO" Wish List]({{site.github.url}}/help/wishlist/) with postings of tasks that need helping hands.
 
 
 ### Our Current Legal Status ###
