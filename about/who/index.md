@@ -25,7 +25,7 @@ were donated to the Foundation and its causes by individuals or organizations
 wishing to support both our mission and our vision.  If you wish to peruse an
 overview over our [financials]({{site.github.url}}/about/finance/).  In addition, the
 [Code of Ethics]({{site.github.url}}/docs/openafs-foundation-coi-policy.pdf), the [Conflict of Interest
-Policy]({{site.github.url}}/docs/openafs-foundation-coe.pdf), and the [Wistleblower Protection Policy]({{site.github.url}}/docs/openafs-foundation-whistleblower-policy.pdf)
+Policy]({{site.github.url}}/docs/openafs-foundation-coe.pdf), and the [Whistleblower Protection Policy]({{site.github.url}}/docs/openafs-foundation-whistleblower-policy.pdf)
 will aid you in understanding other core values of the OpenAFS Foundation. 
 
 If you wish to contact the Board of Directors, please email
