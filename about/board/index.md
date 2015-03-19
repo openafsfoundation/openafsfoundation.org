@@ -53,9 +53,9 @@ looking forward to continuing to work with the OpenAFS community.
 
 Dave can be reached at <botsch@cnf.cornell.edu>.
 
-### Derrick ("Daria") Brashear (09/2012 - present) ###
+### Daria Brashear (09/2012 - present) ###
 
-Derrick Brashear -- who prefers to be called "Daria" -- has been involved with OpenAFS since its inception.  As a
+Daria Brashear has been involved with OpenAFS since its inception.  As a
 student at Carnegie Mellon in the 1990s, Daria took an interest in the
 distributed computing environment to which Daria had been newly exposed, which led
 to the acquisition of a used Sun workstation that, in turn, resulted in Daria's
