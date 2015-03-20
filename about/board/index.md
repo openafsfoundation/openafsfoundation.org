@@ -53,33 +53,33 @@ looking forward to continuing to work with the OpenAFS community.
 
 Dave can be reached at <botsch@cnf.cornell.edu>.
 
-### Derrick ("Daria") Brashear (09/2012 - present) ###
+### D. Brashear (09/2012 - present) ###
 
-Derrick Brashear -- who prefers to be called "Daria" -- has been involved with OpenAFS since its inception.  As a
-student at Carnegie Mellon in the 1990s, Daria took an interest in the
-distributed computing environment to which Daria had been newly exposed, which led
-to the acquisition of a used Sun workstation that, in turn, resulted in Daria's
+D. Brashear has been involved with OpenAFS since its inception.  As a
+student at Carnegie Mellon in the 1990s, she took an interest in the
+distributed computing environment to which she'd been newly exposed, which led
+to the acquisition of a used Sun workstation that, in turn, resulted in her
 current role.
 
 While working as a student, and then a staff member as a sysadmin and
 programmer for the Computing Services Division of Carnegie Mellon University,
-Daria pushed IBM Corporation regarding pieces of AFS technology that Daria felt
+she pushed IBM Corporation regarding pieces of AFS technology that she felt
 were legally required to be distributed.  While these pieces were eventually
 distributed openly, IBM ultimately chose to open source AFS completely,
-coincident with their end of life announcement, and Daria was one of the
+coincident with their end of life announcement, and she was one of the
 original organizers of the OpenAFS organization, as well as an OpenAFS
 gatekeeper and a member of the Council of Elders since the beginning.
 
-Daria has worked for Carnegie Mellon University, Sine Nomine Associates, and
+She has worked for Carnegie Mellon University, Sine Nomine Associates, and
 Your File System Inc., providing OpenAFS support and development among other
-responsibilities.  At Your File System, Daria currently works
+responsibilities.  At Your File System, she currently works
 on distributed data sharing technology based on protocols that, to this day, are
 derived from the original AFS3 implementation and principles dating back to the
-1980s.  Daria believes that these principles are ahead of their time and still relevant to
-modern data consumers. Thus, Daria seeks to continue to enhance this technology in order
+1980s.  She believes that these principles are ahead of their time and still relevant to
+modern data consumers. Thus, she seeks to continue to enhance this technology in order
 to bring it to ever more users.
 
-Daria can be reached at <shadow@your-file-system.com>.
+She can be reached at <shadow@your-file-system.com>.
 
 ### Todd DeSantis (09/2012 - present) ###
 
