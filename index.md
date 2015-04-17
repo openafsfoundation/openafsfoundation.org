@@ -36,3 +36,5 @@ The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of
     <a href="help/code/">talent</a>.</p>
   </div>
 </div>
+<hr>
+<p>Join us for the <a href="http://workshop.openafs.org/">AFS &amp; Kerberos Best Practices Workshop</a>, Pittsburgh PA, 2015!</p>
