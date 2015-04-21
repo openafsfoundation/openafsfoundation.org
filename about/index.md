@@ -14,7 +14,7 @@ The OpenAFS Foundation adopts a **three-fold mission**:
 
 1. To attract and increase the community of OpenAFS users
 2. To foster the OpenAFS community of experts
-3. To nurture and evolve the OpenAFS technology.
+3. To nurture and evolve the OpenAFS technology
 
 We expect our activities for accomplishing our mission to be diverse, but our
 vision includes that the OpenAFS Foundation facilitate the following:
@@ -46,7 +46,7 @@ vision includes that the OpenAFS Foundation facilitate the following:
        low-cost Best Practices Practices Workshops, etc.)
     3. Model and foster a spirit of cooperation and professionalism
        (mentoring, free-of-charge mailing list contributions, free-of-charge
-       ad-hoc consulting/training via the OpenAFS ticketing system, etc).
+       ad-hoc consulting/training via the OpenAFS ticketing system, etc)
 
 3.  In order to **nurture and evolve the OpenAFS technology**, The Foundation plans
     to:
