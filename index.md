@@ -37,11 +37,7 @@ The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of
   </div>
 </div>
 <hr>
-<p>Join us for the <a href="http://workshop.openafs.org/">AFS &amp; Kerberos Best Practices Workshop</a>, Pittsburgh PA, 2015!</p>
-<h3>News</h3>
-<h4>Next Board Meeting on Fri 24 Apr 2015</h4>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla nunc eu
-diam accumsan, non fringilla odio malesuada.
-<h4>Last Board Meeting on Fri 10 Apr 2015</h4>
-Vestibulum laoreet turpis justo. Donec eleifend mauris eget congue feugiat.
-Aliquam maximus augue in magna tristique, sit amet posuere velit venenatis.
+<p>Join us for the <a href="http://workshop.openafs.org/">AFS &amp; Kerberos Best Practices Workshop</a> of 2015 in Pittsburgh PA</p>
+<h3>News</h3 >
+
++++ NEXT BOARD MEETING scheduled for 05/24/15. Current agenda items: a) review and approval of previous meeting's minutes and resolutions, b) review of proposed website changes, c) PayPal set-up for repeat donations, d) review of Foundation's 2014 Federal Tax Return.  If you wish to add to the agenda, or comment on any of the agenda items, please email either foundation-discuss@openafsfoundation.org (for public posts), or secretary@openafsfoundation.org (to remain anonymous). +++ LAST BOARD MEETING: <url linking to web page "Log of BoD minutes and resolutions" reflects a chronological account of Board of Directors meetings' minutes and resolutions. +++ FINANCIAL TRANSPARENCY: Foundation's Federal Tax Returns and quarterly Financial Reports coming soon. +++
