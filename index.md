@@ -38,3 +38,10 @@ The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of
 </div>
 <hr>
 <p>Join us for the <a href="http://workshop.openafs.org/">AFS &amp; Kerberos Best Practices Workshop</a>, Pittsburgh PA, 2015!</p>
+<h3>News</h3>
+<h4>Next Board Meeting on Fri 24 Apr 2015</h4>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla nunc eu
+diam accumsan, non fringilla odio malesuada.
+<h4>Last Board Meeting on Fri 10 Apr 2015</h4>
+Vestibulum laoreet turpis justo. Donec eleifend mauris eget congue feugiat.
+Aliquam maximus augue in magna tristique, sit amet posuere velit venenatis.
