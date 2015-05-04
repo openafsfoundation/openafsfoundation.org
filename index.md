@@ -20,7 +20,7 @@ The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of
     Directors</a>. This Board consists of volunteers, who are primarily OpenAFS
     users, community leaders, or other prominent members of the OpenAFS
     community.</p>
-    <p>The Board of Directors meets weekly. The Secretary will, each week, <a href="about/minutes/">post agendas, minutes, and resolutions from the Board meetings</a>.</p>
+    <p>The Board of Directors meets weekly. Each week, the Secretary will <a href="about/minutes/">post agendas, minutes, and resolutions from the Board meetings</a>.</p>
   </div>
   <div class="index-box">
     <h4>What is OpenAFS?</h4>
