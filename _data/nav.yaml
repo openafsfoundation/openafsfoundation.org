@@ -28,6 +28,10 @@
     - name: Foundation Tasks
       url: about/tasks/
 
+    - name: Minutes and Resolutions
+      id: minutes
+      url: about/minutes/
+
 - name: Help OpenAFS!
   id: help
   url: help/
