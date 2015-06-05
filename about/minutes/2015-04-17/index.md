@@ -7,11 +7,11 @@ nav: [about]
 
 ## In Attendance ##
 
- Daria Brashear
- Dave Botsch
- David Boldt
- Margarete Ziemer
- Thomas Keiser
+ Daria Brashear,
+ Dave Botsch,
+ David Boldt,
+ Margarete Ziemer,
+ Thomas Keiser,
  Todd DeSantis
 
 ## Topics ##
