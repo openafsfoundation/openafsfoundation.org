@@ -38,7 +38,7 @@ nav: [about]
 
 #### Provided post meeting by Thomas: ####
 
-> I was there as well, although my audio connection seemed to be simplex--I tried to say something a few times, but it seemingly went into the ether.
+I was there as well, although my audio connection seemed to be simplex--I tried to say something a few times, but it seemingly went into the ether.
 
 I have a few questions that I couldn't pose on the call:
 
