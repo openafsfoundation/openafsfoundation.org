@@ -59,9 +59,9 @@ I have a few questions that I couldn't pose on the call:
    conversation pertain to some other user-kernel messaging layer that I'm not
    privy to?
 
-     Post meeting by Daria:
+   Post meeting by Daria:
 
-     This was the Dokan one.  
+   > This was the Dokan one.  
 
 2) Given Jeff's reservations about viability of a fully-userspace driver based
    on a fuse/rdbss substrate, I have serious reservations about proceeding
