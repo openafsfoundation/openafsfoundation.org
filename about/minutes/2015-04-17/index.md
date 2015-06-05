@@ -40,23 +40,17 @@ nav: [about]
   elders to the Foundation (no specific action item)
   Post meeting, Roman responded:
 
-  I believe this essentially rested in me, and to a lesser degree, Daria and
-  Todd.  We disbanded the Elders with the intent of the non-gatekeeper related
-  functions (which were only tangential to the elders) resting with the
-  Foundation.  Daria or Todd, please correct me if you think this
-  understanding is incorrect.
+  > I believe this essentially rested in me, and to a lesser degree, Daria and Todd.  We disbanded the Elders with the intent of the non-gatekeeper related functions (which were only tangential to the elders) resting with the Foundation.  Daria or Todd, please correct me if you think this understanding is incorrect.
 
 * with respect to the open AFS and Kerberos workshop it was agreed that
   + the Foundation will cooperate with the effort already underway for 2015
   + communications will be opened with the organizers
-  + David Boldt took the action item to link to the workshop from the Foundation
-    website (task accomplished)
-  + Dave Botsch will draft an email followup to the Foundation's original
-    communication on a conference/workshop.
+  + David Boldt took the action item to link to the workshop from the Foundation website (task accomplished)
+  + Dave Botsch will draft an email followup to the Foundation's original communication on a conference/workshop.
 
 Provided post meeting by Thomas:
 
-I was there as well, although my audio connection seemed to be simplex--I tried to say something a few times, but it seemingly went into the ether.
+> I was there as well, although my audio connection seemed to be simplex--I tried to say something a few times, but it seemingly went into the ether.
 
 I have a few questions that I couldn't pose on the call:
 
@@ -77,10 +71,9 @@ I have a few questions that I couldn't pose on the call:
    I do not intend that as a value judgment, but it is something we need to be
    crystal clear about).
 
-     Post meeting by Daria:
+   Post meeting by Daria:
 
-     I don't think it's viable, either, but obviously my take is conflicted
-     and thus I've not pushed it
+   > I don't think it's viable, either, but obviously my take is conflicted and thus I've not pushed it
 
 3) Moreover, given Jeff's commentary on Microsoft's motivations, going the
    FUSE route sounds to me like a quixotic endeavor: Microsoft is going to be
@@ -88,10 +81,9 @@ I have a few questions that I couldn't pose on the call:
    intrinsically, little more than a backdoor into their kernel file system
    layer.
 
-     Post meeting by Daria:
+   Post meeting by Daria:
 
-     It's the same as the GPL shim for Linux. A backdoor. The difference is
-     Microsoft could actually sue someone over it.
+   > It's the same as the GPL shim for Linux. A backdoor. The difference is Microsoft could actually sue someone over it.
 
 4) I'm guessing Jeff needs to focus his time and money on compliance for YFS;
    are we soon going to be in need of contractors to deal with the fully open
@@ -122,10 +114,9 @@ I have a few questions that I couldn't pose on the call:
    straightforward--and never sheepish--about our need for money to keep the
    lights on.
 
-     Post meeting by Daria:
+   Post meeting by Daria:
 
-     My wife is grappling with this for an opera company she works with. I can
-     only concur.
+   > My wife is grappling with this for an opera company she works with. I can only concur.
 
 7) Regarding the Elders discussion, I do not understand the motivation to
    grandfather their decisions.  Given the lack of a record of decision, how
