@@ -5,7 +5,7 @@ nav: [about]
 
 ## OpenAFS Foundation Meeting Notes  2015-04-17 ##
 
-## In Attendance ##
+### In Attendance ###
 
  Daria Brashear,
  Dave Botsch,
@@ -14,7 +14,7 @@ nav: [about]
  Thomas Keiser,
  Todd DeSantis
 
-## Topics ##
+### Topics ###
 
 * IRS response on hold
 * it is proposed that agenda/meeting notes will be maintained online, Margarete will select a location on the Foundation Website
