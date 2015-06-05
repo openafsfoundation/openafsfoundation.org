@@ -5,7 +5,7 @@ nav: [about]
 
 ## OpenAFS Foundation Meeting Notes  2015-04-24 ##
 
-## In Attendance ##
+### In Attendance ###
 
  Dave Botsch,
  David Boldt,
@@ -13,7 +13,7 @@ nav: [about]
  Thomas Keiser,
  Todd DeSantis
 
-## Topics ##
+### Topics ###
 
 * Resolution: Last meeting’s minutes were approved unanimously.
   * These Minutes can now go into Production. Dave Botsch will set up page(s); Dave Boldt will copy last week’s minutes.
