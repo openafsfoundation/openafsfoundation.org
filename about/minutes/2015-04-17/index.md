@@ -31,10 +31,10 @@ nav: [about]
 * Dave Botsch has offered to contact Roman for PayPal account information.
   Post meeting, Roman responded:
 
-> I can provide this to anyone, but we do need a way to transfer the password
-> securely.  I could put some kind of encrypted file in the AFS repository
-> with all the various passwords; if anyone has any preferences on the
-> methodology, let me know.
+  > I can provide this to anyone, but we do need a way to transfer the password
+  > securely.  I could put some kind of encrypted file in the AFS repository
+  > with all the various passwords; if anyone has any preferences on the
+  > methodology, let me know.
 
 * interest was expressed in establishing the chain of authority from the OpenAFS
   elders to the Foundation (no specific action item)
