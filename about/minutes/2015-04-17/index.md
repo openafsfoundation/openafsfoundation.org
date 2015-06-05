@@ -17,38 +17,28 @@ nav: [about]
 ## Topics ##
 
 * IRS response on hold
-
-* it is proposed that agenda/meeting notes will be maintained online,
-  Margarete will select a location on the Foundation Website
-
-* pending Microsoft security implementation; Jeff's posting in the open AFS mail group
-  brought to the community's attention that required Microsoft certifications for
-  AFS are anticipated
+* it is proposed that agenda/meeting notes will be maintained online, Margarete will select a location on the Foundation Website
+* pending Microsoft security implementation; Jeff's posting in the open AFS mail group brought to the community's attention that required Microsoft certifications for AFS are anticipated
   + is FUSE an option?
   + this is a fiscal responsibility much larger than OpenAFS has ever had to deal with
   + how can funding on that scale be raised?
-
 * Dave Botsch has offered to contact Roman for PayPal account information.
   Post meeting, Roman responded:
-
   > I can provide this to anyone, but we do need a way to transfer the password
   > securely.  I could put some kind of encrypted file in the AFS repository
   > with all the various passwords; if anyone has any preferences on the
   > methodology, let me know.
-
-* interest was expressed in establishing the chain of authority from the OpenAFS
-  elders to the Foundation (no specific action item)
+* interest was expressed in establishing the chain of authority from the OpenAFS elders to the Foundation (no specific action item)
   Post meeting, Roman responded:
 
   > I believe this essentially rested in me, and to a lesser degree, Daria and Todd.  We disbanded the Elders with the intent of the non-gatekeeper related functions (which were only tangential to the elders) resting with the Foundation.  Daria or Todd, please correct me if you think this understanding is incorrect.
-
 * with respect to the open AFS and Kerberos workshop it was agreed that
   + the Foundation will cooperate with the effort already underway for 2015
   + communications will be opened with the organizers
   + David Boldt took the action item to link to the workshop from the Foundation website (task accomplished)
   + Dave Botsch will draft an email followup to the Foundation's original communication on a conference/workshop.
 
-Provided post meeting by Thomas:
+#### Provided post meeting by Thomas: ####
 
 > I was there as well, although my audio connection seemed to be simplex--I tried to say something a few times, but it seemingly went into the ether.
 
