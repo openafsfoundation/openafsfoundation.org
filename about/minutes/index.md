@@ -4,3 +4,5 @@ nav: [about]
 ---
 
 ## Meeting Minutes, Resolutions, and Agendas ##
+
+[2015-04-17]({{site.github.url}}/about/minutes/2015-04-17.md)
