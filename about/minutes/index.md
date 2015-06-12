@@ -5,9 +5,12 @@ nav: [about]
 
 ## Meeting Minutes, Resolutions, and Agendas ##
 
+Planned
+
 * 2015-07-10 no meeting Planned
 * 2015-07-03 no meeting Planned (Independence Day)
 
+Past
 
 * [2015-06-12]({{site.github.url}}/about/minutes/2015-06-12/)
 * 2015-06-05 no meeting (techinal diffculties with call-in number)
