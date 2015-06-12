@@ -21,7 +21,7 @@ nav: [about]
   * motion by Margarete
   * Daria 2nd
   * all present vote yes
-* PayPalcan/should collect addy info for tax receipts
+* PayPal can/should collect address info for tax receipts
 * We will send a quick thank you to the two individuals who have recently donated
 * Deadline of June 15 for sending $3K to AFS workshop
   * Todd still needs to get account information
