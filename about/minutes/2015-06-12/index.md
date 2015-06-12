@@ -21,7 +21,7 @@ nav: [about]
 * It has been officially recognized at IBM that IBM license agreement has been tranfered from openafs.org to AFS Foundation, Todd takes action item to document
 * We have PayPal login and password from Roman
 * Margarete takes action item to send donor Thank You notes
-* Do we need paid hosting? NY David takes up action item to start discussion with our current hosts
+* Do we need paid hosting? NY Dave takes up action item to start discussion with our current hosts
 * We will be at workshop, what kind of presence do we want to have?
 * What does law office in Pittsburg, PA have of AFS Foundation money (used for incorporation)? Margarete takes action item to track down
 * When do we being posting financial summaries? Previously proposed to be quarterly. Agreeed to be at fiscal calendar boundaries. Margarete takes action item to assemble
