@@ -5,6 +5,10 @@ nav: [about]
 
 ## Meeting Minutes, Resolutions, and Agendas ##
 
+* [2015-06-12]({{site.github.url}}/about/minutes/2015-06-12/)
+* 2015-06-05 no meeting (techinal diffculties with call-in number)
+* [2015-05-29]({{site.github.url}}/about/minutes/2015-05-29/)
+* 2015-05-22 no meeting (Memorial Day weekend)
 * [2015-05-15]({{site.github.url}}/about/minutes/2015-05-15/)
 * 2015-05-08 no meeting
 * [2015-05-01]({{site.github.url}}/about/minutes/2015-05-01/)
