@@ -8,6 +8,7 @@ nav: [about]
 * 2015-07-10 no meeting
 * 2015-07-03 no meeting (Independence Day)
 
+
 * [2015-06-12]({{site.github.url}}/about/minutes/2015-06-12/)
 * 2015-06-05 no meeting (techinal diffculties with call-in number)
 * 2015-05-29 no meeting (agreed when most members could not make meeting)
