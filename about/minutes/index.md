@@ -12,6 +12,8 @@ Planned
 
 Past
 
+* 2015-06-26 no meeting (no new business)
+* [2015-06-19]({{site.github.url}}/about/minutes/2015-06-19/)
 * [2015-06-12]({{site.github.url}}/about/minutes/2015-06-12/)
 * 2015-06-05 no meeting (techinal diffculties with call-in number)
 * 2015-05-29 no meeting (agreed when most members could not make meeting)
