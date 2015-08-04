@@ -7,11 +7,15 @@ nav: [about]
 
 Planned
 
-* 2015-07-10 no meeting Planned
-* 2015-07-03 no meeting Planned (Independence Day)
+  no specific plans at this time
 
 Past
 
+* 2015-07-31 no meeting (lack of quorum)
+* 2015-07-24 
+* 2015-07-17
+* 2015-07-10 no meeting
+* 2015-07-03 no meeting (Independence Day)
 * 2015-06-26 no meeting (no new business)
 * [2015-06-19]({{site.github.url}}/about/minutes/2015-06-19/)
 * [2015-06-12]({{site.github.url}}/about/minutes/2015-06-12/)
