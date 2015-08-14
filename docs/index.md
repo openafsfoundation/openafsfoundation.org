@@ -15,6 +15,7 @@ provide information to the public about The Foundation.
 * [Conflict of Interest Policy](openafs-foundation-coi-policy.pdf)
 * [Code of Ethics Policy](openafs-foundation-coe.pdf)
 * [Whistleblower Protection Policy](openafs-foundation-whistleblower-policy.pdf)
+* [IRS Tax Exempt Status Confirmation](20150606-OpenAFS-Foundation-Official-501c3-Confirmation.pdf)
 * Board of Directors' Resolutions
 
 ### External Foundation Documents ###
