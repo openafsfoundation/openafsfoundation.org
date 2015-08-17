@@ -9,4 +9,4 @@ Soon, you will be able to view our **tax returns** and **quarterly financial rep
 
 ### Financial Summaries ###
 
-* [2015-2016]({site.github.url}/docs/financials/Financial_Summary_2015-08-16.pdf)
+* [2015-2016]({{site.github.url}}/docs/financials/Financial_Summary_2015-08-16.pdf)
