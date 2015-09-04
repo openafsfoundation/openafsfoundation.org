@@ -11,6 +11,7 @@ Planned
 
 Past
 
+* 2015-09-04 no meeting (lack of quorum)
 * 2015-08-28 no meeting (lack of quorum)
 * 2015-08-21 no meeting (conflict withBest Practices Workshop)
 * 2015-08-14 no official meeting (lack of quorum), some informal discussion on upcoming conference
