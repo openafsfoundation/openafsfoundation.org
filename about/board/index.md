@@ -53,7 +53,7 @@ looking forward to continuing to work with the OpenAFS community.
 
 Dave can be reached at <botsch@cnf.cornell.edu>.
 
-### D. Brashear (09/2012 - present) ###
+### D. Brashear (09/2012 - 08/2015) ###
 
 D. Brashear has been involved with OpenAFS since its inception.  As a
 student at Carnegie Mellon in the 1990s, she took an interest in the
