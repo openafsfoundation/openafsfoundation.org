@@ -7,7 +7,7 @@ nav: [about]
 
 ### In Attendance ###
 
- David Boldt
+ David Boldt,
  Dave Botsch,
  Todd DeSantis,
  Margarete Ziemer
