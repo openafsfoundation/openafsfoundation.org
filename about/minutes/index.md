@@ -11,6 +11,7 @@ Planned
 
 Past
 
+* 2015-09-25 no meeting (no new items up for discussion)
 * [2015-09-11]({{site.github.url}}/about/minutes/2015-09-11/)
 * 2015-09-04 no meeting (lack of quorum)
 * 2015-08-28 no meeting (lack of quorum)
