@@ -24,12 +24,16 @@ Concern re potentially stepping on toes of people working on things as we spin u
 
 engage bpw young man (Zach?), Ben, Andrew, Mark - have also shown interest in Foundation priorities via discussion on foundation-discuss... want to continue these discussions
 
-IPv6 appears to be a big one
+IPv6 appears to be a big and popular issue
 
 * David Boldt pointed out that any publicly offered services by the US Govt must support IPv6
 * commercial products purchased by govt must support IPv6 unless exception is obtained
 * edu and commercial institutions appear to still be in the wait and see...
 * US Govt driving adoption
+
+thinking about state of Kerberos on Windows
+
+* KfW 4.x does not have the hooks necessary for afscreds
 
 approach Andrew for Board & Mark V for security
 
