@@ -16,10 +16,16 @@ nav: [about]
 
 Todd has the debit card, is a Visa
 
-we should go ahead & send out email re interest in RFP for Mac OS packaging
-in general, there will be some overlap with current projects for Foundation promoting things
+we should go ahead & send out email re interest in RFP for Mac OS packaging (proposal to do so was discussed and voted on via email during the past week with Margarete, Todd, and Dave B voting Aye, Margarete seconding, David B proposing)
 
-engage bpw young man (Zach?), Ben, Andrew, Mark
+Concern re potentially stepping on toes of people working on things as we spin up priority issues
+* Margarete pointed out that in general, there will be some overlap with current projects for Foundation promoting things
+
+engage bpw young man (Zach?), Ben, Andrew, Mark - have also shown interest in Foundation priorities via discussion on foundation-discuss... want to continue these discussions
+
+IPv6 appears to be a big one
+* David Boldt pointed out that any publicly offered services by the US Govt must support IPv6
+* commercial products purchased by govt must support IPv6 unless exception is obtained
 
 approach Andrew for Board & Mark V for security
 
@@ -30,4 +36,4 @@ Ben is interested in coordinating with Foundation via Technical Advisory Group, 
 Todd will get contact info on Phil Moore
 
 sbir - ipv6 - sbir grant ?
-Chuck Boeheim - sbir ipv6 ?
+* Chuck Boeheim - sbir ipv6 ?
