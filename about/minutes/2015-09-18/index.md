@@ -7,11 +7,11 @@ nav: [about]
 
 ### Topics ###
 
-$$ wired to Gareth
+$$ wired to Gareth (Foundation reimbursing travel, lodging, and registration to the Bpw)
 
-bank acct.. no minimum if tax exempt
+bank acct.. no minimum balance if tax exempt
 
 
-Daria probably knows who that apple person is
+Daria probably knows who the previous contact at Apple is
 
-Howells is a RedHat person
+Note that Howells is a RedHat person
