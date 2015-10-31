@@ -28,6 +28,8 @@ IPv6 appears to be a big one
 
 * David Boldt pointed out that any publicly offered services by the US Govt must support IPv6
 * commercial products purchased by govt must support IPv6 unless exception is obtained
+* edu and commercial institutions appear to still be in the wait and see...
+* US Govt driving adoption
 
 approach Andrew for Board & Mark V for security
 
