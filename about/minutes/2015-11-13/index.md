@@ -15,7 +15,7 @@ nav: [about]
 
 * Foundation bank account setup/management activities
 * public vs vendor managed AFS pieces
-* Windows-10-lessfuture for openafs, alternatives
+* Windows-10-less future for openafs, alternatives
   * secure ftp
   * Filedrawers
 * tax returns
