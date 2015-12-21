@@ -20,6 +20,10 @@ nav: [about]
 
 ### Discussion ###
 
+#### Tax Return ####
+
+* Margarete sent in revised return -- one column was left blank
+
 #### Putting together a list of questions to confer with the lawyer ####
 
 * Liability insurance
