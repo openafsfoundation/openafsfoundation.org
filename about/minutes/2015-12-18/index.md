@@ -1,3 +1,8 @@
+---
+title: OpenAFS Foundation Meeting Notes  2015-12-18
+nav: [about]
+---
+
 ### Attendees ###
 
 * Dave Botsch
