@@ -5,11 +5,6 @@ nav: [about]
 
 ## Meeting Minutes, Resolutions, and Agendas ##
 
-Planned
-
-  no specific plans at this time
-
-Past
 
 * [2015-12-18]({{site.github.url}}/about/minutes/2015-12-18/)
 * [2015-12-04]({{site.github.url}}/about/minutes/2015-12-04/)
