@@ -1,3 +1,5 @@
+* Last meeting of the year
+
 ### Attendees ###
 
 * Dave Botsch
