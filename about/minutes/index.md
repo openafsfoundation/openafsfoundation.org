@@ -6,6 +6,7 @@ nav: [about]
 ## Meeting Minutes, Resolutions, and Agendas ##
 
 * [2016-01-22]({{site.github.url}}/about/minutes/2016-01-22/)
+* 2016-01-15
 * [2016-01-08]({{site.github.url}}/about/minutes/2016-01-08/)
 * 2016-01-01 no meeting (Holidays)
 * 2015-12-25 no meeting (Holidays)
