@@ -5,7 +5,7 @@ nav: [about]
 
 ## Meeting Minutes, Resolutions, and Agendas ##
 
-* [2016-02-19]({{site.github.url}}/about/minutes/2016-02-19 /)
+* [2016-02-19]({{site.github.url}}/about/minutes/2016-02-19/)
 * [2016-02-12]({{site.github.url}}/about/minutes/2016-02-12/)
 * [2016-02-05]({{site.github.url}}/about/minutes/2016-02-05/)
 * [2016-01-29]({{site.github.url}}/about/minutes/2016-01-29/)
