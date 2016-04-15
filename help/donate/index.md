@@ -68,6 +68,7 @@ Click one of the below buttons to donate  money towards Developer Hours.  Develo
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </td>
+</tr>
 
 In the near future, we hope to bring you the opportunity to **pledge regular donations**. This allows you to space out your donation and plan your giving, without having to do anything else!  Regular modest (or substantial) donations strengthen our financial capability in a way that allows us to project our budget ahead of time!  
 
