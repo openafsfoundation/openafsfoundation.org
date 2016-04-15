@@ -25,13 +25,9 @@ Click the below button to donate an amount of your choosing:
        alt="" border="0" width="1" height="1">
 </form>
 
-Click one of the below buttons to donate  money towards Developer Hours.  Developer Hours are priced at $50/Hour. The  current levels are:
+Click one of the below buttons to donate  towards ***Developer Hours.***  Developer Hours are priced at $50/Hour. The  current levels are:
 
-* Single - $50
-* Double - $100
-* Triple - $150
-* Home Run - $200
-
+* Single - $50 (1 Hour)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -40,6 +36,8 @@ Click one of the below buttons to donate  money towards Developer Hours.  Develo
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+* Double - $100 (2 Hours)
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="Z4VWNNDRVNCHN">
@@ -47,12 +45,16 @@ Click one of the below buttons to donate  money towards Developer Hours.  Develo
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+* Triple - $150 (3 Hours)
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="ZKEAMB4C6ZY2A">
 <input type="image" src="http://www.openafsfoundation.org/ui/img/triple.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+* Home Run - $200 (4 Hours)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
