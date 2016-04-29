@@ -63,6 +63,16 @@ Click one of the below buttons to donate  towards ***Developer Hours.***  Develo
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+* Grand Slam = $500 (10 Hours)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="RNKWHFCC73XTN">
+<input type="image" src="http://www.openafsfoundation.org/ui/img/grandslam.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
 In the near future, we hope to bring you the opportunity to **pledge regular donations**. This allows you to space out your donation and plan your giving, without having to do anything else!  Regular modest (or substantial) donations strengthen our financial capability in a way that allows us to project our budget ahead of time!  
 
 Thank you for using either of the donation options.
