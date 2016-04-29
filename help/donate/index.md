@@ -5,7 +5,7 @@ nav: [help, donate]
 
 ## Help OpenAFS By Donating ##
 
-The OpenAFS Foundation, on the behalf of all, asks that you consider donating some of your money and/or your equipment. Both are needed to help us grow!  Thank you.
+OpenAFS operates on a Value for Value model. If you or your organization receive value out of OpenAFS and would like to contribute back, please consider donating money and/or equipment. Both are needed to help us grow. Thank you!
 
 ### Donate Money###
 
@@ -71,7 +71,6 @@ Click one of the below buttons to donate  towards ***Developer Hours.***  Develo
 <input type="image" src="http://www.openafsfoundation.org/ui/img/grandslam.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
 
 In the near future, we hope to bring you the opportunity to **pledge regular donations**. This allows you to space out your donation and plan your giving, without having to do anything else!  Regular modest (or substantial) donations strengthen our financial capability in a way that allows us to project our budget ahead of time!  
 
