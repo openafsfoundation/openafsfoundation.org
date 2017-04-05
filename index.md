@@ -2,12 +2,10 @@
 extra-css: ["index.css"]
 ---
 
-The OpenAFS Foundation, Inc., is a volunteer organization dedicated to fostering
-the stability and growth of [OpenAFS](http://www.openafs.org/), an [open
-source](http://opensource.org/) implementation of the AFS distributed network
-filesystem. 
-
-The Foundation was incorporated in the Commonwealth of Pennsylvania on May 20 of 2013, as a non-profit organization. It is presently seeking national non-profit status with the IRS.
+The OpenAFS Foundation is a 501(c)(3), US based, non-profit organization
+dedicated to fostering the stability and growth of
+[OpenAFS](http://www.openafs.org/), an [open source](http://opensource.org/)
+implementation of the AFS distributed network filesystem.
 
 <div class="index-container">
   <div class="index-box">
