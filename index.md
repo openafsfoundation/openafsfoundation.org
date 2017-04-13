@@ -36,4 +36,3 @@ implementation of the AFS distributed network filesystem.
   </div>
 </div>
 <hr>
-<p>Join us for the <a href="http://workshop.openafs.org/">AFS &amp; Kerberos Best Practices Workshop</a>, Pittsburgh PA, 2015!</p>
