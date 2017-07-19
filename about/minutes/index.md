@@ -5,6 +5,7 @@ nav: [about]
 
 ## Meeting Minutes, Resolutions, and Agendas ##
 
+* [2017-07-19]({{site.github.url}}/about/minutes/2016-07-19/)
 * [2016-04-15]({{site.github.url}}/about/minutes/2016-04-15/)
 * [2016-04-08]({{site.github.url}}/about/minutes/2016-04-08/)
 * 2016-04-01 no meeting (lack of quorum)
