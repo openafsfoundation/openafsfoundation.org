@@ -12,7 +12,7 @@ appointed by the existing Board.
 
 The overview of the individual Directors on the Board below offers a brief summary of their relevant professional credentials.  The individuals are listed in alphabetical order by their last names.
 
-### David Boldt (10/2014 - present) ###
+### David Boldt (10/2014 - 4/2016) ###
 
 David Boldt of the US Geological Survey (USGS) has been using AFS since 2001 as
 part of a project to provide resilient web service which could survive the loss
