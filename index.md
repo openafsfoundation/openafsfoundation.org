@@ -7,9 +7,12 @@ dedicated to fostering the stability and growth of
 [OpenAFS](http://www.openafs.org/), an [open source](http://opensource.org/)
 implementation of the AFS distributed network filesystem.
 
-<h4>OpenAFS 1.8.0</h4>
+<h3>OpenAFS 1.8.0</h3>
 The OpenAFS Guardians are happy to announce the availability of the fifth prerelease candidate of OpenAFS 1.8.0. This is a release candidate for the final version of 1.8.0.
 Please assist the guardians by deploying and testing this release and providing positive or negative feedback.
+
+<h3>Errors and Omissions Insurance</h3>
+The OpenAFS Foundation is pleased to announce Errors and Omissions insurance covering the OpenAFS developer community. For more information, please see [the insurance binder](http://www.openafsfoundation.org/docs/insurance/mtk1562013-customer-binder.pdf) and [the insurance policy](http://www.openafsfoundation.org/docs/insurance/17-18-pkg-e-and-o-policy.pdf) .
 
 <div class="index-container">
   <div class="index-box">
