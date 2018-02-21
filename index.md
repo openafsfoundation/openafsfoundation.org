@@ -7,6 +7,10 @@ dedicated to fostering the stability and growth of
 [OpenAFS](http://www.openafs.org/), an [open source](http://opensource.org/)
 implementation of the AFS distributed network filesystem.
 
+<h4>OpenAFS 1.8.0</h4>
+The OpenAFS Guardians are happy to announce the availability of the fifth prerelease candidate of OpenAFS 1.8.0. This is a release candidate for the final version of 1.8.0.
+Please assist the guardians by deploying and testing this release and providing positive or negative feedback.
+
 <div class="index-container">
   <div class="index-box">
     <h4>What does The Foundation do?</h4>
