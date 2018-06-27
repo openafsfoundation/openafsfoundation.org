@@ -3,7 +3,18 @@ title: Meeting Minutes, Resolutions, and Agendas
 nav: [about]
 ---
 
-## Meeting Minutes, Resolutions, and Agendas ##
+## Resolutions
+
+### 2018
+
+* [Open Technology Fund Grant Submission for IPv6]({{site.github.url}}/resolutions/Resolution-IPv6-Grant-Application_signed.pdf)
+
+### 2017
+
+* [Amending Resolution Accepting Insurance Quote]({{site.github.url}}/resolutions/Foundation_Resolution_Amending_Insurance_Resolution_signed.pdf)
+* [Accepting Insurance Quote]({{site.github.url}}/resolutions/Insurance-Nov2017_signed.pdf)
+
+## Meeting Minutes, and Agendas
 
 * [2017-11-15]({{site.github.url}}/about/minutes/2017-11-15/)
 * [2017-07-19]({{site.github.url}}/about/minutes/2017-07-19/)
