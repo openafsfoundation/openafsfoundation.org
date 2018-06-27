@@ -11,7 +11,7 @@ Those familiar with non-profit terminology will recognize most of The Foundation
 
 ### Tax-Deductible, Earmarked Donations ###
 
-OpenAFS can receive earmarked donations through The OpenAFS Foundation, Inc. Since The Foundation will hopefully be granted 501(c)(3) charity status on the Federal level by the IRS, donors can often deduct the donation on their USA taxes. Additionally, the donors can indicate that their donation should be used to advance a specific purpose and/or project, and those funds will be kept separate and used accordingly. 
+OpenAFS can receive earmarked donations through The OpenAFS Foundation, Inc. Since The Foundation has been granted 501(c)(3) charity status on the Federal level by the IRS, donors can often deduct the donation on their USA taxes. Additionally, the donors can indicate that their donation should be used to advance a specific purpose and/or project, and those funds will be kept separate and used accordingly. 
 
 Like any other tax-exempt organization, The OpenAFS Foundation is limited by retraints the law places on what The Foundation can do with its assets. Usually, the Technical Advisors suggests to the Board of Directors how the funds should be spent wisely and appropriately; yet it is the Board of Directors that ultimately will make all spending decisions. The Foundation spends these funds on OpenAFS's behalf on any expenses that constitute appropriate activity under The Foundation's 501(c)(3) not-for-profit mission. Some typical uses of earmarked donations include, but are not limited to:
 
