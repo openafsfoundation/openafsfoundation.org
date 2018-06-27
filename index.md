@@ -7,6 +7,9 @@ dedicated to fostering the stability and growth of
 [OpenAFS](http://www.openafs.org/), an [open source](http://opensource.org/)
 implementation of the AFS distributed network filesystem.
 
+<h3>First Grant Application</h3>
+We are excited to report the Foundation's first grant application: On 06/28/18, a "concept note" for a grant application was submitted on the behalf of The OpenAFS Foundation, Inc, to The Open Technology Fund's "Internet Freedom project" category.  The application is for implementation of IPv6 support to OpenAFS.  The requested amount is $80,000.  If the "concept note" is accepted, a full grant application will need to follow.
+
 <h3>OpenAFS 1.8.0</h3>
 The OpenAFS Guardians are happy to announce the availability of the fifth prerelease candidate of OpenAFS 1.8.0. This is a release candidate for the final version of 1.8.0.
 Please assist the guardians by deploying and testing this release and providing positive or negative feedback.
