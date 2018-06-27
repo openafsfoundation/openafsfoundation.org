@@ -7,6 +7,7 @@ nav: [about]
 
 ### 2018
 
+* [Future Pursuing of Grants for RXGK]({{site.github.url}}/resolutions/Resolution-RXGK-Grant-Application_signed.pdf)
 * [Open Technology Fund Grant Submission for IPv6]({{site.github.url}}/resolutions/Resolution-IPv6-Grant-Application_signed.pdf)
 
 ### 2017
