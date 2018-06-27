@@ -16,7 +16,14 @@ provide information to the public about The Foundation.
 * [Code of Ethics Policy](openafs-foundation-coe.pdf)
 * [Whistleblower Protection Policy](openafs-foundation-whistleblower-policy.pdf)
 * [IRS Tax Exempt Status Confirmation](20150606-OpenAFS-Foundation-Official-501c3-Confirmation.pdf)
-* Board of Directors' Resolutions
+* [Resolutions]({{site.github.url}}/about/minutes/) of the Board of Directors
+
+### Insurance Documents ###
+
+Many thanks to the Drupal Association for providing guidance in obtaining insurance. Errors and Omissions insurance covers the OpenAFS developer community.
+
+* [Insurance Binder]({{site.github.url}}/docs/insurance/mtk1562013-customer-binder.pdf)
+* [Insurance Policy]({{site.github.url}}/docs/insurance/17-18-pkg-e-and-o-policy.pdf)
 
 ### External Foundation Documents ###
 
