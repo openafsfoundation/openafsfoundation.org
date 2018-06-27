@@ -14,6 +14,8 @@ nav: [about]
 * [Amending Resolution Accepting Insurance Quote]({{site.github.url}}/resolutions/Foundation_Resolution_Amending_Insurance_Resolution_signed.pdf)
 * [Accepting Insurance Quote]({{site.github.url}}/resolutions/Insurance-Nov2017_signed.pdf)
 
+---
+
 ## Meeting Minutes, and Agendas
 
 * [2017-11-15]({{site.github.url}}/about/minutes/2017-11-15/)
