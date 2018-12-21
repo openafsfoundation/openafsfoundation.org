@@ -7,6 +7,7 @@ nav: [about]
 
 ### 2018
 
+* [Renewing Insurance]({{site.github.url}}/Resolution-Insurance-Renewal-2018-2_signed.pdf)
 * [Approval and Submission of 2017 Tax Returns]({{site.github.url}}/resolutions/Resolution-Taxes-2017_encrypted_.pdf)
 * [Future Pursuing of Grants for RXGK]({{site.github.url}}/resolutions/Resolution-RXGK-Grant-Application_signed.pdf)
 * [Open Technology Fund Grant Submission for IPv6]({{site.github.url}}/resolutions/Resolution-IPv6-Grant-Application_signed.pdf)

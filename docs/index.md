@@ -22,8 +22,8 @@ provide information to the public about The Foundation.
 
 Many thanks to the Drupal Association for providing guidance in obtaining insurance. Errors and Omissions insurance covers the OpenAFS developer community.
 
-* [Insurance Binder]({{site.github.url}}/docs/insurance/mtk1562013-customer-binder.pdf)
-* [Insurance Policy]({{site.github.url}}/docs/insurance/17-18-pkg-e-and-o-policy.pdf)
+* [Insurance Binder]({{site.github.url}}/docs/insurance/MTK1562013A_CustomerBinder.pdf)
+* [Insurance Policy]({{site.github.url}}/docs/insurance/Policy_MTK1562013A.pdf)
 
 ### External Foundation Documents ###
 
