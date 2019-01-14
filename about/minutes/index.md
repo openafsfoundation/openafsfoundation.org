@@ -5,6 +5,9 @@ nav: [about]
 
 ## Resolutions
 
+### 2019
+* [Thanks and Appreciation for Monetary Donations]({{site.github.url}}/resolutions/Resolution-Morgan-SineNomine-Donations_encrypted_.pdf)
+
 ### 2018
 
 * [Renewing Insurance]({{site.github.url}}/resolutions/Resolution-Insurance-Renewal-2018-2_signed.pdf)
