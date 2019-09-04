@@ -7,6 +7,12 @@ dedicated to fostering the stability and growth of
 [OpenAFS](http://www.openafs.org/), an [open source](http://opensource.org/)
 implementation of the AFS distributed network filesystem.
 
+<h3>AFS Workshop 2020</h3>
+Save the date for the 2020 AFS Workshop! June 15-17, 2020 in Columbus, OH at Ohio State University.
+
+<h3>2019 AFS Workshop a Success</h3>
+The 2019 workshop held in Pittsburgh was a huge success. Thanks to the speakers who gave fun informative talks. And thanks to all the attendees and our sponsor.
+
 <h3>First Grant Application</h3>
 We are excited to report the Foundation's first grant application: On 06/28/18, a "concept note" for a grant application was submitted on the behalf of The OpenAFS Foundation, Inc, to The Open Technology Fund's "Internet Freedom project" category.  The application is for implementation of IPv6 support to OpenAFS.  The requested amount is $80,000.  If the "concept note" is accepted, a full grant application will need to follow.
 
