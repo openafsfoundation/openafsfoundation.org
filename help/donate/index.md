@@ -82,4 +82,4 @@ Thank you for using either of the donation options.
 At times, OpenAFS utilizes **donated machines to be re-used** for building
 OpenAFS on various platforms, or for other infrastructure needs. You may wish to
 send the OpenAFS Foundation physical hardware, or you may consider simply allowing
-OpenAFS developers to access a server that you host; either way, if you can spare any hardware resources, please [contact us]({{ site.github.url | replace 'http://', '//' }}/contact/).
+OpenAFS developers to access a server that you host; either way, if you can spare any hardware resources, please [contact us]({{ site.github.url | replace: 'http://', '//' }}/contact/).
