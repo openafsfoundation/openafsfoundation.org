@@ -10,7 +10,7 @@ can contribute resources to OpenAFS Foundation, which will use those resources
 to improve or promote OpenAFS. The OpenAFS Foundation is
 a 501(c)(3) non-profit corporation, and donations to the
 OpenAFS Foundation are **tax deductible**. (See our [ABOUT
-page]({{site.github.url}}/about/) for more information about The Foundation's
+page]({{ site.github.url | replace 'http://', '//' }}/about/) for more information about The Foundation's
 legal status.)
 
 There are various ways in which you can support OpenAFS:
