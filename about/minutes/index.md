@@ -6,6 +6,7 @@ nav: [about]
 ## Resolutions
 
 ### 2019
+* [2020 Workshop]({{ site.github.url | replace: 'http://', '//' }}/resolutions/Resolution-2020-Workshop_.pdf)
 * [Thanks and Appreciation for Monetary Donations]({{ site.github.url | replace: 'http://', '//' }}/resolutions/Resolution-Morgan-SineNomine-Donations_encrypted_.pdf)
 
 ### 2018
