@@ -6,6 +6,8 @@ nav: [about]
 ## Resolutions
 
 ### 2019
+* [Renewing Insurance]({{ site.github.url | replace: 'http://', '//' }}/resolutions/Resolution-Insurance-Renewal-2019_signed.pdf)
+* [2020 Workshop]({{ site.github.url | replace: 'http://', '//' }}/resolutions/Resolution-2020-Workshop_signed.pdf)
 * [Thanks and Appreciation for Monetary Donations]({{ site.github.url | replace: 'http://', '//' }}/resolutions/Resolution-Morgan-SineNomine-Donations_encrypted_.pdf)
 
 ### 2018
