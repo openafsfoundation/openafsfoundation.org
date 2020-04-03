@@ -7,8 +7,9 @@ dedicated to fostering the stability and growth of
 [OpenAFS](http://www.openafs.org/), an [open source](http://opensource.org/)
 implementation of the AFS distributed network filesystem.
 
-<h3>AFS Workshop 2020</h3>
-Save the date for the 2020 AFS Workshop! June 15-17, 2020 in Columbus, OH at Ohio State University.
+<h3>2020 AFS Technologies Workshop</h3>
+We are sad to announce the [2020 AFS Technologies Workshop](http://workshop.openafs.org/afsbpw20/)
+has been cancelled due to safety concerns during the COVID-19 pandemic.
 
 <h3>2019 AFS Workshop a Success</h3>
 The 2019 workshop held in Pittsburgh was a huge success. Thanks to the speakers who gave fun informative talks. And thanks to all the attendees and our sponsor.
