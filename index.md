@@ -7,6 +7,9 @@ dedicated to fostering the stability and growth of
 [OpenAFS](http://www.openafs.org/), an [open source](http://opensource.org/)
 implementation of the AFS distributed network filesystem.
 
+<h3>2021 AFS Technologies Workshop</h3>
+A 2021 Virtual AFS Technologies Workshop is in development. Please check the [workshop website](http://workshop.openafs.org/afsbpw21/) for updates!
+
 <h3>2020 AFS Technologies Workshop</h3>
 We are sad to announce the [2020 AFS Technologies Workshop](http://workshop.openafs.org/afsbpw20/)
 has been cancelled due to safety concerns during the COVID-19 pandemic.
