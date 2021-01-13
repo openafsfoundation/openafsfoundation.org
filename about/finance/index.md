@@ -14,6 +14,7 @@ View our **tax returns** and **financial reports**.
 
 ### US Tax Returns ###
 
+* [2019 Tax Return]({{ site.github.url | replace: 'http://', '//' }}/docs/financials/2019%20Tax%20Return.pdf)
 * [2016 Tax Returns]({{ site.github.url | replace: 'http://', '//' }}/docs/financials/201617%20Tax%20Return.pdf)
 * [2015 Tax Returns]({{ site.github.url | replace: 'http://', '//' }}/docs/financials/201516%20Tax%20Return.pdf)
 * [2014 Tax Returns]({{ site.github.url | replace: 'http://', '//' }}/docs/financials/201415%20Tax%20Return.pdf)
