@@ -22,7 +22,7 @@ The OpenAFS Guardians are happy to announce the availability of the fifth prerel
 Please assist the guardians by deploying and testing this release and providing positive or negative feedback.
 
 <h3>Errors and Omissions Insurance</h3>
-The OpenAFS Foundation is pleased to announce Errors and Omissions insurance covering the OpenAFS developer community. For more information, please see [the insurance binder](http://www.openafsfoundation.org/docs/insurance/mtk1562013-customer-binder.pdf) and [the insurance policy](http://www.openafsfoundation.org/docs/insurance/17-18-pkg-e-and-o-policy.pdf) .
+The OpenAFS Foundation is pleased to announce Errors and Omissions insurance covering the OpenAFS developer community. For more information, please see [the insurance binder](http://www.openafsfoundation.org/docs/insurance/mtk1562013-customer-binder.pdf) and [the insurance policy](http://www.openafsfoundation.org/docs/insurance/Policy_MTK1562013C.pdf) .
 
 <div class="index-container">
   <div class="index-box">
