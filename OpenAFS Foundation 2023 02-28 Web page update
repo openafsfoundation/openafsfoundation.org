@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text.html;charset=utf-8">
+  <link rel="icon" href="//www.openafsfoundation.org/favicon.ico">
+  <title>
+    
+      The OpenAFS Foundation, Inc.
+    
+  </title>
+  <link rel="stylesheet" type="text/css" href="//www.openafsfoundation.org/ui/screen.css">
+  
+    <link rel="stylesheet" type="text/css" href="//www.openafsfoundation.org/ui/index.css">
+  
+</head>
+<body>
+  <div id="header">
+    <div class="container">
+      <img src="//www.openafsfoundation.org/ui/img/openafs-logo.png">
+      <div class="logo-text">
+        <h1>The OpenAFS Foundation, Inc.</h1>
+        <p id="main-tagline">
+          Championing OpenAFS technology,<br>
+          its developers, and its users
+        </p>
+      </div>
+    </div>
+  </div>
+
+  
+  
+  
+  <div class="navigation">
+    <div class="container">
+      <ul>
+      
+        
+          <li><a href="//www.openafsfoundation.org/">Home</a></li>
+        
+      
+        
+          <li><a href="//www.openafsfoundation.org/about/">About Us</a></li>
+        
+      
+        
+          <li><a href="//www.openafsfoundation.org/help/">Help OpenAFS!</a></li>
+        
+      
+        
+          <li><a href="//www.openafsfoundation.org/users/">Users</a></li>
+        
+      
+        
+          <li><a href="//www.openafsfoundation.org/devs/">Developers</a></li>
+        
+      
+        
+          <li><a href="//www.openafsfoundation.org/tech/">Technology</a></li>
+        
+      
+        
+          <li><a href="//www.openafsfoundation.org/contact/">Contact Us</a></li>
+        
+      
+      </ul>
+      <div id="searchbox">
+        <form method="GET" action="http://www.google.com/search">
+          <input type="hidden" name="ie" value="utf-8">
+          <input type="hidden" name="as_sitesearch" value="openafsfoundation.org">
+          <input type="text" name="q" size="25" placeholder="Google search">
+          <input type="submit" id="searchbutton" value="SEARCH" >
+        </form>
+      </div>
+    </div>
+  </div>
+  
+  
+
+  <div id="content">
+    <div class="container normalpage">
+      <p>The OpenAFS Foundation is a 501(c)(3), US based, non-profit organization
+dedicated to fostering the stability and growth of
+<a href="http://www.openafs.org/">OpenAFS</a>, an <a href="http://opensource.org/">open source</a>
+implementation of the AFS distributed network filesystem.</p>
+
+<h3>2023 AFS Technologies Workshop</h3>
+<p>A Join us on June 12 - 14, 2023 for the 2023 AFS Technologies Workshop. Please check the <a href=" https://workshop.openafs.org/afsbpw23/">workshop website</a> for updates!</p>
+
+<h3>2022 AFS Workshop a Success</h3>
+<p>The 2022 workshop virtual conference was a huge success. Thanks to the speakers who gave fun informative talks. And thanks to all the attendees and our sponsors. You may want to download the presentations here. <a href=" https://workshop.openafs.org/afsbpw22/schedule/">workshop website</a>
+
+<h3>First Grant Application</h3>
+<p>We are excited to report the Foundation's first grant application: On 06/28/18, a "concept note" for a grant application was submitted on the behalf of The OpenAFS Foundation, Inc, to The Open Technology Fund's "Internet Freedom project" category.  The application is for implementation of IPv6 support to OpenAFS.  The requested amount is $80,000.  If the "concept note" is accepted, a full grant application will need to follow.</p>
+
+<h3>OpenAFS 1.8.9</h3>
+<p>The OpenAFS Guardians are happy to announce the availability of the maintenance release for UNIX/Linux of OpenAFS 1.8.9 is the next release in the current stable series of OpenAFS releases for UNIX/Linux systems. It brings performance and reliability improvements, improved diagnostics, support for the latest Linux mainline kernel (currently 6.0) and recent FreeBSD releases as well as a number of bug fixes.  
+Please assist the guardians by deploying and testing this release and providing positive or negative feedback.</p>
+
+<h3>Errors and Omissions Insurance</h3>
+<p>The OpenAFS Foundation is pleased to announce Errors and Omissions insurance covering the OpenAFS developer community. For more information, please see <a href="http://www.openafsfoundation.org/docs/insurance/mtk1562013-customer-binder.pdf">the insurance binder</a> and <a href="http://www.openafsfoundation.org/docs/insurance/Policy_MTK1562013C.pdf">the insurance policy</a> .</p>
+
+<div class="index-container">
+  <div class="index-box">
+    <h4>What does The Foundation do?</h4>
+    <p>The Foundation provides strategic direction and aims to raise money to support the development and
+    maintenance of OpenAFS. Find out <a href="about/">About The Foundation</a>.</p>
+
+    <h4>Who leads The Foundation?</h4>
+    <p>The OpenAFS Foundation is spear-headed by a volunteer <a href="about/board">Board of 
+    Directors</a>. This Board consists of volunteers, who are primarily OpenAFS
+    users, community leaders, or other prominent members of the OpenAFS
+    community.</p>
+    <p>The Board of Directors meets weekly. Each week, the Secretary will <a href="about/minutes/">post agendas, minutes, and resolutions from the Board meetings</a>.</p>
+  </div>
+  <div class="index-box">
+    <h4>What is OpenAFS?</h4>
+    <p>OpenAFS is an open source software project implementing the AFS
+    protocol, which is used for accessing files over a network as if they were
+    on a local disk. Information about the OpenAFS software itself can be found
+    on <a href="http://www.openafs.org/">openafs.org</a>.</p>
+
+    <h4>How can you help?</h4>
+    <p>There are several ways that you can help OpenAFS, whether by donating
+    <a href="help/donate/">money</a>,
+    <a href="help/donate/">equipment</a>,
+    <a href="help/volunteer/">time and effort</a> or 
+    <a href="help/code/">talent</a>.</p>
+  </div>
+</div>
+<hr />
+
+
+    </div>
+  </div>
+  <div id="footer">
+    <div class="container">
+      
+      <a href="mailto:foundation@openafs.org">foundation@openafs.org</a> | <a href="https://github.com/openafsfoundation/openafsfoundation.org">Site source</a>
+    </div>
+  </div>
+</body>
+</html>
