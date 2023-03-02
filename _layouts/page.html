@@ -14,15 +14,15 @@
       The OpenAFS Foundation, Inc.
     {% endif %}
   </title>
-  <link rel="stylesheet" type="text/css" href="{{ site.github.url | replace: 'http://', '//' }}/ui/screen.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.url | replace: 'http://', '//' }}/ui/screen.css">
   {% for filename in page.extra-css %}
-    <link rel="stylesheet" type="text/css" href="{{ site.github.url | replace: 'http://', '//' }}/ui/{{ filename }}">
+    <link rel="stylesheet" type="text/css" href="{{ site.url | replace: 'http://', '//' }}/ui/{{ filename }}">
   {% endfor %}
 </head>
 <body>
   <div id="header">
     <div class="container">
-      <img src="{{ site.github.url | replace: 'http://', '//' }}/ui/img/openafs-logo.png">
+      <img src="{{ site.url | replace: 'http://', '//' }}/ui/img/openafs-logo.png">
       <div class="logo-text">
         <h1>The OpenAFS Foundation, Inc.</h1>
         <p id="main-tagline">
@@ -46,9 +46,9 @@
       {% for item in site.data.nav %}
         {% if page.nav[0] and page.nav[0] == item.id %}
           {% assign level1 = item %}
-          <li class="nav-active"><a href="{{ site.github.url | replace: 'http://', '//' }}/{{ item.url }}">{{ item.name }}</a></li>
+          <li class="nav-active"><a href="{{ site.url | replace: 'http://', '//' }}/{{ item.url }}">{{ item.name }}</a></li>
         {% else %}
-          <li><a href="{{ site.github.url | replace: 'http://', '//' }}/{{ item.url }}">{{ item.name }}</a></li>
+          <li><a href="{{ site.url | replace: 'http://', '//' }}/{{ item.url }}">{{ item.name }}</a></li>
         {% endif %}
       {% endfor %}
       </ul>
@@ -69,9 +69,9 @@
         {% for child in level1.children %}
           {% if page.nav[1] and page.nav[1] == child.id %}
             {% assign level2 = child %}
-            <li class="nav-active"><a href="{{ site.github.url | replace: 'http://', '//' }}/{{ child.url }}">{{ child.name }}</a></li>
+            <li class="nav-active"><a href="{{ site.url | replace: 'http://', '//' }}/{{ child.url }}">{{ child.name }}</a></li>
           {% else %}
-            <li><a href="{{ site.github.url | replace: 'http://', '//' }}/{{ child.url }}">{{ child.name }}</a></li>
+            <li><a href="{{ site.url | replace: 'http://', '//' }}/{{ child.url }}">{{ child.name }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
@@ -83,7 +83,7 @@
     <div class="container">
       <ul>
         {% for child in level2.children %}
-          <li><a href="{{ site.github.url | replace: 'http://', '//' }}/{{ child.url }}">{{ child.name }}</a></li>
+          <li><a href="{{ site.url | replace: 'http://', '//' }}/{{ child.url }}">{{ child.name }}</a></li>
         {% endfor %}
       </ul>
     </div>
